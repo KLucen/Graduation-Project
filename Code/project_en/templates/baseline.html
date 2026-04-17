@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Graph - Baseline Methods</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="/baseline" class="nav-brand">Knowledge Graph Viz</a>
+        <ul class="nav-menu">
+            <li><a href="/baseline" class="active">Baseline</a></li>
+            <li><a href="/cognitive">Cognitive Graph</a></li>
+            <li><a href="/community">Community Analysis</a></li>
+            <li><a href="/rag">RAG QA</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main class="main-content">
+    <h1 class="page-title">Baseline Methods Graph</h1>
+    <div class="controls">
+        <div class="control-group">
+            <label for="label-select">Label:</label>
+            <select id="label-select">
+                <option value="all">All</option>
+                <option value="Entity_Baseline">Entity_Baseline</option>
+                <option value="Entity_ZeroShot">Entity_ZeroShot</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label for="topic-select-baseline">Topic:</label>
+            <select id="topic-select-baseline">
+                <option value="all">All Topics</option>
+            </select>
+        </div>
+        <button id="load-baseline" class="btn">Load Graph</button>
+    </div>
+    <div id="baseline-network" class="network expanded"></div>
+</main>
+
+<div class="legend-container">
+    <div class="legend-title">Legend</div>
+    <div class="legend-items" id="legend-items"></div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        loadBaselineGraph();
+    });
+</script>
+</body>
+</html>

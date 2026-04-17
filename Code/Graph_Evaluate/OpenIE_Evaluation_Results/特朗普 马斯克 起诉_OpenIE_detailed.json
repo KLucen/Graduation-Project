@@ -1,0 +1,52 @@
+[
+  {
+    "question": "马斯克为何对美国国际开发署发起调查？",
+    "context": "用户查询：马斯克为何对美国国际开发署发起调查？\n\n相关认知图谱信息：\n概念节点：\n  - 马斯克搞\n  - 地震\n  - 马斯克?\n  - 特朗普\n  - 到时马斯克\n  - 算\n  - 特朗普马斯克\n  - 暑\n  - 那马斯克\n  - 我\n  - 惊爆马斯克\n  - 遗言\n  - 马斯克\n  - 部长\n  - 局势\n  - 结束\n  - 麻烦\n  - 回应\n  - 大选\n  - 资金\n  - 好感\n  - 团队\n  - 政策\n  - 会\n  - 规则\n  - 支持\n  - 策略\n  - 储\n  - 财富\n  - 钱\n  - 钉子\n  - 马斯克\n  - 人\n  - 同意\n  - 丑闻\n  - 机构\n  - 采访\n  - 改革\n  - 推特\n  - 唯\n  - 腐败\n  - 蛋糕\n  - 团队\n  - 屋\n  - 部\n  - 饭碗\n  - 政府\n  - 遗嘱\n  - 可图\n  - 公众\n  - 指责\n  - ai唉\n  - 华盛顿\n  - 伙子\n\n概念间关系：\n  - 马斯克搞 -[RELATION_OPENIE]-> 地震\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克?\n  - 到时马斯克 -[RELATION_OPENIE]-> 算\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 暑\n  - 那马斯克 -[RELATION_OPENIE]-> 我\n  - 惊爆马斯克 -[RELATION_OPENIE]-> 遗言\n  - 马斯克 -[RELATION_OPENIE]-> 部长\n  - 局势 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 结束\n  - 马斯克 -[RELATION_OPENIE]-> 麻烦\n  - 马斯克 -[RELATION_OPENIE]-> 回应\n  - 马斯克 -[RELATION_OPENIE]-> 大选\n  - 马斯克 -[RELATION_OPENIE]-> 资金\n  - 马斯克 -[RELATION_OPENIE]-> 好感\n  - 马斯克 -[RELATION_OPENIE]-> 部长\n  - 团队 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 政策\n  - 马斯克 -[RELATION_OPENIE]-> 会\n  - 马斯克 -[RELATION_OPENIE]-> 规则\n  - 马斯克 -[RELATION_OPENIE]-> 支持\n  - 马斯克 -[RELATION_OPENIE]-> 好感\n  - 马斯克 -[RELATION_OPENIE]-> 部长\n  - 马斯克 -[RELATION_OPENIE]-> 策略\n  - 马斯克 -[RELATION_OPENIE]-> 部长\n  - 马斯克 -[RELATION_OPENIE]-> 储\n  - 马斯克 -[RELATION_OPENIE]-> 财富\n  - 马斯克 -[RELATION_OPENIE]-> 钱\n  - 马斯克 -[RELATION_OPENIE]-> 钉子\n  - 马斯克 -[RELATION_OPENIE]-> 人\n  - 马斯克 -[RELATION_OPENIE]-> 同意\n  - 马斯克 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 丑闻\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 机构\n  - 马斯克 -[RELATION_OPENIE]-> 采访\n  - 马斯克 -[RELATION_OPENIE]-> 改革\n  - 马斯克 -[RELATION_OPENIE]-> 推特\n  - 马斯克 -[RELATION_OPENIE]-> 唯\n  - 马斯克 -[RELATION_OPENIE]-> 腐败\n  - 马斯克 -[RELATION_OPENIE]-> 蛋糕\n  - 马斯克 -[RELATION_OPENIE]-> 丑闻\n  - 马斯克 -[RELATION_OPENIE]-> 团队\n  - 马斯克 -[RELATION_OPENIE]-> 屋\n  - 马斯克 -[RELATION_OPENIE]-> 部\n  - 马斯克 -[RELATION_OPENIE]-> 饭碗\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 政府\n  - 马斯克 -[RELATION_OPENIE]-> 遗嘱\n  - 马斯克 -[RELATION_OPENIE]-> 可图\n  - 马斯克 -[RELATION_OPENIE]-> 公众\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克\n  - 马斯克 -[RELATION_OPENIE]-> 指责\n  - 马斯克 -[RELATION_OPENIE]-> ai唉\n  - 马斯克 -[RELATION_OPENIE]-> 华盛顿\n  - 马斯克 -[RELATION_OPENIE]-> 伙子",
+    "answer": "根据您提供的认知图谱信息，我无法回答“马斯克为何对美国国际开发署发起调查？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：在您提供的图谱中，**没有出现“美国国际开发署”这一概念节点**，也没有任何与“调查”这一行为直接相关的明确关系。图谱中虽然多次出现“马斯克”节点，并关联到“机构”、“政府”、“腐败”、“丑闻”、“资金”等节点，但这些关系（如“马斯克 -[RELATION_OPENIE]-> 机构”）过于宽泛和模糊，没有指明具体的机构名称或“调查”这一具体行动。\n\n2.  **推断部分**：基于现有信息，我无法进行任何合理的推断来构建答案。图谱中的关系链（例如：马斯克 -> 机构 -> 腐败）缺乏具体内容支撑，无法确定这个“机构”是否就是美国国际开发署，也无法确定“腐败”等概念与“发起调查”的动机之间存在直接、可信的因果联系。\n\n**结论**：该认知图谱中**没有任何与您的问题直接相关的信息**。因此，根据规则，我无法根据所提供的图谱内容回答马斯克调查美国国际开发署的原因。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6959139704704285,
+    "context_relevance": 0.7214903831481934,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "特朗普与马斯克联手进行的“政府效率部”改革主要针对哪些问题？",
+    "context": "用户查询：特朗普与马斯克联手进行的“政府效率部”改革主要针对哪些问题？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普马斯克\n  - 暑\n  - 特朗普马斯克\n  - 国\n  - 人\n  - 马斯克赔特朗普\n  - 纠纷\n  - 马斯克:\n  - 员\n  - 马斯克赔特朗\n  - 金\n  - 马斯克赔\n  - 封号\n  - 称马斯克\n  - 大折扣\n  - 特朗普提\n  - 普京\n\n概念间关系：\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 暑\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 国\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 人\n  - 马斯克赔特朗普 -[RELATION_OPENIE]-> 纠纷\n  - 员 -[RELATION_OPENIE]-> 马斯克:\n  - 马斯克赔特朗 -[RELATION_OPENIE]-> 金\n  - 马斯克赔 -[RELATION_OPENIE]-> 封号\n  - 称马斯克 -[RELATION_OPENIE]-> 大折扣\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提",
+    "answer": "根据提供的认知图谱信息，图谱中**没有任何内容**直接涉及“特朗普与马斯克联手进行的‘政府效率部’改革”或该改革所针对的问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中出现的相关概念节点（如“特朗普马斯克”、“马斯克赔特朗普”）和关系（如“-纠纷”、“-封号”、“-大折扣”），主要暗示了特朗普与马斯克之间可能存在财务纠纷、社交媒体账号（封号）以及某种商业折扣方面的关联。这些信息与“政府效率部改革”这一主题**没有直接关联**。\n\n2.  **推断**：由于图谱信息完全未提及“政府效率部”或任何政府改革、效率提升等相关概念，因此无法从现有信息中推断出该改革主要针对哪些问题。\n\n**结论**：图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6606740951538086,
+    "context_relevance": 0.7727713584899902,
+    "multi_hop_score": 1.0,
+    "community_score": 0.42857142857142855
+  },
+  {
+    "question": "公众对马斯克揭露政府腐败的行为有何反应？",
+    "context": "用户查询：公众对马斯克揭露政府腐败的行为有何反应？\n\n相关认知图谱信息：\n概念节点：\n  - 腐败\n  - 马斯克\n  - 腐败\n  - 总统\n  - 反腐\n  - 国乒\n  - 特朗普马斯克\n  - 暑\n  - 民众\n  - 物价\n  - 民众\n  - 油井\n  - 媒体\n  - 抗议\n  - 民众\n  - 暴行\n  - 问题\n  - 川普\n  - 标语\n  - 身上\n  - 民众\n  - 成果\n  - 林剑指出,\n\n概念间关系：\n  - 马斯克 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 暑\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 油井 -[RELATION_OPENIE]-> 民众\n  - 民众 -[RELATION_OPENIE]-> 媒体\n  - 民众 -[RELATION_OPENIE]-> 抗议\n  - 民众 -[RELATION_OPENIE]-> 抗议\n  - 民众 -[RELATION_OPENIE]-> 暴行\n  - 民众 -[RELATION_OPENIE]-> 问题\n  - 川普 -[RELATION_OPENIE]-> 民众\n  - 民众 -[RELATION_OPENIE]-> 标语\n  - 民众 -[RELATION_OPENIE]-> 身上\n  - 成果 -[RELATION_OPENIE]-> 民众\n  - 林剑指出, -[RELATION_OPENIE]-> 民众",
+    "answer": "根据您提供的认知图谱信息，我将按照规则进行分析和回答。\n\n**1. 提取与上下文直接相关的信息：**\n图谱中直接包含以下相关信息：\n*   存在“马斯克”和“腐败”两个概念节点。\n*   存在一条从“马斯克”指向“腐败”的关系（`马斯克 -[RELATION_OPENIE]-> 腐败`）。\n*   存在“民众”概念节点。\n*   存在多条从“民众”出发的关系，指向“媒体”、“抗议”、“标语”等概念节点（例如：`民众 -[RELATION_OPENIE]-> 媒体`， `民众 -[RELATION_OPENIE]-> 抗议`， `民众 -[RELATION_OPENIE]-> 标语`）。\n\n**2. 进行合理的推断：**\n基于以上直接信息，可以进行如下推断：\n*   图谱表明“马斯克”与“腐败”概念相关，这**可能**对应了用户查询中“马斯克揭露政府腐败的行为”这一背景。\n*   图谱中“民众”与“媒体”、“抗议”、“标语”等概念相关，这**可能**反映了民众通过媒体表达、发起抗议活动、使用标语等方式做出反应。\n*   然而，图谱中**没有**直接显示“民众”对“马斯克揭露腐败”这一具体行为有任何反应关系。现有的“民众”相关关系是孤立的，并未与“马斯克”或“马斯克-腐败”这一关联产生直接连接。\n\n**3. 整合答案：**\n*   **来自上下文的信息**：图谱信息显示，“马斯克”与“腐败”概念相关；同时，“民众”概念与“媒体”、“抗议”、“标语”等表示反应形式的概念相关。\n*   **推断部分**：虽然图谱暗示了马斯克涉及腐败话题，以及民众可能采取多种表达形式，但**图谱中没有任何直接关系或信息表明“公众”（即“民众”）对“马斯克揭露政府腐败的行为”做出了何种具体反应**。民众的相关行动并未与马斯克的行为建立关联。\n\n**结论**：根据所提供的认知图谱，**无法确定公众对马斯克揭露政府腐败的行为有何反应**。图谱中缺乏将“民众”的反应与“马斯克揭露腐败”这一具体行为联系起来的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.5961451530456543,
+    "context_relevance": 0.731869637966156,
+    "multi_hop_score": 1.0,
+    "community_score": 0.25
+  },
+  {
+    "question": "特朗普签署行政令成立政府效率部引发了哪些法律诉讼？",
+    "context": "用户查询：特朗普签署行政令成立政府效率部引发了哪些法律诉讼？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普提\n  - 普京\n  - 施压特朗普\n  - 商人\n  - 为特朗普\n  - 对比\n  - 特朗普想\n  - 后兵\n  - 特朗普促\n  - 乌克兰\n  - 特朗普挑\n  - 中国\n  - 法案\n  - 图源\n  - 法案\n  - 法院\n\n概念间关系：\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普促 -[RELATION_OPENIE]-> 乌克兰\n  - 特朗普挑 -[RELATION_OPENIE]-> 中国\n  - 图源 -[RELATION_OPENIE]-> 法案\n  - 法院 -[RELATION_OPENIE]-> 法案",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普签署行政令成立政府效率部”这一事件直接相关的概念节点或关系。\n\n**分析过程：**\n1.  **提取相关信息**：图谱中的概念节点包括“特朗普提”、“法案”、“法院”等，关系包括“法院 -[RELATION_OPENIE]-> 法案”。这些信息表明图谱中包含了与“特朗普”、“法案”和“法院”相关的概念，并暗示了“法院”与“法案”之间存在某种关系。\n2.  **进行合理推断**：虽然图谱中存在“法院”和“法案”的关联，但没有任何节点或关系指向“政府效率部”、“行政令”或“签署”等与用户查询直接相关的核心要素。因此，无法从现有信息中推断出任何关于“成立政府效率部引发的法律诉讼”的具体内容。\n3.  **整合答案**：由于图谱信息完全缺失与查询事件直接相关的核心内容，因此无法根据提供的图谱回答该问题。\n\n**结论**：\n图谱中没有与“特朗普签署行政令成立政府效率部”相关的信息，因此无法回答该行政令引发了哪些法律诉讼。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6194843053817749,
+    "context_relevance": 0.7959349155426025,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "马斯克调查克林顿家族贪腐的传闻是否属实？",
+    "context": "用户查询：马斯克调查克林顿家族贪腐的传闻是否属实？\n\n相关认知图谱信息：\n概念节点：\n  - 马斯克?\n  - 特朗普\n  - 美媒:马斯克\n  - 特朗普\n  - 马斯克搞\n  - 地震\n  - 马斯克赔\n  - 封号\n  - 马斯克:\n  - 员\n  - 马斯克到\n  - 时候\n  - 称马斯克\n  - 大折扣\n  - 马斯克断\n  - 师\n\n概念间关系：\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克?\n  - 美媒:马斯克 -[RELATION_OPENIE]-> 特朗普\n  - 马斯克搞 -[RELATION_OPENIE]-> 地震\n  - 马斯克赔 -[RELATION_OPENIE]-> 封号\n  - 员 -[RELATION_OPENIE]-> 马斯克:\n  - 马斯克到 -[RELATION_OPENIE]-> 时候\n  - 称马斯克 -[RELATION_OPENIE]-> 大折扣\n  - 师 -[RELATION_OPENIE]-> 马斯克断",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“马斯克调查克林顿家族贪腐”这一传闻直接或间接相关的概念节点或关系。\n\n**来自上下文的信息：**\n图谱中提及的概念节点（如“马斯克?”、“特朗普”、“地震”、“封号”等）及其关系，均不涉及“克林顿家族”或“贪腐调查”相关内容。\n\n**推断：**\n由于图谱中缺乏相关信息，我无法根据提供的认知图谱对该传闻的真实性做出任何判断。\n\n**整合答案：**\n图谱中没有关于“马斯克调查克林顿家族贪腐”传闻的任何相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7034701108932495,
+    "context_relevance": 0.7564041018486023,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

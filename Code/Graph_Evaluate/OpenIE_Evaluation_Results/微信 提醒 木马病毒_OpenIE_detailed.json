@@ -1,0 +1,52 @@
+[
+  {
+    "question": "微信安全中心发布了哪些关于木马病毒的紧急提醒？",
+    "context": "用户查询：微信安全中心发布了哪些关于木马病毒的紧急提醒？\n\n相关认知图谱信息：\n概念节点：\n  - 提醒\n  - 群\n  - 提醒\n  - 日\n  - 提醒\n  - 疾控\n  - 中心\n  - 用户\n  - 提醒\n  - 市场\n  - 提示\n  - 明学\n  - 提示\n  - 病毒\n  - 率\n  - 警告\n  - 长\n  - 警告\n  - 局\n\n概念间关系：\n  - 群 -[RELATION_OPENIE]-> 提醒\n  - 日 -[RELATION_OPENIE]-> 提醒\n  - 疾控 -[RELATION_OPENIE]-> 提醒\n  - 中心 -[RELATION_OPENIE]-> 提醒\n  - 用户 -[RELATION_OPENIE]-> 提醒\n  - 市场 -[RELATION_OPENIE]-> 提醒\n  - 明学 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 中心 -[RELATION_OPENIE]-> 提示\n  - 病毒 -[RELATION_OPENIE]-> 提示\n  - 率 -[RELATION_OPENIE]-> 提示\n  - 长 -[RELATION_OPENIE]-> 警告\n  - 局 -[RELATION_OPENIE]-> 警告",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**直接包含“微信安全中心”这一概念节点，也没有关于“木马病毒”的具体提醒内容。\n\n**来自上下文的信息：**\n图谱中只包含了一些孤立的概念节点（如“提醒”、“病毒”、“警告”、“中心”等）和它们之间的一般性关系（例如“中心”与“提示”相关，“病毒”与“提示”相关）。这些信息过于零散和通用，无法构成任何关于“微信安全中心发布了哪些关于木马病毒的紧急提醒”的具体答案。\n\n**推断：**\n基于图谱信息的现状，我无法推断出微信安全中心具体发布了什么内容。图谱中缺乏与“微信”和“木马病毒”直接关联的、有具体描述的信息。\n\n**整合答案：**\n图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7315829396247864,
+    "context_relevance": 0.814300000667572,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "不法分子通过什么方式利用微信传播木马病毒？",
+    "context": "用户查询：不法分子通过什么方式利用微信传播木马病毒？\n\n相关认知图谱信息：\n概念节点：\n  - 微信\n  - 制裁\n  - 微信\n  - 他\n  - 微信\n  - 好友\n  - 日\n  - 传播\n  - 诈骗\n  - 病毒\n  - 变异\n  - 病毒\n  - 信息\n  - 他\n  - 病毒\n  - 分子\n  - 3G\n  - 病毒\n  - 首位\n  - 甲\n  - 率\n  - 者\n  - 诺如\n  - 周\n  - 酒\n  - 10.8%\n  - 中心\n  - 水平\n  - 体\n  - 代表\n  - 直接\n  - 地区\n  - 趋势\n  - 例\n  - 场\n  - 症状\n  - 提示\n\n概念间关系：\n  - 微信 -[RELATION_OPENIE]-> 制裁\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 微信 -[RELATION_OPENIE]-> 好友\n  - 微信 -[RELATION_OPENIE]-> 日\n  - 微信 -[RELATION_OPENIE]-> 传播\n  - 诈骗 -[RELATION_OPENIE]-> 诈骗\n  - 病毒 -[RELATION_OPENIE]-> 变异\n  - 病毒 -[RELATION_OPENIE]-> 信息\n  - 他 -[RELATION_OPENIE]-> 病毒\n  - 分子 -[RELATION_OPENIE]-> 病毒\n  - 3G -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 率 -[RELATION_OPENIE]-> 病毒\n  - 者 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 诺如\n  - 周 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 酒\n  - 病毒 -[RELATION_OPENIE]-> 10.8%\n  - 病毒 -[RELATION_OPENIE]-> 中心\n  - 病毒 -[RELATION_OPENIE]-> 酒\n  - 病毒 -[RELATION_OPENIE]-> 水平\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 病毒 -[RELATION_OPENIE]-> 代表\n  - 病毒 -[RELATION_OPENIE]-> 直接\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 地区 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 例\n  - 场 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 例\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 水平\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 症状\n  - 病毒 -[RELATION_OPENIE]-> 提示",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**与“不法分子通过什么方式利用微信传播木马病毒”这一问题直接相关的内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中存在“微信”与“传播”这两个概念节点，并且存在一条“微信 -[RELATION_OPENIE]-> 传播”的关系。这表明图谱中记录了“微信”与“传播”行为之间存在某种关联。\n    *   图谱中存在“病毒”这一概念节点，并与“信息”、“分子”等节点存在关系。\n\n2.  **推断与整合**：\n    *   虽然图谱提到了“微信”和“传播”，以及“病毒”，但所有与“病毒”相关的关系（如“变异”、“诺如”、“甲”、“症状”、“首位”等）在上下文中均指向**生物学意义上的病毒**（如流感病毒、诺如病毒），而非计算机领域的“木马病毒”。\n    *   图谱中完全没有出现“木马”、“不法分子”、“利用方式”（如链接、文件、二维码等）等关键概念或关系。因此，无法从当前图谱中推断出任何关于利用微信传播计算机木马病毒的具体方式。\n\n**结论**：\n图谱中没有关于“不法分子通过什么方式利用微信传播木马病毒”的相关信息。现有信息讨论的是生物病毒的传播，与用户查询的网络安全问题无关。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7052058577537537,
+    "context_relevance": 0.7527524828910828,
+    "multi_hop_score": 1.0,
+    "community_score": 0.6666666666666666
+  },
+  {
+    "question": "用户感染木马病毒后可能面临哪些风险？",
+    "context": "用户查询：用户感染木马病毒后可能面临哪些风险？\n\n相关认知图谱信息：\n概念节点：\n  - 风险\n  - 特朗普\n  - 货物\n  - 风险\n  - 疫苗\n  - 人群\n  - 风险\n  - 用户\n  - 风险\n  - 拜登\n  - NO\n  - 风险\n  - 中国\n  - 风险\n  - 发改委\n  - 补贴\n  - 风险\n  - 美国\n  - 这\n  - 特朗普\n  - 政策\n  - 理由\n  - 风险\n  - 拉升\n  - 地方\n\n概念间关系：\n  - 特朗普 -[RELATION_OPENIE]-> 风险\n  - 货物 -[RELATION_OPENIE]-> 风险\n  - 疫苗 -[RELATION_OPENIE]-> 风险\n  - 人群 -[RELATION_OPENIE]-> 风险\n  - 用户 -[RELATION_OPENIE]-> 风险\n  - 用户 -[RELATION_OPENIE]-> 风险\n  - 用户 -[RELATION_OPENIE]-> 风险\n  - 用户 -[RELATION_OPENIE]-> 风险\n  - 拜登 -[RELATION_OPENIE]-> 风险\n  - NO -[RELATION_OPENIE]-> 风险\n  - 中国 -[RELATION_OPENIE]-> 风险\n  - 发改委 -[RELATION_OPENIE]-> 风险\n  - 风险 -[RELATION_OPENIE]-> 补贴\n  - 风险 -[RELATION_OPENIE]-> 补贴\n  - 美国 -[RELATION_OPENIE]-> 风险\n  - 这 -[RELATION_OPENIE]-> 风险\n  - 美国 -[RELATION_OPENIE]-> 风险\n  - 特朗普 -[RELATION_OPENIE]-> 风险\n  - 美国 -[RELATION_OPENIE]-> 风险\n  - 政策 -[RELATION_OPENIE]-> 风险\n  - 理由 -[RELATION_OPENIE]-> 风险\n  - 拉升 -[RELATION_OPENIE]-> 风险\n  - 风险 -[RELATION_OPENIE]-> 地方\n  - 拉升 -[RELATION_OPENIE]-> 风险",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**与“用户感染木马病毒后可能面临哪些风险”这一问题直接相关的任何内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中虽然存在“用户”和“风险”这两个概念节点，并且存在多条“用户 -[RELATION_OPENIE]-> 风险”的关系，但这些关系是孤立的、未定义的。图谱中完全没有提及“木马病毒”、“感染”、“计算机安全”或任何相关的具体风险类型（如数据泄露、系统控制等）。其他节点（如特朗普、拜登、货物、疫苗、发改委等）与当前查询的主题完全无关。\n\n2.  **推断**：由于图谱中缺乏与查询主题相关的任何具体信息，我无法基于此图谱进行任何合理的推断来回答用户关于木马病毒风险的问题。\n\n**结论**：该认知图谱中没有包含与“木马病毒感染风险”相关的信息，因此无法根据此图谱回答您的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7347304224967957,
+    "context_relevance": 0.7607746124267578,
+    "multi_hop_score": 1.0,
+    "community_score": 1.0
+  },
+  {
+    "question": "如何防范通过微信传播的木马病毒？",
+    "context": "用户查询：如何防范通过微信传播的木马病毒？\n\n相关认知图谱信息：\n概念节点：\n  - 微信\n  - 制裁\n  - 微信\n  - 他\n  - 微信\n  - 好友\n  - 日\n  - 传播\n  - 隐患\n  - 飙升\n  - 隐患\n  - 谈判\n  - 防控\n  - 学者\n  - 病毒\n  - 分子\n  - 3G\n  - 病毒\n  - 首位\n  - 甲\n  - 率\n  - 者\n  - 诺如\n  - 周\n  - 酒\n  - 10.8%\n  - 中心\n  - 水平\n  - 体\n  - 代表\n  - 直接\n  - 地区\n  - 趋势\n  - 例\n  - 场\n  - 症状\n  - 提示\n\n概念间关系：\n  - 微信 -[RELATION_OPENIE]-> 制裁\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 他 -[RELATION_OPENIE]-> 微信\n  - 微信 -[RELATION_OPENIE]-> 好友\n  - 微信 -[RELATION_OPENIE]-> 日\n  - 微信 -[RELATION_OPENIE]-> 传播\n  - 飙升 -[RELATION_OPENIE]-> 隐患\n  - 谈判 -[RELATION_OPENIE]-> 隐患\n  - 学者 -[RELATION_OPENIE]-> 防控\n  - 分子 -[RELATION_OPENIE]-> 病毒\n  - 3G -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 率 -[RELATION_OPENIE]-> 病毒\n  - 者 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 诺如\n  - 周 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 酒\n  - 病毒 -[RELATION_OPENIE]-> 10.8%\n  - 病毒 -[RELATION_OPENIE]-> 中心\n  - 病毒 -[RELATION_OPENIE]-> 酒\n  - 病毒 -[RELATION_OPENIE]-> 水平\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 病毒 -[RELATION_OPENIE]-> 代表\n  - 病毒 -[RELATION_OPENIE]-> 直接\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 地区 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 例\n  - 场 -[RELATION_OPENIE]-> 病毒\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 例\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 水平\n  - 病毒 -[RELATION_OPENIE]-> 首位\n  - 病毒 -[RELATION_OPENIE]-> 趋势\n  - 病毒 -[RELATION_OPENIE]-> 体\n  - 病毒 -[RELATION_OPENIE]-> 甲\n  - 病毒 -[RELATION_OPENIE]-> 症状\n  - 病毒 -[RELATION_OPENIE]-> 提示",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“如何防范通过微信传播的木马病毒”这一查询直接相关的内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中提到了“微信”与“传播”之间存在关系（`微信 -[RELATION_OPENIE]-> 传播`）。\n    *   图谱中多次提到了“病毒”这个概念，并与“传播”、“防控”、“隐患”等概念存在关系（例如：`微信 -[RELATION_OPENIE]-> 传播`，`学者 -[RELATION_OPENIE]-> 防控`，`飙升 -[RELATION_OPENIE]-> 隐患`）。\n\n2.  **推断**：\n    *   基于“微信”与“传播”的关系，以及“病毒”与“传播”、“防控”等概念的共存，可以推断图谱的原始上下文可能涉及某种通过微信传播的病毒或风险。\n    *   然而，图谱中所有与“病毒”关联的具体信息（如“甲”、“诺如”、“首位”、“10.8%”、“酒”、“症状”等）均指向**生物学意义上的病毒**（如流感病毒、诺如病毒等），属于公共卫生或医学领域，与用户询问的计算机安全领域的“木马病毒”**完全无关**。\n    *   图谱中**没有**出现“木马”、“防范”、“安全”、“链接”、“文件”、“下载”等与计算机病毒防护相关的任何概念或关系。\n\n**结论**：\n图谱信息讨论的是通过微信传播的**生物病毒**（可能是流感或诺如病毒等）及其相关的发病率、症状、防控等，与用户询问的“木马病毒”这一**计算机恶意程序**的防范措施**无任何关联**。因此，**图谱中没有关于如何防范通过微信传播的木马病毒的相关信息**。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7508492469787598,
+    "context_relevance": 0.7426921725273132,
+    "multi_hop_score": 1.0,
+    "community_score": 0.5
+  },
+  {
+    "question": "公众对微信安全漏洞的主要担忧是什么？",
+    "context": "用户查询：公众对微信安全漏洞的主要担忧是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 担忧\n  - 言论\n  - 担忧\n  - 外界\n  - 卢比奥\n  - 担忧\n  - 官员\n  - 担忧\n  - 言论\n  - 总统\n  - 担忧\n  - 特朗普\n  - 担忧\n  - 言论\n  - 原因\n  - 背后\n  - 政策\n  - 担忧\n  - 方面\n  - 变化\n  - 事件\n  - 担忧\n  - 心声\n\n概念间关系：\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 外界 -[RELATION_OPENIE]-> 担忧\n  - 卢比奥 -[RELATION_OPENIE]-> 担忧\n  - 官员 -[RELATION_OPENIE]-> 担忧\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 总统 -[RELATION_OPENIE]-> 担忧\n  - 特朗普 -[RELATION_OPENIE]-> 担忧\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 原因 -[RELATION_OPENIE]-> 担忧\n  - 背后 -[RELATION_OPENIE]-> 担忧\n  - 政策 -[RELATION_OPENIE]-> 担忧\n  - 方面 -[RELATION_OPENIE]-> 担忧\n  - 变化 -[RELATION_OPENIE]-> 担忧\n  - 事件 -[RELATION_OPENIE]-> 担忧\n  - 担忧 -[RELATION_OPENIE]-> 心声",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“公众对微信安全漏洞的主要担忧是什么？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：您提供的图谱信息中，所有与“担忧”相关的概念节点（如言论、外界、卢比奥、官员、总统、特朗普、政策、变化、事件等）以及它们之间的关系，均**没有提及“微信”、“安全漏洞”或“公众”**。图谱中描述的“担忧”主体是特定的政治人物（如特朗普、卢比奥）、群体（如官员、外界）或抽象事物（如政策、变化、事件），与“公众对微信安全漏洞的担忧”这一具体查询无关。\n\n2.  **推断**：由于图谱中缺乏与查询直接相关的任何信息，我无法进行任何合理的推断来构建答案。任何关于微信安全漏洞具体内容的猜测都将超出图谱所提供信息的范围。\n\n**结论**：图谱中没有与“公众对微信安全漏洞的主要担忧”相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7972894906997681,
+    "context_relevance": 0.7970980405807495,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

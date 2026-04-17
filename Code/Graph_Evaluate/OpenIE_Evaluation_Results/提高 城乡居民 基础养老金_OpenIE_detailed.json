@@ -1,0 +1,42 @@
+[
+  {
+    "question": "2025年城乡居民基础养老金最低标准提高了多少？",
+    "context": "用户查询：2025年城乡居民基础养老金最低标准提高了多少？\n\n相关认知图谱信息：\n概念节点：\n  - 养老金\n  - 金\n  - 热浪\n  - 会\n  - 多少\n  - 消息\n  - 面\n  - 养老金\n  - 来源\n  - 上涨\n  - 时光\n  - 金\n  - 部\n  - 国家\n  - 关注\n  - 养老金民银\n  - 2025.\n  - 美国\n  - 2025.\n  - 宣誓\n  - 2025.0\n  - 大火\n  - 2025\n  - 总统\n  - 2025\n  - 碧海澄\n\n概念间关系：\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 热浪 -[RELATION_OPENIE]-> 养老金\n  - 会 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 多少\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 面\n  - 养老金 -[RELATION_OPENIE]-> 来源\n  - 养老金 -[RELATION_OPENIE]-> 上涨\n  - 养老金 -[RELATION_OPENIE]-> 时光\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 部 -[RELATION_OPENIE]-> 养老金\n  - 金 -[RELATION_OPENIE]-> 养老金\n  - 国家 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 关注\n  - 养老金民银 -[RELATION_OPENIE]-> 会\n  - 美国 -[RELATION_OPENIE]-> 2025.\n  - 2025. -[RELATION_OPENIE]-> 宣誓\n  - 大火 -[RELATION_OPENIE]-> 2025.0\n  - 总统 -[RELATION_OPENIE]-> 2025\n  - 碧海澄 -[RELATION_OPENIE]-> 2025",
+    "answer": "根据您提供的认知图谱信息，我无法回答“2025年城乡居民基础养老金最低标准提高了多少”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“养老金”、“2025”、“上涨”等概念节点，并且存在“养老金 -[RELATION_OPENIE]-> 上涨”这样的关系，表明养老金和上涨有关联。但是，图谱中**没有任何节点或关系**明确指出这是关于“城乡居民基础养老金最低标准”的调整，也**没有任何节点或关系**包含具体的提高金额或比例数值。\n\n2.  **推断部分**：基于图谱中“养老金”与“上涨”的关联，以及“2025”这个时间节点的存在，可以推断图谱可能涉及2025年养老金有某种上涨的消息。然而，由于缺乏“城乡居民”、“基础养老金”、“最低标准”以及具体数额等关键信息，这个推断无法与用户的具体问题相匹配。\n\n**结论**：图谱中没有与“2025年城乡居民基础养老金最低标准提高具体数额”直接相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.78075110912323,
+    "context_relevance": 0.7901357412338257,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "提高养老金对促进消费有何作用？",
+    "context": "用户查询：提高养老金对促进消费有何作用？\n\n相关认知图谱信息：\n概念节点：\n  - 养老金\n  - 来源\n  - 上涨\n  - 时光\n  - 金\n  - 部\n  - 国家\n  - 关注\n  - 养老金\n  - 金\n  - 热浪\n  - 会\n  - 多少\n  - 消息\n  - 面\n  - 消费\n  - 体制\n  - 政策\n  - I ICCCG\n  - 消费\n  - 表现\n  - 消费\n  - 涨幅\n  - 养老,\n  - 来源\n  - 涨钱\n  - 标\n  - 养老金民银\n\n概念间关系：\n  - 养老金 -[RELATION_OPENIE]-> 来源\n  - 养老金 -[RELATION_OPENIE]-> 上涨\n  - 养老金 -[RELATION_OPENIE]-> 时光\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 部 -[RELATION_OPENIE]-> 养老金\n  - 金 -[RELATION_OPENIE]-> 养老金\n  - 国家 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 关注\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 热浪 -[RELATION_OPENIE]-> 养老金\n  - 会 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 多少\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 面\n  - 体制 -[RELATION_OPENIE]-> 消费\n  - 政策 -[RELATION_OPENIE]-> 消费\n  - 政策 -[RELATION_OPENIE]-> 消费\n  - I ICCCG -[RELATION_OPENIE]-> 消费\n  - 消费 -[RELATION_OPENIE]-> 表现\n  - 涨幅 -[RELATION_OPENIE]-> 消费\n  - 养老, -[RELATION_OPENIE]-> 来源\n  - 涨钱 -[RELATION_OPENIE]-> 标\n  - 养老金民银 -[RELATION_OPENIE]-> 会",
+    "answer": "根据您提供的认知图谱信息，我将按照规则进行分析和回答。\n\n**1. 提取与上下文直接相关的信息：**\n图谱中明确包含以下相关概念和关系：\n*   概念节点：`养老金`、`消费`、`上涨`/`涨钱`、`涨幅`、`政策`。\n*   概念间关系：\n    *   `养老金` 与 `上涨` 直接相关。\n    *   `政策` 与 `消费` 直接相关。\n    *   `涨幅` 与 `消费` 直接相关。\n\n**2. 进行合理的推断：**\n基于上述提取的信息，可以进行如下逻辑推断：\n*   由于“养老金”与“上涨”相关，且“政策”与“消费”相关，可以推断“养老金上涨”可能是一种“政策”。\n*   由于“涨幅”与“消费”相关，可以推断“养老金上涨的幅度”可能与“消费”的表现或变化存在关联。\n*   综合以上两点，可以进一步推断：作为一项政策，提高养老金（即养老金上涨）可能会对消费产生影响。\n\n**3. 整合答案并明确说明来源：**\n*   **来自上下文的信息**：图谱显示，“养老金”与“上涨”概念相关；“政策”与“消费”概念相关；“涨幅”与“消费”概念相关。\n*   **基于上下文的推断**：将以上信息点关联起来，可以推断出“提高养老金作为一种政策，其涨幅可能与消费表现存在联系”。这意味着，从图谱的逻辑结构看，提高养老金可能对消费有作用。\n\n**最终回答**：\n根据提供的认知图谱，其中直接显示了“养老金”与“上涨”相关，以及“政策”和“涨幅”分别与“消费”相关。基于这些关联，**可以推断**“提高养老金”这一政策行为（对应“养老金上涨”）可能与“消费”的变化（对应“消费”节点及其与“涨幅”的关系）存在联系。**但是，图谱中没有直接、明确地阐述“提高养老金对促进消费有何作用”的具体机制或结论**，例如是正向促进还是其他影响。因此，图谱信息仅支持两者存在关联的推断，但无法提供具体作用的答案。",
+    "faithfulness": 0.8,
+    "answer_relevance": 0.6625065207481384,
+    "context_relevance": 0.7699853777885437,
+    "multi_hop_score": 1.0,
+    "community_score": 0.4
+  },
+  {
+    "question": "民众对养老金调整的主要诉求是什么？",
+    "context": "用户查询：民众对养老金调整的主要诉求是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 养老金民银\n  - 会\n  - 养老金\n  - 金\n  - 热浪\n  - 多少\n  - 消息\n  - 面\n  - 养老金\n  - 来源\n  - 上涨\n  - 时光\n  - 金\n  - 部\n  - 国家\n  - 关注\n  - 民众\n  - 暴行\n  - 问题\n  - 川普\n  - 标语\n  - 身上\n  - 民众\n  - 油井\n  - 媒体\n  - 抗议\n  - 民众\n  - 物价\n  - 民众\n  - 国旗\n  - 民众\n  - 成果\n  - 林剑指出,\n\n概念间关系：\n  - 养老金民银 -[RELATION_OPENIE]-> 会\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 热浪 -[RELATION_OPENIE]-> 养老金\n  - 会 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 多少\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 面\n  - 养老金 -[RELATION_OPENIE]-> 来源\n  - 养老金 -[RELATION_OPENIE]-> 上涨\n  - 养老金 -[RELATION_OPENIE]-> 时光\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 部 -[RELATION_OPENIE]-> 养老金\n  - 金 -[RELATION_OPENIE]-> 养老金\n  - 国家 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 关注\n  - 民众 -[RELATION_OPENIE]-> 暴行\n  - 民众 -[RELATION_OPENIE]-> 问题\n  - 川普 -[RELATION_OPENIE]-> 民众\n  - 民众 -[RELATION_OPENIE]-> 标语\n  - 民众 -[RELATION_OPENIE]-> 身上\n  - 油井 -[RELATION_OPENIE]-> 民众\n  - 民众 -[RELATION_OPENIE]-> 媒体\n  - 民众 -[RELATION_OPENIE]-> 抗议\n  - 民众 -[RELATION_OPENIE]-> 抗议\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 物价\n  - 民众 -[RELATION_OPENIE]-> 国旗\n  - 成果 -[RELATION_OPENIE]-> 民众\n  - 林剑指出, -[RELATION_OPENIE]-> 民众",
+    "answer": "根据提供的认知图谱信息，图谱中**没有直接描述“民众对养老金调整的主要诉求”的相关内容**。\n\n**来自上下文的信息提取：**\n图谱中与“民众”和“养老金”相关的节点和关系如下：\n1.  **“养老金”** 节点与 **“上涨”** 节点存在关系。\n2.  **“民众”** 节点与 **“抗议”** 节点存在关系。\n3.  **“民众”** 节点与 **“物价”** 节点存在关系。\n\n**合理的推断：**\n基于以上提取的孤立信息点，可以进行如下逻辑串联和推断：\n1.  民众可能**关注**养老金的**上涨**情况（由“养老金-上涨”关系推断）。\n2.  民众可能因某些**问题**而进行**抗议**（由“民众-抗议”关系推断）。\n3.  民众的抗议可能与**物价**问题有关（由“民众-物价”关系推断）。\n4.  综合推断：民众可能因为**物价上涨**等问题，对**养老金调整（上涨幅度）** 存在诉求或不满，并可能因此采取**抗议**行动。\n\n**整合答案：**\n图谱中没有直接说明民众对养老金调整的具体诉求。根据图谱中存在的“养老金-上涨”、“民众-抗议”、“民众-物价”这几组关系，可以推断：**民众的诉求可能与希望养老金上涨以应对物价上涨的压力有关，且不满情绪可能导致了抗议行为。** 但需要明确，**“诉求与物价相关”及“因不满而抗议”是结合图谱中几个分散关系点进行的推断，并非图谱直接陈述的事实。**",
+    "faithfulness": 0.5,
+    "answer_relevance": 0.686614990234375,
+    "context_relevance": 0.7658663988113403,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "地方财政如何保障养老金上调的可持续性？",
+    "context": "用户查询：地方财政如何保障养老金上调的可持续性？\n\n相关认知图谱信息：\n概念节点：\n  - 养老金\n  - 金\n  - 热浪\n  - 会\n  - 多少\n  - 消息\n  - 面\n  - 养老金\n  - 来源\n  - 上涨\n  - 时光\n  - 金\n  - 部\n  - 国家\n  - 关注\n  - 上调\n  - 涨钱\n  - 标\n  - 养老金民银\n  - 财政\n  - 50%\n  - 养老\n  - 上涨\n  - 量\n  - 上涨\n  - 口\n  - 板块\n\n概念间关系：\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 热浪 -[RELATION_OPENIE]-> 养老金\n  - 会 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 多少\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 消息\n  - 养老金 -[RELATION_OPENIE]-> 面\n  - 养老金 -[RELATION_OPENIE]-> 来源\n  - 养老金 -[RELATION_OPENIE]-> 上涨\n  - 养老金 -[RELATION_OPENIE]-> 时光\n  - 养老金 -[RELATION_OPENIE]-> 金\n  - 部 -[RELATION_OPENIE]-> 养老金\n  - 金 -[RELATION_OPENIE]-> 养老金\n  - 国家 -[RELATION_OPENIE]-> 养老金\n  - 养老金 -[RELATION_OPENIE]-> 关注\n  - 金 -[RELATION_OPENIE]-> 上调\n  - 涨钱 -[RELATION_OPENIE]-> 标\n  - 养老金民银 -[RELATION_OPENIE]-> 会\n  - 财政 -[RELATION_OPENIE]-> 50%\n  - 财政 -[RELATION_OPENIE]-> 养老\n  - 量 -[RELATION_OPENIE]-> 上涨\n  - 上涨 -[RELATION_OPENIE]-> 口\n  - 板块 -[RELATION_OPENIE]-> 上涨",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“地方财政如何保障养老金上调的可持续性”这个问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息**：图谱中包含了“养老金”、“财政”、“上调”、“上涨”等与问题相关的概念节点，并且存在“财政 -[RELATION_OPENIE]-> 养老”这样的关系。这表明图谱信息确实涉及到了“财政”与“养老”这两个关键概念。\n\n2.  **推断与整合**：然而，图谱中所有关系均为未定义具体含义的 `[RELATION_OPENIE]`，且节点多为孤立词汇（如“金”、“热浪”、“会”、“多少”、“消息”、“面”等），缺乏有意义的上下文连接。例如，虽然存在“财政 -> 养老”的关系，但无法从中解读出任何关于“保障”、“可持续性”或“地方”层面的具体措施、机制或信息。其他节点和关系也呈现出类似的高度碎片化和语义模糊的特征，无法构成支持回答该问题的有效信息链。\n\n**结论**：\n图谱中虽然存在与问题领域相关的词汇，但信息的呈现方式高度碎片化且缺乏明确的语义关系。因此，**图谱中没有关于“地方财政如何保障养老金上调的可持续性”的具体、可直接利用的相关信息**。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7569541335105896,
+    "context_relevance": 0.7666326761245728,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  }
+]

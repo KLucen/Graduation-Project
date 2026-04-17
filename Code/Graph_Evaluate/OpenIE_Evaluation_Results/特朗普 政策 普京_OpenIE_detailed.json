@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普对俄罗斯的政策与拜登有何不同？",
+    "context": "用户查询：特朗普对俄罗斯的政策与拜登有何不同？\n\n相关认知图谱信息：\n概念节点：\n  - 拜登和特朗普\n  - 回\n  - 拜登给特朗普\n  - 摊子\n  - 拜登不太\n  - 决定\n  - 特朗普拜登\n  - 他\n  - 特朗普拜\n  - 锅\n  - 而特朗普\n  - 重组\n  - 拜登求特朗普\n  - 他\n  - 对特朗普\n  - 点\n\n概念间关系：\n  - 拜登和特朗普 -[RELATION_OPENIE]-> 回\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登不太 -[RELATION_OPENIE]-> 决定\n  - 他 -[RELATION_OPENIE]-> 特朗普拜登\n  - 特朗普拜 -[RELATION_OPENIE]-> 锅\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 拜登求特朗普 -[RELATION_OPENIE]-> 他\n  - 对特朗普 -[RELATION_OPENIE]-> 点",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接关于“特朗普和拜登对俄罗斯政策”的具体内容**。\n\n图谱中的概念节点和关系（例如“回”、“摊子”、“锅”、“重组”、“点”等）都是零散且语义模糊的词语片段，无法构成任何关于外交政策、国际关系或具体行政措施的连贯信息。这些信息与用户查询的主题没有直接关联。\n\n**结论**：图谱中没有相关信息可以用于回答特朗普与拜登在俄罗斯政策上有何不同的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6188047528266907,
+    "context_relevance": 0.7267634272575378,
+    "multi_hop_score": 1.0,
+    "community_score": 0.2857142857142857
+  },
+  {
+    "question": "特朗普与普京的通话主要讨论了哪些议题？",
+    "context": "用户查询：特朗普与普京的通话主要讨论了哪些议题？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普聊\n  - 莫迪带\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 川普谈\n  - 效率\n  - 跟特朗普\n  - 协议\n  - 从特朗普\n  - 时代\n  - 态度\n  - 对特朗普\n  - 点\n  - 啥听特朗普\n  - 警察\n\n概念间关系：\n  - 莫迪带 -[RELATION_OPENIE]-> 特朗普聊\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 川普谈 -[RELATION_OPENIE]-> 效率\n  - 跟特朗普 -[RELATION_OPENIE]-> 协议\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 警察 -[RELATION_OPENIE]-> 啥听特朗普",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普与普京的通话”或相关议题直接相关的概念节点或关系。\n\n**结论：**\n图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.600318193435669,
+    "context_relevance": 0.7484539151191711,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "特朗普威胁制裁俄罗斯对俄欧关系有何影响？",
+    "context": "用户查询：特朗普威胁制裁俄罗斯对俄欧关系有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 施压特朗普\n  - 商人\n  - 特朗普想\n  - 后兵\n  - 特朗普威\n  - 点\n  - 俄方\n  - 支持\n  - 后果特朗\n  - 他\n  - 特朗普捅\n  - 噩耗\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 朗普要\n  - 特朗普\n\n概念间关系：\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 俄方 -[RELATION_OPENIE]-> 支持\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普威胁制裁俄罗斯对俄欧关系有何影响”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息提取**：您提供的图谱信息中，概念节点和关系非常零散且语义模糊（例如“特朗普捅”、“粉条”、“后兵”等），没有形成关于“制裁俄罗斯”、“俄欧关系”或“影响”的清晰、连贯的信息。图谱中不存在与用户查询直接相关的有效内容。\n\n2.  **推断与整合**：由于图谱中缺乏相关的基础信息，我无法进行任何合理的推断来构建答案。\n\n**结论**：该认知图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7314615845680237,
+    "context_relevance": 0.7819700241088867,
+    "multi_hop_score": 1.0,
+    "community_score": 0.125
+  },
+  {
+    "question": "美国情报机构对特朗普“通俄”的指控是否属实？",
+    "context": "用户查询：美国情报机构对特朗普“通俄”的指控是否属实？\n\n相关认知图谱信息：\n概念节点：\n  - 报道,特朗普\n  - 之外,特朗普22\n  - 特朗普盯\n  - 运河\n  - 从特朗普\n  - 时代\n  - 态度\n  - 向特朗普\n  - 条件\n  - 对特朗普\n  - 点\n  - 特朗普:\n  - 记者\n  - 趁特朗普\n  - 边境\n  - 施压特朗普\n  - 商人\n\n概念间关系：\n  - 报道,特朗普 -[RELATION_OPENIE]-> 之外,特朗普22\n  - 特朗普盯 -[RELATION_OPENIE]-> 运河\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 向特朗普 -[RELATION_OPENIE]-> 条件\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 趁特朗普 -[RELATION_OPENIE]-> 边境\n  - 趁特朗普 -[RELATION_OPENIE]-> 边境\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何内容**直接涉及“美国情报机构对特朗普‘通俄’的指控”这一具体问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中的概念节点（如“报道”、“记者”、“商人”、“边境”、“时代”等）和关系（如“报道-之外”、“特朗普盯-运河”、“施压特朗普-商人”等）均未提及“情报机构”、“通俄”、“指控”或任何与之直接相关的调查、证据或结论。\n\n2.  **推断**：由于图谱信息完全缺失相关概念和关系，我无法基于此进行任何关于“通俄门”指控真实性的推断。\n\n**结论**：图谱中没有相关信息可以用于回答您关于“通俄”指控是否属实的问题。",
+    "faithfulness": 0.95,
+    "answer_relevance": 0.7022477388381958,
+    "context_relevance": 0.7398008704185486,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普的“美国优先”政策如何影响美俄在叙利亚的合作？",
+    "context": "用户查询：特朗普的“美国优先”政策如何影响美俄在叙利亚的合作？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普先\n  - 会晤\n  - 特朗普想\n  - 后兵\n  - 施压特朗普\n  - 商人\n  - 叙利亚\n  - 什么\n  - 事唉\n  - 叙利亚\n  - 法官\n  - 叙利亚\n  - 大戏\n  - 特朗普促\n  - 乌克兰\n  - 从特朗普\n  - 时代\n  - 态度\n\n概念间关系：\n  - 特朗普先 -[RELATION_OPENIE]-> 会晤\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 叙利亚 -[RELATION_OPENIE]-> 什么\n  - 叙利亚 -[RELATION_OPENIE]-> 事唉\n  - 法官 -[RELATION_OPENIE]-> 叙利亚\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 叙利亚 -[RELATION_OPENIE]-> 大戏\n  - 特朗普促 -[RELATION_OPENIE]-> 乌克兰\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有直接相关信息**可以回答“特朗普的‘美国优先’政策如何影响美俄在叙利亚的合作”这一问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中虽然多次出现“叙利亚”和“特朗普”相关的节点，但所有关系（如 `叙利亚 -[RELATION_OPENIE]-> 大戏`、`特朗普先 -[RELATION_OPENIE]-> 会晤`、`从特朗普 -[RELATION_OPENIE]-> 时代` 等）均未涉及“美国优先”政策，也未描述美俄在叙利亚的任何具体合作、互动或影响。节点名称（如“什么”、“事唉”、“大戏”、“后兵”等）和关系标签本身无法构成关于该政策影响的明确事实陈述。\n\n2.  **推断**：由于图谱中缺乏与问题直接相关的核心概念（“美国优先”）和关系（“影响”、“合作”），**无法进行任何基于所提供信息的合理推断**。强行从现有碎片化且语义不明的节点和关系中推导出答案，将完全脱离上下文依据。\n\n**结论**：该认知图谱中不包含回答此问题所需的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7491714954376221,
+    "context_relevance": 0.7628733515739441,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  }
+]

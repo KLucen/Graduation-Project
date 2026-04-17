@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>知识图谱可视化 - RAG问答</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="/baseline" class="nav-brand">知识图谱可视化</a>
+        <ul class="nav-menu">
+            <li><a href="/baseline">Baseline</a></li>
+            <li><a href="/cognitive">认知图谱</a></li>
+            <li><a href="/community">社区分析</a></li>
+            <li><a href="/rag" class="active">RAG问答</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main class="main-content">
+    <h1 class="page-title">RAG 问答系统</h1>
+    <div class="controls">
+        <div class="control-group" style="flex: 1;">
+            <label for="rag-question">问题：</label>
+            <input type="text" id="rag-question" placeholder="请输入您的问题" style="width: 500px;">
+        </div>
+        <button id="ask-rag" class="btn">提问</button>
+    </div>
+
+    <!-- 答案卡片 -->
+    <div id="rag-answer" class="collapsible-card" style="margin-bottom: 20px;">
+        <div class="card-header" onclick="toggleCard(this)">
+            <strong>📝 答案</strong>
+            <span class="toggle-icon">▼</span>
+        </div>
+        <div class="card-content" style="display: block;">
+            <!-- 答案内容动态填充 -->
+        </div>
+    </div>
+
+    <!-- 上下文卡片 -->
+    <div id="rag-context" class="collapsible-card">
+        <div class="card-header" onclick="toggleCard(this)">
+            <strong>📚 检索上下文</strong>
+            <span class="toggle-icon">▼</span>
+        </div>
+        <div class="card-content" style="display: block;">
+            <!-- 上下文内容动态填充 -->
+        </div>
+    </div>
+</main>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

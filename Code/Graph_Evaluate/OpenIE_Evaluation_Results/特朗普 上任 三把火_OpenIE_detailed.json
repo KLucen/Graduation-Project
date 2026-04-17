@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普上任后签署的首批行政令涉及哪些领域？",
+    "context": "用户查询：特朗普上任后签署的首批行政令涉及哪些领域？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普提\n  - 普京\n  - 特朗普提\n  - 计划\n  - 特朗普先\n  - 会晤\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 特朗普想\n  - 后兵\n  - 为特朗普\n  - 对比\n\n概念间关系：\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 特朗普先 -[RELATION_OPENIE]-> 会晤\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 为特朗普 -[RELATION_OPENIE]-> 对比",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普上任后签署的首批行政令涉及哪些领域？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的所有概念节点和关系均未提及“行政令”、“签署”或任何具体的政策领域（如移民、经济、医疗等）。图谱中反复出现的“特朗普提”、“特朗普先”、“从特朗普”等概念节点含义模糊，且与“行政令”这一具体问题没有直接关联。关系描述（如 `-[RELATION_OPENIE]->`）也未能提供关于行政令内容的任何有效信息。\n\n2.  **推断**：由于图谱中完全没有与“行政令”直接或间接相关的有效信息，我无法进行任何合理的推断来构建答案。\n\n**结论**：该认知图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7218201756477356,
+    "context_relevance": 0.7393633127212524,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "特朗普的关税政策对美国消费者产生了什么影响？",
+    "context": "用户查询：特朗普的关税政策对美国消费者产生了什么影响？\n\n相关认知图谱信息：\n概念节点：\n  - 关税\n  - 美国\n  - 关税\n  - 加方\n  - 25%\n  - 关税\n  - 特朗普\n  - 商品\n  - 牛皮\n  - 关税\n  - 特朗普\n  - 引优\n  - 中国\n  - 头上\n  - 人\n  - 美国\n  - 总统\n  - 目标\n  - 总理\n  - 哥伦比亚\n  - 50%\n  - 关税\n  - 总统\n  - 特朗普\n  - 美国\n  - 移民\n  - 六十\n  - 布朗\n  - 哥伦比亚\n  - 关税\n  - 美国\n  - 实施\n  - 利益\n  - 价格\n  - 手段\n  - 大棒\n  - 负担\n  - 身上\n  - 局面\n  - 商\n  - 节奏\n  - 升级\n  - 发展\n  - 无知\n  - 作用\n  - 特朗普\n  - 挖鼻\n  - 网络\n  - 商品\n  - 他\n  - 方\n  - 总统\n  - A股\n  - 对华\n  - 特朗\n  - 美\n  - 中\n  - 使馆\n  - 边儿\n  - 量\n  - 25%\n  - 记件\n  - 国家\n  - 句\n  - 关税\n  - 人\n  - 内容\n  - 作用\n  - 冲击\n  - 你\n  ... 还有 5 个节点未列出\n\n概念间关系：\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 加方 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 25%\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 牛皮 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 引优\n  - 关税 -[RELATION_OPENIE]-> 中国\n  - 关税 -[RELATION_OPENIE]-> 头上\n  - 人 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 目标 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总理 -[RELATION_OPENIE]-> 关税\n  - 哥伦比亚 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 50%\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 移民 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 六十\n  - 布朗 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 哥伦比亚 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 实施\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 价格\n  - 关税 -[RELATION_OPENIE]-> 手段\n  - 关税 -[RELATION_OPENIE]-> 大棒\n  - 关税 -[RELATION_OPENIE]-> 负担\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 身上\n  - 关税 -[RELATION_OPENIE]-> 局面\n  - 关税 -[RELATION_OPENIE]-> 商\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 节奏\n  - 关税 -[RELATION_OPENIE]-> 升级\n  - 关税 -[RELATION_OPENIE]-> 发展\n  - 关税 -[RELATION_OPENIE]-> 无知\n  - 关税 -[RELATION_OPENIE]-> 作用\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 挖鼻 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 网络 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 他 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 方 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  ... 还有 58 条关系未列出",
+    "answer": "根据您提供的认知图谱信息，我将按照规则进行分析和回答。\n\n**1. 从上下文中直接提取的信息：**\n图谱信息显示，“关税”与多个节点存在直接关联，其中明确提到了：\n*   关税是“手段”和“大棒”。\n*   关税与“价格”和“负担”相关。\n*   关税的“负担”落在了“美国”和“身上”（可推断为美国实体或个人）。\n*   关税对“商”（可推断为商业或商人）产生了影响。\n*   关税带来了“冲击”。\n\n**2. 基于上下文信息的合理推断：**\n*   由于关税被描述为一种“手段”或“大棒”，且与“价格”和“负担”直接关联，并最终由“美国”承担，可以推断：特朗普的关税政策作为一种贸易手段，导致了相关商品价格的变动，并最终将经济负担转移到了美国国内。\n*   结合“负担”、“冲击”和“商”这些节点，可以进一步推断：这种负担可能表现为美国消费者需要支付更高的价格购买受关税影响的进口商品，从而对美国消费者产生了直接的负面影响。\n\n**3. 整合答案：**\n*   **来自上下文的信息：** 图谱信息表明，关税是一种政策手段，它与价格和负担相关，并且这种负担落在了美国身上，同时对商业造成了冲击。\n*   **基于上下文的推断：** 综合以上信息推断，特朗普实施的关税政策很可能通过提高进口商品成本，将额外的经济负担转移给了美国消费者，导致他们面临更高的商品价格，从而对美国消费者产生了不利影响。\n\n**结论：** 根据图谱信息推断，特朗普的关税政策对美国消费者产生了增加其购买负担、可能推高商品价格的负面影响。图谱中没有提供关于具体影响程度（如对生活成本的具体数据）或积极影响（如保护国内产业带来的潜在长期利益）的直接信息。",
+    "faithfulness": 0.6,
+    "answer_relevance": 0.6551475524902344,
+    "context_relevance": 0.7416781187057495,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "马斯克在特朗普政府中担任什么角色？",
+    "context": "用户查询：马斯克在特朗普政府中担任什么角色？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普马斯克\n  - 国\n  - 人\n  - 特朗普马斯克\n  - 夜\n  - 特朗普马斯克\n  - 暑\n  - 马斯克赔特朗普\n  - 纠纷\n  - 马斯克?\n  - 特朗普\n  - 马斯克赔特朗\n  - 金\n  - 美媒:马斯克\n  - 特朗普\n  - 称马斯克\n  - 大折扣\n\n概念间关系：\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 国\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 人\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 夜\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 夜\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 夜\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 夜\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 夜\n  - 特朗普马斯克 -[RELATION_OPENIE]-> 暑\n  - 马斯克赔特朗普 -[RELATION_OPENIE]-> 纠纷\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克?\n  - 马斯克赔特朗 -[RELATION_OPENIE]-> 金\n  - 美媒:马斯克 -[RELATION_OPENIE]-> 特朗普\n  - 称马斯克 -[RELATION_OPENIE]-> 大折扣",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“马斯克在特朗普政府中担任什么角色”这个问题。\n\n**来自上下文的信息：**\n图谱中没有任何节点或关系表明马斯克在特朗普政府中担任任何官方职务或角色。图谱中出现的概念如“特朗普马斯克”、“马斯克赔特朗普”、“纠纷”、“金”、“美媒:马斯克”、“称马斯克”等，以及它们之间的关系，主要暗示了马斯克与特朗普之间可能存在某种财务纠纷（“赔”、“金”、“纠纷”）或媒体关注（“美媒”），以及一个未明确含义的“大折扣”。这些信息均未涉及政府职务。\n\n**推断：**\n基于图谱中完全没有提及“政府”、“顾问”、“职位”、“角色”等相关概念，我可以推断：在所提供的信息范围内，没有证据表明埃隆·马斯克在特朗普政府中担任任何正式角色。\n\n**整合答案：**\n图谱中没有相关信息表明马斯克在特朗普政府中担任任何角色。图谱信息仅提示两者之间可能存在其他关联（如财务或媒体层面的），但与政府职务无关。",
+    "faithfulness": 0.9,
+    "answer_relevance": 0.662555992603302,
+    "context_relevance": 0.691396951675415,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普宣布退出世界卫生组织的理由是什么？",
+    "context": "用户查询：特朗普宣布退出世界卫生组织的理由是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 离特朗普\n  - 天\n  - 特朗普想\n  - 后兵\n  - 为特朗普\n  - 对比\n  - 特朗普提\n  - 普京\n  - 特朗普提\n  - 计划\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n\n概念间关系：\n  - 离特朗普 -[RELATION_OPENIE]-> 天\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普宣布退出世界卫生组织的理由”直接相关的概念或关系。\n\n图谱中的概念节点（如“离特朗普”、“特朗普想”、“普京”、“时代”、“态度”等）以及它们之间的关系，均未涉及“世界卫生组织”、“退出”或宣布退出的“理由”等内容。\n\n**结论**：图谱中没有相关信息可以回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6647074222564697,
+    "context_relevance": 0.7262697815895081,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "公众对特朗普“新官上任三把火”的整体评价如何？",
+    "context": "用户查询：公众对特朗普“新官上任三把火”的整体评价如何？\n\n相关认知图谱信息：\n概念节点：\n  - 施压特朗普\n  - 商人\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 特朗普拿\n  - 格陵兰\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普想\n  - 后兵\n  - 为特朗普\n  - 对比\n  - 特朗普多\n  - 尊敬\n  - 特朗普多\n  - 想法\n\n概念间关系：\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 特朗普拿 -[RELATION_OPENIE]-> 格陵兰\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 特朗普多 -[RELATION_OPENIE]-> 尊敬\n  - 特朗普多 -[RELATION_OPENIE]-> 想法",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接描述“公众对特朗普‘新官上任三把火’的整体评价”的节点或关系**。\n\n**来自上下文的信息提取：**\n图谱中与“特朗普”相关的概念节点包括：商人、总统、粉条、格陵兰、时代、态度、后兵、对比、尊敬、想法等。关系显示了一些孤立的行为或状态，例如“特朗普拿格陵兰”、“从特朗普时代/态度”、“特朗普想后兵”、“特朗普多尊敬/想法”等。但这些信息零散且语义不完整，无法从中直接推导出公众对其上任初期（“新官上任三把火”）的整体评价。\n\n**合理的推断：**\n由于图谱信息缺乏关于公众评价、舆论反应或具体政策效果的内容，我无法基于现有信息进行任何关于公众整体评价的可靠推断。\n\n**整合答案：**\n图谱中没有与“公众对特朗普‘新官上任三把火’的整体评价”相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6736182570457458,
+    "context_relevance": 0.7381137609481812,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

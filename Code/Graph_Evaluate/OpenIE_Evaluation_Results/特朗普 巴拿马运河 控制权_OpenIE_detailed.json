@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普声称要收回巴拿马运河控制权的理由是什么？",
+    "context": "用户查询：特朗普声称要收回巴拿马运河控制权的理由是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普想\n  - 后兵\n  - 朗普要\n  - 特朗普\n  - 特朗普提\n  - 普京\n  - 特朗普拿\n  - 格陵兰\n  - 特朗普要拉\n  - 俄罗斯\n  - 特朗普昨天说\n  - 普\n  - 朗普\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n\n概念间关系：\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普拿 -[RELATION_OPENIE]-> 格陵兰\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯\n  - 普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 朗普 -[RELATION_OPENIE]-> 特朗普昨天说\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普声称要收回巴拿马运河控制权”或其“理由”直接相关的节点或关系。\n\n图谱中提及的概念（如“特朗普想”、“格陵兰”、“俄罗斯”、“记者”等）和关系，均无法推导或关联到关于巴拿马运河的讨论。\n\n**结论**：图谱中没有相关信息可以回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6941961050033569,
+    "context_relevance": 0.741603434085846,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "巴拿马民众对特朗普的言论有何反应？",
+    "context": "用户查询：巴拿马民众对特朗普的言论有何反应？\n\n相关认知图谱信息：\n概念节点：\n  - 巴拿马施压\n  - 鲁比奥\n  - 特朗普拿\n  - 格陵兰\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 巴拿马总统\n  - 字\n  - 巴拿马巴拿马外长\n  - 托举罪\n  - 起,巴拿马\n  - 管理\n  - 对特朗普\n  - 点\n  - 特朗普想\n  - 后兵\n\n概念间关系：\n  - 鲁比奥 -[RELATION_OPENIE]-> 巴拿马施压\n  - 特朗普拿 -[RELATION_OPENIE]-> 格陵兰\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 巴拿马总统 -[RELATION_OPENIE]-> 字\n  - 托举罪 -[RELATION_OPENIE]-> 巴拿马巴拿马外长\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵",
+    "answer": "根据提供的认知图谱信息，图谱中没有直接关于“巴拿马民众对特朗普的言论有何反应”的内容。图谱中的概念节点和关系主要涉及一些零散的、不完整的短语（如“巴拿马施压”、“特朗普拿”、“巴拿马总统”等），但这些节点之间缺乏明确的语义连接，且没有提及任何与“民众反应”相关的信息。因此，我无法从上下文中提取或推断出答案。\n\n**结论**：图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7059557437896729,
+    "context_relevance": 0.6957075595855713,
+    "multi_hop_score": 1.0,
+    "community_score": 0.25
+  },
+  {
+    "question": "美国威胁收回运河控制权对巴拿马与中国的关系产生了什么影响？",
+    "context": "用户查询：美国威胁收回运河控制权对巴拿马与中国的关系产生了什么影响？\n\n相关认知图谱信息：\n概念节点：\n  - 巴拿马妥协\n  - 承诺\n  - 霸权\n  - 运河\n  - 特朗普\n  - 运河\n  - 他\n  - 运输\n  - 港口\n  - 卡\n  - 特朗普\n  - 洋\n  - 量\n  - 巴拿马巴拿马外长\n  - 托举罪\n  - 起,巴拿马\n  - 管理\n  - 拿马运河1\n  - 食食台\n  - 威胁\n  - 特朗普\n  - 威胁\n  - 我\n  - 总统\n  - 对比\n  - 关联\n\n概念间关系：\n  - 巴拿马妥协 -[RELATION_OPENIE]-> 承诺\n  - 霸权 -[RELATION_OPENIE]-> 巴拿马妥协\n  - 特朗普 -[RELATION_OPENIE]-> 运河\n  - 他 -[RELATION_OPENIE]-> 运河\n  - 运输 -[RELATION_OPENIE]-> 运河\n  - 运河 -[RELATION_OPENIE]-> 港口\n  - 卡 -[RELATION_OPENIE]-> 运河\n  - 特朗普 -[RELATION_OPENIE]-> 运河\n  - 运河 -[RELATION_OPENIE]-> 洋\n  - 特朗普 -[RELATION_OPENIE]-> 运河\n  - 运河 -[RELATION_OPENIE]-> 量\n  - 托举罪 -[RELATION_OPENIE]-> 巴拿马巴拿马外长\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 食食台 -[RELATION_OPENIE]-> 拿马运河1\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 我 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 我 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 我 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 我 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 我 -[RELATION_OPENIE]-> 威胁\n  - 威胁 -[RELATION_OPENIE]-> 对比\n  - 威胁 -[RELATION_OPENIE]-> 关联\n  - 威胁 -[RELATION_OPENIE]-> 威胁\n  - 威胁 -[RELATION_OPENIE]-> 关联",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“美国威胁收回运河控制权对巴拿马与中国的关系产生了什么影响”这个问题。\n\n**来自上下文的信息：**\n图谱中提到了以下相关概念和关系：\n- 存在“威胁”这一概念节点。\n- 存在“特朗普”与“威胁”之间的关系（`特朗普 -[RELATION_OPENIE]-> 威胁`），以及“总统”与“威胁”之间的关系。\n- 存在“运河”这一概念节点，并与“特朗普”、“运输”、“港口”等概念存在关系。\n- 存在“巴拿马妥协”这一概念节点，并与“承诺”、“霸权”存在关系。\n\n**推断与分析：**\n虽然图谱中出现了“威胁”、“特朗普”、“运河”、“巴拿马妥协”等可能与问题背景相关的概念，但图谱信息是零散且不完整的。关键信息存在严重缺失：\n1.  图谱中**没有**明确提及“美国威胁收回运河控制权”这一具体事件。\n2.  图谱中**完全没有**提及“中国”这一概念节点，也没有任何与“巴拿马与中国关系”直接或间接相关的节点和关系。\n3.  现有关系（如“特朗普 -> 威胁”）的具体内容和指向不明，无法构成对特定历史或政治事件的描述。\n\n**结论：**\n由于图谱中**没有任何关于“中国”的信息**，也**没有描述“美国威胁收回运河控制权”这一具体行为及其影响**的连贯信息，因此无法根据所提供的认知图谱回答该问题。图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7031086683273315,
+    "context_relevance": 0.7403364181518555,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "国际社会对特朗普的军事威胁持什么态度？",
+    "context": "用户查询：国际社会对特朗普的军事威胁持什么态度？\n\n相关认知图谱信息：\n概念节点：\n  - 施压特朗普\n  - 商人\n  - 特朗普威\n  - 点\n  - 威胁\n  - 周\n  - 总统\n  - 特朗普\n  - 中国\n  - 威胁\n  - 特朗普\n  - 首相\n  - 消息\n  - 老大\n  - 呀\n  - 站\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 对特朗普\n  - 点\n  - 持朗普\n  - 福克斯\n\n概念间关系：\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 周 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 总统 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 中国 -[RELATION_OPENIE]-> 威胁\n  - 中国 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 特朗普 -[RELATION_OPENIE]-> 威胁\n  - 首相 -[RELATION_OPENIE]-> 威胁\n  - 消息 -[RELATION_OPENIE]-> 威胁\n  - 威胁 -[RELATION_OPENIE]-> 老大\n  - 呀 -[RELATION_OPENIE]-> 威胁\n  - 站 -[RELATION_OPENIE]-> 威胁\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 持朗普 -[RELATION_OPENIE]-> 福克斯",
+    "answer": "根据您提供的认知图谱信息，我无法回答“国际社会对特朗普的军事威胁持什么态度”这个问题。\n\n**原因如下：**\n\n1.  **图谱中缺乏直接相关信息**：您提供的图谱信息中，虽然频繁出现了“特朗普”和“威胁”这两个概念节点，并且存在“特朗普 -[RELATION_OPENIE]-> 威胁”这样的关系，但图谱内容本身是零散、不连贯且语义模糊的（例如“点”、“呀”、“站”、“粉条”等节点）。这些信息没有构成任何关于“国际社会态度”的明确描述。\n2.  **无法进行合理推断**：由于基础信息是碎片化且无明确指向的，我无法从中推断出“国际社会”（如其他国家、国际组织等）的具体态度。例如，图谱中提到了“中国”和“威胁”的关系，但无法确定这是指中国受到威胁、发出威胁还是对威胁作出反应，更无法代表整个国际社会的态度。\n\n**结论**：图谱中没有与国际社会对特朗普军事威胁的态度相关的有效信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7516902685165405,
+    "context_relevance": 0.7404647469520569,
+    "multi_hop_score": 1.0,
+    "community_score": 0.2
+  },
+  {
+    "question": "巴拿马政府如何回应美国的施压？",
+    "context": "用户查询：巴拿马政府如何回应美国的施压？\n\n相关认知图谱信息：\n概念节点：\n  - 巴拿马施压\n  - 鲁比奥\n  - 巴拿马妥协\n  - 承诺\n  - 霸权\n  - 巴拿马巴拿马外长\n  - 托举罪\n  - 巴拿马总统\n  - 字\n  - 起,巴拿马\n  - 管理\n  - 巴拿马\n  - 老特\n  - 美国\n  - 总统\n  - 运河\n  - 特朗普\n  - 权\n  - 费\n  - 武力\n  - 军\n  - 报道,\n  - 卿\n  - 相关\n  - 鲁比奥\n  - 剑\n  - 境地\n  - 巴拿马\n  - 地\n  - 谴责\n  - 巴拿马\n  - 协议\n  - 一带\n  - 要求\n  - 团\n  - 计划\n  - 一路\n  - 部\n  - 调查\n  - 结果\n  - 美国\n  - 中方\n  - 专机\n  - 港口\n  - 倡议\n\n概念间关系：\n  - 鲁比奥 -[RELATION_OPENIE]-> 巴拿马施压\n  - 巴拿马妥协 -[RELATION_OPENIE]-> 承诺\n  - 霸权 -[RELATION_OPENIE]-> 巴拿马妥协\n  - 托举罪 -[RELATION_OPENIE]-> 巴拿马巴拿马外长\n  - 巴拿马总统 -[RELATION_OPENIE]-> 字\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 起,巴拿马 -[RELATION_OPENIE]-> 管理\n  - 老特 -[RELATION_OPENIE]-> 巴拿马\n  - 美国 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 总统\n  - 巴拿马 -[RELATION_OPENIE]-> 运河\n  - 运河 -[RELATION_OPENIE]-> 巴拿马\n  - 特朗普 -[RELATION_OPENIE]-> 巴拿马\n  - 权 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 费\n  - 武力 -[RELATION_OPENIE]-> 巴拿马\n  - 军 -[RELATION_OPENIE]-> 巴拿马\n  - 报道, -[RELATION_OPENIE]-> 巴拿马\n  - 运河 -[RELATION_OPENIE]-> 巴拿马\n  - 卿 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 相关\n  - 鲁比奥 -[RELATION_OPENIE]-> 巴拿马\n  - 鲁比奥 -[RELATION_OPENIE]-> 巴拿马\n  - 美国 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 管理\n  - 剑 -[RELATION_OPENIE]-> 巴拿马\n  - 美国 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 境地\n  - 地 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 谴责\n  - 巴拿马 -[RELATION_OPENIE]-> 协议\n  - 巴拿马 -[RELATION_OPENIE]-> 一带\n  - 巴拿马 -[RELATION_OPENIE]-> 要求\n  - 团 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 协议\n  - 巴拿马 -[RELATION_OPENIE]-> 计划\n  - 巴拿马 -[RELATION_OPENIE]-> 一路\n  - 巴拿马 -[RELATION_OPENIE]-> 部\n  - 巴拿马 -[RELATION_OPENIE]-> 调查\n  - 结果 -[RELATION_OPENIE]-> 巴拿马\n  - 美国 -[RELATION_OPENIE]-> 巴拿马\n  - 团 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 一带\n  - 巴拿马 -[RELATION_OPENIE]-> 一路\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 一路\n  - 专机 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 协议\n  - 巴拿马 -[RELATION_OPENIE]-> 港口\n  - 巴拿马 -[RELATION_OPENIE]-> 部\n  - 巴拿马 -[RELATION_OPENIE]-> 一路\n  - 巴拿马 -[RELATION_OPENIE]-> 倡议\n  - 一带 -[RELATION_OPENIE]-> 巴拿马\n  - 巴拿马 -[RELATION_OPENIE]-> 部\n  - 巴拿马 -[RELATION_OPENIE]-> 一带\n  - 巴拿马 -[RELATION_OPENIE]-> 一带\n  - 巴拿马 -[RELATION_OPENIE]-> 协议\n  - 巴拿马 -[RELATION_OPENIE]-> 一路\n  - 美国 -[RELATION_OPENIE]-> 巴拿马\n  - 团 -[RELATION_OPENIE]-> 巴拿马",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“巴拿马政府如何回应美国的施压”这个问题。\n\n**来自上下文的信息：**\n图谱中存在“巴拿马施压”和“美国”等概念节点，并且存在“美国 -> 巴拿马”的关系。图谱中还提到了“巴拿马妥协”、“承诺”、“谴责”、“协议”、“要求”等可能相关的概念。然而，这些概念节点和关系是零散且不明确的，没有形成关于“巴拿马政府如何回应”的清晰、具体的描述。例如，没有明确说明“巴拿马妥协”或“谴责”等行为的主体是巴拿马政府，也没有说明这些行为是针对“美国施压”的直接回应。\n\n**推断：**\n基于图谱中“美国 -> 巴拿马”的关系以及“巴拿马妥协”、“谴责”等节点的存在，可以推断图谱可能涉及美巴之间的互动，其中可能包含施压与回应。但是，由于缺乏将这些元素具体联系起来的结构化信息（例如，谁在施压、具体施压内容、巴拿马政府的具体言行等），**我无法从这些零散信息中整合出关于巴拿马政府回应的具体、可靠的答案**。\n\n**结论：**\n图谱中没有与“巴拿马政府如何回应美国的施压”这一问题直接相关的、可以整合成答案的具体信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6463236808776855,
+    "context_relevance": 0.6706002354621887,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

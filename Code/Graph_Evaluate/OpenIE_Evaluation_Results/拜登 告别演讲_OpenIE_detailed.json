@@ -1,0 +1,52 @@
+[
+  {
+    "question": "拜登在告别演讲中提到的“寡头政治”具体指什么？",
+    "context": "用户查询：拜登在告别演讲中提到的“寡头政治”具体指什么？\n\n相关认知图谱信息：\n概念节点：\n  - 寡头\n  - 贷款\n  - 票\n  - 拜登在\n  - 美国\n  - 俄罗斯\n  - 拜登不太\n  - 决定\n  - 拜登要\n  - 警告\n  - 拜登之\n  - 他\n  - 拜登发\n  - 演讲\n  - 拜登和\n  - MADE\n  - 拜登将\n  - 来源\n  - top\n  - 任期\n  - 茶\n\n概念间关系：\n  - 寡头 -[RELATION_OPENIE]-> 贷款\n  - 寡头 -[RELATION_OPENIE]-> 贷款\n  - 寡头 -[RELATION_OPENIE]-> 票\n  - 拜登在 -[RELATION_OPENIE]-> 美国\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登不太 -[RELATION_OPENIE]-> 决定\n  - 拜登要 -[RELATION_OPENIE]-> 警告\n  - 他 -[RELATION_OPENIE]-> 拜登之\n  - 拜登发 -[RELATION_OPENIE]-> 演讲\n  - 拜登和 -[RELATION_OPENIE]-> MADE\n  - 拜登将 -[RELATION_OPENIE]-> 来源\n  - 拜登将 -[RELATION_OPENIE]-> top\n  - 拜登将 -[RELATION_OPENIE]-> 任期\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 茶",
+    "answer": "根据提供的认知图谱信息，图谱中没有直接关于“拜登在告别演讲中提到的‘寡头政治’具体指什么”的相关内容。\n\n**分析过程：**\n1.  **提取直接相关信息**：图谱中存在“拜登发 -[RELATION_OPENIE]-> 演讲”的关系，表明有“拜登发表演讲”这一事实。同时存在“寡头”这一概念节点。然而，图谱中**没有任何关系或节点**能将“拜登”、“演讲”（特别是“告别演讲”）与“寡头”或“寡头政治”的具体含义、所指对象或上下文解释直接关联起来。其他节点如“贷款”、“票”、“美国”、“俄罗斯”等，虽然与“寡头”或“拜登在”存在关系，但这些关系孤立且含义模糊（如“寡头 -> 贷款”、“寡头 -> 票”、“拜登在 -> 美国/俄罗斯”），无法构成对“告别演讲中提到的‘寡头政治’具体指什么”这一问题的有效信息支持。\n2.  **进行合理推断**：由于缺乏直接相关的信息，无法基于现有图谱进行任何关于“寡头政治”具体所指的可靠推断。任何试图结合“美国”、“俄罗斯”等节点进行的猜测都超出了图谱所提供信息的范围。\n3.  **整合答案**：综上所述，所提供的认知图谱信息中不包含回答该问题所需的内容。\n\n**最终答案**：图谱中没有相关信息可以说明拜登在告别演讲中提到的“寡头政治”具体指什么。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7223635911941528,
+    "context_relevance": 0.7706190943717957,
+    "multi_hop_score": 1.0,
+    "community_score": 0.2857142857142857
+  },
+  {
+    "question": "公众对拜登告别演讲的主要情绪是支持还是不满？",
+    "context": "用户查询：公众对拜登告别演讲的主要情绪是支持还是不满？\n\n相关认知图谱信息：\n概念节点：\n  - 拜登不太\n  - 决定\n  - 拜登在\n  - 美国\n  - 俄罗斯\n  - 拜登和\n  - MADE\n  - 拜登将\n  - 美媒\n  - 拜登将\n  - 来源\n  - top\n  - 任期\n  - 演讲\n  - 茶\n  - 拜登给特朗普\n  - 摊子\n  - 拜登战胜特朗普\n  - 大选\n  - 拜登要\n  - 警告\n\n概念间关系：\n  - 拜登不太 -[RELATION_OPENIE]-> 决定\n  - 拜登在 -[RELATION_OPENIE]-> 美国\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登和 -[RELATION_OPENIE]-> MADE\n  - 拜登将 -[RELATION_OPENIE]-> 美媒\n  - 拜登将 -[RELATION_OPENIE]-> 来源\n  - 拜登将 -[RELATION_OPENIE]-> top\n  - 拜登将 -[RELATION_OPENIE]-> 任期\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 演讲\n  - 拜登将 -[RELATION_OPENIE]-> 茶\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登战胜特朗普 -[RELATION_OPENIE]-> 大选\n  - 拜登要 -[RELATION_OPENIE]-> 警告",
+    "answer": "根据提供的认知图谱信息，图谱中没有直接提及“公众对拜登告别演讲的主要情绪”的相关内容。图谱中与“演讲”相关的节点和关系仅显示“拜登将”与“演讲”之间存在关系，但未涉及公众情绪的具体描述（如支持或不满）。因此，无法从图谱中提取相关信息来回答该问题。\n\n**结论**：图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7608453035354614,
+    "context_relevance": 0.7686756253242493,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "拜登告别演讲中如何评价中美关系？",
+    "context": "用户查询：拜登告别演讲中如何评价中美关系？\n\n相关认知图谱信息：\n概念节点：\n  - 拜登和\n  - MADE\n  - 拜登在\n  - 美国\n  - 俄罗斯\n  - 拜登不太\n  - 决定\n  - 拜登之\n  - 他\n  - 拜登给特朗普\n  - 摊子\n  - 拜登和特朗普\n  - 回\n  - 拜登发\n  - 演讲\n  - 拜登要\n  - 警告\n\n概念间关系：\n  - 拜登和 -[RELATION_OPENIE]-> MADE\n  - 拜登在 -[RELATION_OPENIE]-> 美国\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登在 -[RELATION_OPENIE]-> 俄罗斯\n  - 拜登不太 -[RELATION_OPENIE]-> 决定\n  - 他 -[RELATION_OPENIE]-> 拜登之\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登和特朗普 -[RELATION_OPENIE]-> 回\n  - 拜登发 -[RELATION_OPENIE]-> 演讲\n  - 拜登要 -[RELATION_OPENIE]-> 警告",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**任何关于“拜登告别演讲”或“中美关系”的直接相关内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中出现的概念节点包括“拜登”、“演讲”、“警告”等，关系显示“拜登发 -[RELATION_OPENIE]-> 演讲”。这表明图谱中记录了“拜登”与“演讲”之间存在某种关联（例如“拜登发表演讲”），但**没有**具体说明这是“告别演讲”，也**完全没有**提及“中国”或“中美关系”相关的任何概念节点或关系。\n\n2.  **推断**：由于图谱信息中完全不包含“中国”、“中美关系”或“告别演讲”的具体内容，因此**无法**根据现有信息推断或回答“拜登告别演讲中如何评价中美关系”这一问题。\n\n**结论**：图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6491745114326477,
+    "context_relevance": 0.7593628168106079,
+    "multi_hop_score": 1.0,
+    "community_score": 0.125
+  },
+  {
+    "question": "演讲中提到的“科技工业复合体”对民主有何影响？",
+    "context": "用户查询：演讲中提到的“科技工业复合体”对民主有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 民主\n  - 头上\n  - 民主\n  - 军队\n  - 民主\n  - 防部\n  - 演说\n  - 特朗普\n  - 演说\n  - 军情\n  - 挑鲜\n  - 铃\n  - 演说\n  - 拜登\n  - 总统\n  - 王\n  - 主张\n  - 特朗普\n  - 他\n  - 重视\n  - 主张\n  - 总统\n\n概念间关系：\n  - 头上 -[RELATION_OPENIE]-> 民主\n  - 军队 -[RELATION_OPENIE]-> 民主\n  - 防部 -[RELATION_OPENIE]-> 民主\n  - 特朗普 -[RELATION_OPENIE]-> 演说\n  - 军情 -[RELATION_OPENIE]-> 演说\n  - 演说 -[RELATION_OPENIE]-> 挑鲜\n  - 演说 -[RELATION_OPENIE]-> 铃\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 总统 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 总统 -[RELATION_OPENIE]-> 演说\n  - 总统 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 总统 -[RELATION_OPENIE]-> 演说\n  - 王 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 拜登 -[RELATION_OPENIE]-> 演说\n  - 特朗普 -[RELATION_OPENIE]-> 主张\n  - 特朗普 -[RELATION_OPENIE]-> 主张\n  - 他 -[RELATION_OPENIE]-> 主张\n  - 特朗普 -[RELATION_OPENIE]-> 主张\n  - 主张 -[RELATION_OPENIE]-> 重视\n  - 总统 -[RELATION_OPENIE]-> 主张",
+    "answer": "根据提供的认知图谱信息，图谱中**没有**任何关于“科技工业复合体”的概念节点或相关关系。因此，图谱中**没有相关信息**可以用于回答该概念对民主的影响。\n\n**回答整合：**\n- **来自上下文的信息**：图谱中不存在“科技工业复合体”这一概念及其与“民主”的关系。\n- **推断**：无法基于现有图谱进行任何推断。\n- **最终答案**：图谱中没有与“科技工业复合体”相关的信息，因此无法根据提供的认知图谱回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6523361206054688,
+    "context_relevance": 0.6886756420135498,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  },
+  {
+    "question": "特朗普对拜登告别演讲的反应是什么？",
+    "context": "用户查询：特朗普对拜登告别演讲的反应是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 拜登给特朗普\n  - 摊子\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 对特朗普\n  - 点\n  - 拜登和特朗普\n  - 回\n  - 向特朗普\n  - 条件\n  - 拜登求特朗普\n  - 他\n  - 从特朗普\n  - 时代\n  - 态度\n\n概念间关系：\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 拜登给特朗普 -[RELATION_OPENIE]-> 摊子\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 拜登和特朗普 -[RELATION_OPENIE]-> 回\n  - 向特朗普 -[RELATION_OPENIE]-> 条件\n  - 拜登求特朗普 -[RELATION_OPENIE]-> 他\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普对拜登告别演讲的反应是什么”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的概念节点和关系完全没有提及“拜登告别演讲”这一事件。节点中出现的“拜登给特朗普”、“拜登求特朗普”等短语含义模糊，且与“告别演讲”无直接关联。关系描述（如“拜登给特朗普 -> 摊子”）也无法构成关于演讲或反应的明确信息。\n\n2.  **推断**：由于图谱中缺乏与问题直接相关的核心事实（即拜登发表告别演讲，以及特朗普对此的回应或表态），我无法进行任何有效的推断。图谱中提供的信息碎片化且不连贯，无法支撑起对特定事件反应的逻辑推导。\n\n**结论**：图谱中没有与“特朗普对拜登告别演讲的反应”相关的任何信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6983337998390198,
+    "context_relevance": 0.7214480042457581,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

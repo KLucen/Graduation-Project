@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Graph - RAG QA</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="/baseline" class="nav-brand">Knowledge Graph Viz</a>
+        <ul class="nav-menu">
+            <li><a href="/baseline">Baseline</a></li>
+            <li><a href="/cognitive">Cognitive Graph</a></li>
+            <li><a href="/community">Community Analysis</a></li>
+            <li><a href="/rag" class="active">RAG QA</a></li>
+        </ul>
+    </div>
+</nav>
+
+<main class="main-content">
+    <h1 class="page-title">RAG Question Answering</h1>
+    <div class="controls">
+        <div class="control-group" style="flex: 1;">
+            <label for="rag-question">Question:</label>
+            <input type="text" id="rag-question" placeholder="Enter your question" style="width: 500px;">
+        </div>
+        <button id="ask-rag" class="btn">Ask</button>
+    </div>
+
+    <div id="rag-answer" class="collapsible-card" style="margin-bottom: 20px;">
+        <div class="card-header" onclick="toggleCard(this)">
+            <strong>📝 Answer</strong>
+            <span class="toggle-icon">▼</span>
+        </div>
+        <div class="card-content" style="display: block;"></div>
+    </div>
+
+    <div id="rag-context" class="collapsible-card">
+        <div class="card-header" onclick="toggleCard(this)">
+            <strong>📚 Retrieved Context</strong>
+            <span class="toggle-icon">▼</span>
+        </div>
+        <div class="card-content" style="display: block;"></div>
+    </div>
+</main>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

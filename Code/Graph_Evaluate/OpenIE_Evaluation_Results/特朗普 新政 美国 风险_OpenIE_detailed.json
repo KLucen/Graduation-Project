@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普的“美国优先”政策可能带来哪些国内风险？",
+    "context": "用户查询：特朗普的“美国优先”政策可能带来哪些国内风险？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普先\n  - 会晤\n  - 后果特朗\n  - 他\n  - 特朗普想\n  - 后兵\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普挑\n  - 大战\n  - 特朗普挑\n  - 中国\n  - 若特朗普\n  - 举\n  - 中...特朗普\n  - 一\n\n概念间关系：\n  - 特朗普先 -[RELATION_OPENIE]-> 会晤\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 特朗普挑 -[RELATION_OPENIE]-> 大战\n  - 特朗普挑 -[RELATION_OPENIE]-> 中国\n  - 若特朗普 -[RELATION_OPENIE]-> 举\n  - 一 -[RELATION_OPENIE]-> 中...特朗普",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普的‘美国优先’政策可能带来哪些国内风险？”这一问题直接相关的内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：您提供的图谱信息中，概念节点和关系主要涉及“特朗普”、“会晤”、“时代”、“态度”、“中国”、“大战”等，但所有关系（如 `特朗普挑 -[RELATION_OPENIE]-> 大战`、`特朗普挑 -[RELATION_OPENIE]-> 中国`）均未提及“美国优先”政策，更没有涉及该政策的“国内风险”。图谱信息片段化且不完整，无法构成对“美国优先”政策及其国内影响的描述。\n\n2.  **推断**：由于图谱中缺乏相关信息，我无法基于此进行任何关于“美国优先”政策国内风险的合理推断。\n\n**结论**：图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7289227247238159,
+    "context_relevance": 0.7602147459983826,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "特朗普加征关税对中美贸易关系有何影响？",
+    "context": "用户查询：特朗普加征关税对中美贸易关系有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 关税\n  - 加方\n  - 25%\n  - 关税\n  - 特朗普\n  - 商品\n  - 牛皮\n  - 关税\n  - 他\n  - 难题\n  - 关税\n  - 特朗普\n  - 引优\n  - 中国\n  - 头上\n  - 人\n  - 美国\n  - 总统\n  - 目标\n  - 总理\n  - 哥伦比亚\n  - 50%\n  - 关税\n  - 总统\n  - 特朗普\n  - 美国\n  - 移民\n  - 六十\n  - 布朗\n  - 哥伦比亚\n  - 关税\n  - 美国\n  - 实施\n  - 利益\n  - 价格\n  - 手段\n  - 大棒\n  - 负担\n  - 身上\n  - 局面\n  - 商\n  - 节奏\n  - 升级\n  - 发展\n  - 无知\n  - 作用\n  - 特朗普\n  - 挖鼻\n  - 网络\n  - 商品\n  - 他\n  - 方\n  - 总统\n  - A股\n  - 对华\n  - 特朗\n  - 美\n  - 中\n  - 使馆\n  - 边儿\n  - 量\n  - 25%\n  - 记件\n  - 国家\n  - 句\n  - 关税\n  - 人\n  - 内容\n  - 作用\n  - 冲击\n  ... 还有 6 个节点未列出\n\n概念间关系：\n  - 加方 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 25%\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 牛皮 -[RELATION_OPENIE]-> 关税\n  - 他 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 难题\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 引优\n  - 关税 -[RELATION_OPENIE]-> 中国\n  - 关税 -[RELATION_OPENIE]-> 头上\n  - 人 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 目标 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总理 -[RELATION_OPENIE]-> 关税\n  - 哥伦比亚 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 50%\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 移民 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 六十\n  - 布朗 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 哥伦比亚 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 实施\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 价格\n  - 关税 -[RELATION_OPENIE]-> 手段\n  - 关税 -[RELATION_OPENIE]-> 大棒\n  - 关税 -[RELATION_OPENIE]-> 负担\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 身上\n  - 关税 -[RELATION_OPENIE]-> 局面\n  - 关税 -[RELATION_OPENIE]-> 商\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 节奏\n  - 关税 -[RELATION_OPENIE]-> 升级\n  - 关税 -[RELATION_OPENIE]-> 发展\n  - 关税 -[RELATION_OPENIE]-> 无知\n  - 关税 -[RELATION_OPENIE]-> 作用\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 挖鼻 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 网络 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 他 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 方 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  ... 还有 57 条关系未列出",
+    "answer": "根据提供的认知图谱信息，我将首先提取与问题直接相关的信息，然后进行合理推断，最后整合答案。\n\n**来自上下文的直接信息：**\n1.  图谱中明确显示了“特朗普”与“关税”之间存在多次直接的 `RELATION_OPENIE` 关系，表明特朗普与关税政策高度相关。\n2.  关税与“中国”存在直接关系（`关税 -[RELATION_OPENIE]-> 中国`）。\n3.  关税被描述为一种“手段”和“大棒”。\n4.  关税与“难题”、“负担”、“冲击”等负面概念相关联。\n5.  关税与“升级”、“发展”等描述态势的概念相关联。\n6.  存在“对华”这一概念节点，直接指向政策对象。\n7.  存在具体的关税数字节点，如“25%”和“50%”，并与关税概念相连。\n\n**基于上下文的合理推断：**\n1.  **推断影响的性质**：由于关税被关联到“难题”、“负担”、“冲击”、“大棒”等概念，可以推断特朗普加征关税对中美贸易关系产生了**负面冲击**，增加了贸易的困难和负担，是一种施压手段。\n2.  **推断影响的方向**：关税与“中国”、“对华”直接关联，且与“升级”相关，可以推断这种关税政策是**针对中国的**，并可能导致贸易摩擦的**升级**。\n3.  **推断影响的范围**：关税与“商品”、“价格”、“利益”等概念相连，可以推断加征关税影响了**商品贸易**，可能推高价格并涉及双方**利益**的重新调整。\n4.  **推断影响的态势**：概念“节奏”和“升级”与关税相连，可以推断关税政策影响了贸易关系的**发展节奏**，并使其向**紧张或对抗方向升级**。\n\n**整合答案：**\n根据认知图谱信息，特朗普加征关税对中美贸易关系的影响主要体现在以下几个方面：\n*   **来自上下文的信息**：图谱明确显示特朗普与关税政策紧密相关，该政策针对中国（“对华”），且关税被定性为一种“手段”或“大棒”。\n*   **基于上下文的推断**：这种政策对中美贸易关系产生了**负面冲击**（关联“冲击”、“负担”、“难题”），导致贸易关系紧张**升级**（关联“升级”），扰乱了正常的贸易**发展**节奏，并通过影响**商品**和**价格**直接作用于双边贸易利益。\n\n**必须说明**：以上关于影响具体为“负面冲击”、“导致升级”、“扰乱发展”、“作用利益”的结论，是基于图谱中关税与这些负面及态势描述性概念的关联关系**推断**得出的。图谱本身没有直接陈述“特朗普加征关税对中美贸易关系产生了X影响”这样的完整命题。",
+    "faithfulness": 0.85,
+    "answer_relevance": 0.6690705418586731,
+    "context_relevance": 0.7585011124610901,
+    "multi_hop_score": 1.0,
+    "community_score": 1.0
+  },
+  {
+    "question": "公众对特朗普新政的担忧主要集中在哪些方面？",
+    "context": "用户查询：公众对特朗普新政的担忧主要集中在哪些方面？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普愁\n  - 新关税\n  - 担忧\n  - 言论\n  - 总统\n  - 担忧\n  - 言论\n  - 原因\n  - 背后\n  - 政策\n  - 担忧\n  - 方面\n  - 变化\n  - 事件\n  - 担忧\n  - 特朗普\n  - 担忧\n  - 声\n  - 个\n  - 担忧\n  - 这\n  - 当选\n  - 施压特朗普\n  - 商人\n\n概念间关系：\n  - 特朗普愁 -[RELATION_OPENIE]-> 新关税\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 总统 -[RELATION_OPENIE]-> 担忧\n  - 言论 -[RELATION_OPENIE]-> 担忧\n  - 原因 -[RELATION_OPENIE]-> 担忧\n  - 背后 -[RELATION_OPENIE]-> 担忧\n  - 政策 -[RELATION_OPENIE]-> 担忧\n  - 方面 -[RELATION_OPENIE]-> 担忧\n  - 变化 -[RELATION_OPENIE]-> 担忧\n  - 事件 -[RELATION_OPENIE]-> 担忧\n  - 特朗普 -[RELATION_OPENIE]-> 担忧\n  - 声 -[RELATION_OPENIE]-> 担忧\n  - 个 -[RELATION_OPENIE]-> 担忧\n  - 这 -[RELATION_OPENIE]-> 担忧\n  - 这 -[RELATION_OPENIE]-> 担忧\n  - 当选 -[RELATION_OPENIE]-> 担忧\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人",
+    "answer": "根据您提供的认知图谱信息，我将按照规则进行分析和回答。\n\n**1. 从上下文中直接提取的信息：**\n图谱中明确显示了“特朗普”与“担忧”之间存在直接关系（特朗普 -[RELATION_OPENIE]-> 担忧）。同时，“政策”也与“担忧”存在直接关系（政策 -[RELATION_OPENIE]-> 担忧）。此外，“新关税”作为一个具体概念，与“特朗普愁”相关联（特朗普愁 -[RELATION_OPENIE]-> 新关税），这暗示了关税政策是引发担忧的一个具体点。\n\n**2. 合理的推断：**\n*   基于“政策 -> 担忧”和“特朗普 -> 担忧”的关系，可以推断公众的担忧是针对特朗普的政策。\n*   基于“新关税”与“特朗普愁”的关联，可以推断“新关税”是特朗普政策的一部分，并且是引发担忧的一个具体方面。\n*   图谱中其他如“言论”、“变化”、“事件”等概念也指向“担忧”，这支持了担忧是多方面的推断，但图谱没有明确这些概念与“特朗普新政”的具体联系，因此不能直接确定它们就是新政的组成部分。\n\n**3. 整合答案：**\n*   **来自上下文的信息：** 图谱信息直接表明，公众的担忧与“特朗普”及其“政策”有关，其中“新关税”是一个被明确提及的具体关联点。\n*   **基于上下文的推断：** 公众对特朗普新政的担忧，**可能**集中在其政策（尤其是像“新关税”这样的贸易或经济政策）所引发的不确定性或负面影响上。图谱中其他如“言论”、“变化”等节点也指向“担忧”，暗示担忧的来源可能还包括其言论风格、政策变化速度或相关事件，但由于缺乏这些概念与“特朗普新政”的直接关系链，无法确定它们就是新政的担忧方面。\n\n**结论：**\n根据所提供的认知图谱，可以确定“新关税”是公众对特朗普（新政）担忧的一个具体方面。图谱也普遍显示了“政策”是担忧的来源。但图谱信息较为零散和重复，缺乏对“担忧”具体内容的清晰、结构化描述，因此无法更详细地列出其他方面的担忧。例如，图谱中提到的“言论”、“变化”、“事件”等与“担忧”的关系，因未与“特朗普”或“政策”节点直接关联，无法确证它们属于对新政的担忧。",
+    "faithfulness": 0.85,
+    "answer_relevance": 0.5967013239860535,
+    "context_relevance": 0.7472171783447266,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  },
+  {
+    "question": "特朗普的外交政策如何影响北约盟友关系？",
+    "context": "用户查询：特朗普的外交政策如何影响北约盟友关系？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普想\n  - 后兵\n  - 跟特朗普\n  - 协议\n  - 北约\n  - 马斯克\n  - 北约\n  - 乌克兰\n  - 卢克申科\n  - 他\n  - 施压特朗普\n  - 商人\n  - 特朗普聊\n  - 莫迪带\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n\n概念间关系：\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 跟特朗普 -[RELATION_OPENIE]-> 协议\n  - 马斯克 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 乌克兰 -[RELATION_OPENIE]-> 北约\n  - 卢克申科 -[RELATION_OPENIE]-> 北约\n  - 他 -[RELATION_OPENIE]-> 北约\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 莫迪带 -[RELATION_OPENIE]-> 特朗普聊\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普的外交政策如何影响北约盟友关系”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中包含“特朗普”、“北约”等概念节点，以及“马斯克 -> 北约”、“乌克兰 -> 北约”、“卢克申科 -> 北约”等关系。但这些关系孤立且含义模糊（如“马斯克 -> 北约”），并未直接说明特朗普的外交政策内容，更没有描述这些政策与北约盟友关系之间的具体影响或互动。\n\n2.  **推断**：由于图谱中缺乏描述“特朗普的外交政策”具体内容（如要求盟友增加军费、对北约的公开言论等）的节点和关系，也缺乏描述这些政策如何“影响”盟友关系（如导致紧张、促进协商等）的明确信息，因此无法进行任何有意义的推断。\n\n**结论**：图谱中没有与问题直接相关的信息，无法根据现有信息回答特朗普外交政策对北约盟友关系的影响。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7577162384986877,
+    "context_relevance": 0.7288364768028259,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "特朗普新政下，美国的社会稳定面临哪些挑战？",
+    "context": "用户查询：特朗普新政下，美国的社会稳定面临哪些挑战？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普挑\n  - 中国\n  - 特朗普挑\n  - 大战\n  - 施压特朗普\n  - 商人\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 特朗普:\n  - 记者\n  - 特朗普提\n  - 普京\n  - 特朗普提\n  - 计划\n  - 接下来特朗普\n  - 卷\n\n概念间关系：\n  - 特朗普挑 -[RELATION_OPENIE]-> 中国\n  - 特朗普挑 -[RELATION_OPENIE]-> 大战\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 接下来特朗普 -[RELATION_OPENIE]-> 卷",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接关于“特朗普新政下美国社会稳定面临挑战”的相关内容**。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中的概念节点和关系主要涉及“特朗普”、“中国”、“大战”、“商人”、“总统”、“记者”、“普京”、“计划”等，以及它们之间的一些关联（如“特朗普挑”关联“中国”和“大战”，“总统”关联“特朗普”等）。这些信息片段零散且不完整，无法构成对“特朗普新政”或“美国社会稳定挑战”的任何具体描述。\n\n2.  **推断与整合**：由于图谱信息完全缺失与“社会稳定”、“挑战”、“新政”等直接相关的概念、属性或关系，**我无法基于现有图谱进行任何合理的推断**。试图从“大战”、“记者”、“商人”等孤立词汇去拼凑答案，会严重偏离图谱本身的内容并引入大量无关的猜测，这违反了基于给定信息回答的原则。\n\n**结论**：该认知图谱中没有包含可以回答您问题的相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6476142406463623,
+    "context_relevance": 0.7073230743408203,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

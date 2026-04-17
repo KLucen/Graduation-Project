@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Knowledge Graph - Cognitive Graph</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="/baseline" class="nav-brand">Knowledge Graph Viz</a>
+    <ul class="nav-menu">
+      <li><a href="/baseline">Baseline</a></li>
+      <li><a href="/cognitive" class="active">Cognitive Graph</a></li>
+      <li><a href="/community">Community Analysis</a></li>
+      <li><a href="/rag">RAG QA</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="main-content">
+  <h1 class="page-title">Cognitive Graph</h1>
+  <div class="controls">
+    <div class="control-group">
+      <label for="topic-select-cognitive">Topic:</label>
+      <select id="topic-select-cognitive">
+        <option value="all">All Topics</option>
+      </select>
+    </div>
+    <button id="load-cognitive" class="btn">Load Graph</button>
+  </div>
+  <div id="cognitive-network" class="network expanded"></div>
+</main>
+
+<div class="legend-container">
+  <div class="legend-title">Legend</div>
+  <div class="legend-items" id="legend-items"></div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    loadCognitiveGraph();
+  });
+</script>
+</body>
+</html>

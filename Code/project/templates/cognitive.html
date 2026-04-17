@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识图谱可视化 - 认知图谱</title>
+  <!-- 引入 vis.js -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+  <!-- 自定义样式 -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<!-- 导航栏 -->
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="/baseline" class="nav-brand">知识图谱可视化</a>
+    <ul class="nav-menu">
+      <li><a href="/baseline">Baseline</a></li>
+      <li><a href="/cognitive" class="active">认知图谱</a></li>
+      <li><a href="/community">社区分析</a></li>
+      <li><a href="/rag">RAG问答</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="main-content">
+  <h1 class="page-title">认知图谱</h1>
+  <div class="controls">
+    <div class="control-group">
+      <label for="topic-select-cognitive">话题：</label>
+      <select id="topic-select-cognitive">
+        <option value="all">全部话题</option>
+      </select>
+    </div>
+    <button id="load-cognitive" class="btn">加载图谱</button>
+  </div>
+
+  <div id="cognitive-network" class="network expanded"></div>
+</main>
+
+<!-- 右下角图例 -->
+<div class="legend-container">
+  <div class="legend-title">图例</div>
+  <div class="legend-items" id="legend-items">
+    <!-- 动态填充 -->
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    loadCognitiveGraph();
+  });
+</script>
+</body>
+</html>

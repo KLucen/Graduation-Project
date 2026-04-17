@@ -1,0 +1,212 @@
+{
+  "A股 下跌 沪指 跌破 3400点": {
+    "faithfulness": 0.27,
+    "answer_relevance": 0.7329553246498108,
+    "context_relevance": 0.7903954744338989,
+    "multi_hop_score": 0.6,
+    "community_score": 0.33333333333333337
+  },
+  "中国 38个国家 免签": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7485196828842163,
+    "context_relevance": 0.7255389451980591,
+    "multi_hop_score": 0.6,
+    "community_score": 0.36666666666666664
+  },
+  "中国 加拿大 毒贩 死刑": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.7216119408607483,
+    "context_relevance": 0.7247934937477112,
+    "multi_hop_score": 0.8,
+    "community_score": 0.3733333333333333
+  },
+  "中国 发现 世界 最大 金矿": {
+    "faithfulness": 0.12,
+    "answer_relevance": 0.7015520453453064,
+    "context_relevance": 0.7218183040618896,
+    "multi_hop_score": 0.6,
+    "community_score": 0.22000000000000003
+  },
+  "中国 核动力航母 国防部 回应": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6907887816429138,
+    "context_relevance": 0.7156025171279907,
+    "multi_hop_score": 0.6,
+    "community_score": 0.4
+  },
+  "中国黄金 陈雄伟 被查": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6512532472610474,
+    "context_relevance": 0.7228305339813232,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  "中方 巴拿马 退出 “一带一路”": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.6927801609039307,
+    "context_relevance": 0.707498574256897,
+    "multi_hop_score": 0.8,
+    "community_score": 0.24
+  },
+  "住建部 住宅层高 标准 调整": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7009170174598693,
+    "context_relevance": 0.7282032370567322,
+    "multi_hop_score": 0.4,
+    "community_score": 0.16666666666666666
+  },
+  "全国 流感病毒 阳性率 上升": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.6813083529472351,
+    "context_relevance": 0.720954167842865,
+    "multi_hop_score": 0.6,
+    "community_score": 0.42000000000000004
+  },
+  "刘强东 京东 快递员 退休金": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.7258569598197937,
+    "context_relevance": 0.7502658843994141,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  "四川 地震": {
+    "faithfulness": 0.16,
+    "answer_relevance": 0.6144719302654267,
+    "context_relevance": 0.7014001488685608,
+    "multi_hop_score": 0.2,
+    "community_score": 0.04
+  },
+  "微信 提醒 木马病毒": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7439315915107727,
+    "context_relevance": 0.773523461818695,
+    "multi_hop_score": 0.6,
+    "community_score": 0.4333333333333333
+  },
+  "拜登 告别演讲": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6966106653213501,
+    "context_relevance": 0.7417562365531921,
+    "multi_hop_score": 0.6,
+    "community_score": 0.1488095238095238
+  },
+  "提高 农村 养老金 标准": {
+    "faithfulness": 0.05,
+    "answer_relevance": 0.6853392571210861,
+    "context_relevance": 0.7691846340894699,
+    "multi_hop_score": 0.75,
+    "community_score": 0.41666666666666663
+  },
+  "提高 城乡居民 基础养老金": {
+    "faithfulness": 0.325,
+    "answer_relevance": 0.7217066884040833,
+    "context_relevance": 0.7731550484895706,
+    "multi_hop_score": 0.5,
+    "community_score": 0.14166666666666666
+  },
+  "特朗普 上任 三把火": {
+    "faithfulness": 0.3,
+    "answer_relevance": 0.6755698800086976,
+    "context_relevance": 0.7273643851280213,
+    "multi_hop_score": 0.4,
+    "community_score": 0.06666666666666667
+  },
+  "特朗普 中国商品 加征10% 关税": {
+    "faithfulness": 0.30999999999999994,
+    "answer_relevance": 0.6670475006103516,
+    "context_relevance": 0.7351889371871948,
+    "multi_hop_score": 0.6,
+    "community_score": 0.6
+  },
+  "特朗普 乌克兰 要求 获取": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.7308372139930726,
+    "context_relevance": 0.7670390129089355,
+    "multi_hop_score": 0.6,
+    "community_score": 0.16666666666666666
+  },
+  "特朗普 巴拿马运河 控制权": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7002548933029175,
+    "context_relevance": 0.7177424788475036,
+    "multi_hop_score": 0.4,
+    "community_score": 0.09
+  },
+  "特朗普 政策 普京": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.6804007530212403,
+    "context_relevance": 0.7519723176956177,
+    "multi_hop_score": 0.8,
+    "community_score": 0.14404761904761904
+  },
+  "特朗普 新政 美国 风险": {
+    "faithfulness": 0.33999999999999997,
+    "answer_relevance": 0.6800050139427185,
+    "context_relevance": 0.7404185175895691,
+    "multi_hop_score": 0.8,
+    "community_score": 0.32857142857142857
+  },
+  "特朗普 格陵兰岛 军队 部署": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6967445373535156,
+    "context_relevance": 0.7451724767684936,
+    "multi_hop_score": 0.6,
+    "community_score": 0.2571428571428571
+  },
+  "特朗普 泽连斯基 希望 协议": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.7273160099983216,
+    "context_relevance": 0.7505594730377197,
+    "multi_hop_score": 1.0,
+    "community_score": 0.2257142857142857
+  },
+  "特朗普 罪名成立 不予惩罚": {
+    "faithfulness": 0.19,
+    "answer_relevance": 0.6887800097465515,
+    "context_relevance": 0.7303465723991394,
+    "multi_hop_score": 0.6,
+    "community_score": 0.12023809523809523
+  },
+  "特朗普 美国国际开发署 意味": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7323876917362213,
+    "context_relevance": 0.7751310765743256,
+    "multi_hop_score": 0.5,
+    "community_score": 0.07142857142857142
+  },
+  "特朗普 赢得 美国总统": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7327810645103454,
+    "context_relevance": 0.7534614443778992,
+    "multi_hop_score": 0.6,
+    "community_score": 0.0869047619047619
+  },
+  "特朗普 退出 联合国人权理事会": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6981327891349792,
+    "context_relevance": 0.7624576449394226,
+    "multi_hop_score": 0.6,
+    "community_score": 0.10833333333333332
+  },
+  "特朗普 马斯克 起诉": {
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6551375269889832,
+    "context_relevance": 0.7556940793991089,
+    "multi_hop_score": 0.8,
+    "community_score": 0.19285714285714284
+  },
+  "移民 入境 美国": {
+    "faithfulness": 0.38,
+    "answer_relevance": 0.7284112572669983,
+    "context_relevance": 0.7524566173553466,
+    "multi_hop_score": 0.6,
+    "community_score": 0.325
+  },
+  "金价 大涨 历史新高": {
+    "faithfulness": 0.35,
+    "answer_relevance": 0.7166393876075745,
+    "context_relevance": 0.7601078391075134,
+    "multi_hop_score": 0.8,
+    "community_score": 0.21333333333333332
+  }
+}

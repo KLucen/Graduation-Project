@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>知识图谱可视化 - Baseline方法</title>
+    <!-- 引入 vis.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+    <!-- 自定义样式 -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<!-- 导航栏 -->
+<nav class="navbar">
+    <div class="nav-container">
+        <a href="/baseline" class="nav-brand">知识图谱可视化</a>
+        <ul class="nav-menu">
+            <li><a href="/baseline" class="active">Baseline</a></li>
+            <li><a href="/cognitive">认知图谱</a></li>
+            <li><a href="/community">社区分析</a></li>
+            <li><a href="/rag">RAG问答</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- 页面主要内容 -->
+<main class="main-content">
+    <h1 class="page-title">Baseline 方法图谱</h1>
+    <div class="controls">
+        <div class="control-group">
+            <label for="label-select">标签：</label>
+            <select id="label-select">
+                <option value="all">全部</option>
+                <option value="Entity_Baseline">Entity_Baseline</option>
+                <option value="Entity_ZeroShot">Entity_ZeroShot</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label for="topic-select-baseline">话题：</label>
+            <select id="topic-select-baseline">
+                <option value="all">全部话题</option>
+            </select>
+        </div>
+        <button id="load-baseline" class="btn">加载图谱</button>
+    </div>
+
+    <!-- 网络图容器（扩大高度） -->
+    <div id="baseline-network" class="network expanded"></div>
+</main>
+
+<!-- 右下角图例 -->
+<div class="legend-container">
+    <div class="legend-title">图例</div>
+    <div class="legend-items" id="legend-items">
+        <!-- 动态填充 -->
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+<script>
+    // 页面加载完成后自动加载图谱
+    document.addEventListener('DOMContentLoaded', function() {
+        loadBaselineGraph();
+    });
+</script>
+</body>
+</html>

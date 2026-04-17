@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普在“封口费”案中被判有罪的具体罪名是什么？",
+    "context": "用户查询：特朗普在“封口费”案中被判有罪的具体罪名是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 罪名\n  - 案\n  - 法院\n  - 称特朗普\n  - 台\n  - 为特朗普\n  - 对比\n  - 特朗普捅\n  - 噩耗\n  - 对特朗普\n  - 点\n  - 施压特朗普\n  - 商人\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n\n概念间关系：\n  - 案 -[RELATION_OPENIE]-> 罪名\n  - 罪名 -[RELATION_OPENIE]-> 法院\n  - 罪名 -[RELATION_OPENIE]-> 法院\n  - 案 -[RELATION_OPENIE]-> 罪名\n  - 称特朗普 -[RELATION_OPENIE]-> 台\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普在‘封口费’案中被判有罪的具体罪名是什么？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“案”和“罪名”这两个概念节点，并且存在“案 -[RELATION_OPENIE]-> 罪名”的关系，表明“案”与“罪名”有关联。但是，图谱中**没有任何节点或关系明确指出这个“案”就是“封口费”案**，也**没有任何节点或关系具体描述“罪名”的内容**（例如伪造商业记录等）。图谱中其他与“特朗普”相关的节点（如“称特朗普”、“为特朗普”等）和关系，均未提供与“封口费”案或其具体罪名相关的直接信息。\n\n2.  **推断**：基于图谱信息的缺失，我无法进行任何与问题相关的合理推断。图谱中不存在可以支撑回答该问题的具体内容。\n\n**结论**：该认知图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7124117612838745,
+    "context_relevance": 0.7672362327575684,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "法院为何对特朗普作出“无条件释放”的判决？",
+    "context": "用户查询：法院为何对特朗普作出“无条件释放”的判决？\n\n相关认知图谱信息：\n概念节点：\n  - 为特朗普\n  - 对比\n  - 那么特朗普\n  - 交代\n  - 从特朗普\n  - 时代\n  - 态度\n  - 而特朗普\n  - 重组\n  - 称特朗普\n  - 台\n  - 对特朗普\n  - 点\n  - 若特朗普\n  - 举\n  - 特朗普赤裸裸地\n  - 日\n\n概念间关系：\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 那么特朗普 -[RELATION_OPENIE]-> 交代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 称特朗普 -[RELATION_OPENIE]-> 台\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 若特朗普 -[RELATION_OPENIE]-> 举\n  - 特朗普赤裸裸地 -[RELATION_OPENIE]-> 日",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“法院对特朗普作出‘无条件释放’判决”这一具体事件或原因直接相关的概念或关系。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中的概念节点（如“为特朗普”、“对比”、“交代”、“时代”、“态度”等）以及它们之间的关系（如“从特朗普 -[RELATION_OPENIE]-> 时代”），均无法构成对“法院为何作出无条件释放判决”这一问题的直接解释。这些概念和关系看起来是零散的短语，并未形成关于特定法律判决、司法程序、指控内容或判决理由的连贯信息。\n\n2.  **合理的推断**：由于图谱中缺乏与问题核心（法院判决的理由）直接相关的任何信息，我无法基于此图谱进行任何有意义的推断来解释法院的判决原因。图谱内容似乎与用户查询的法律事件无关。\n\n**结论**：\n图谱中没有与“法院为何对特朗普作出‘无条件释放’判决”相关的信息。因此，我无法根据所提供的认知图谱回答您的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6716023087501526,
+    "context_relevance": 0.7125166654586792,
+    "multi_hop_score": 1.0,
+    "community_score": 0.125
+  },
+  {
+    "question": "公众对特朗普“定罪免罚”的结果有何反应？",
+    "context": "用户查询：公众对特朗普“定罪免罚”的结果有何反应？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普赢\n  - 消息\n  - 特朗普难道\n  - 套\n  - 而特朗普\n  - 重组\n  - 施压特朗普\n  - 商人\n  - 后果特朗\n  - 他\n  - 为特朗普\n  - 对比\n  - 特朗普出尔反尔\n  - 馆\n  - 从特朗普\n  - 时代\n  - 态度\n\n概念间关系：\n  - 消息 -[RELATION_OPENIE]-> 特朗普赢\n  - 特朗普难道 -[RELATION_OPENIE]-> 套\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代",
+    "answer": "根据您提供的认知图谱信息，我无法回答“公众对特朗普‘定罪免罚’的结果有何反应？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的概念节点和关系完全不包含“定罪免罚”、“公众反应”或任何与之直接相关的表述（如审判、判决、法律后果、民意等）。图谱中提到的“特朗普赢”、“消息”、“出尔反尔”、“时代”、“态度”等概念，均无法与“定罪免罚”这一具体事件建立直接关联。\n\n2.  **推断**：由于图谱中缺乏相关信息，我无法进行任何与问题相关的合理推断。图谱内容似乎涉及其他主题或语境下的特朗普相关信息片段，但无法用于解释“定罪免罚”的公众反应。\n\n**结论**：图谱中没有与“特朗普‘定罪免罚’的公众反应”相关的任何信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7766300439834595,
+    "context_relevance": 0.7475683093070984,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普的上诉计划是什么？",
+    "context": "用户查询：特朗普的上诉计划是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普提\n  - 普京\n  - 特朗普提\n  - 计划\n  - 那么特朗普\n  - 交代\n  - 上诉\n  - 1.美SEC\n  - 上诉\n  - 移民\n  - 报道,特朗普\n  - 之外,特朗普22\n  - 特朗普想\n  - 后兵\n  - 特朗普:\n  - 总统\n  - 粉条\n\n概念间关系：\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 那么特朗普 -[RELATION_OPENIE]-> 交代\n  - 1.美SEC -[RELATION_OPENIE]-> 上诉\n  - 移民 -[RELATION_OPENIE]-> 上诉\n  - 报道,特朗普 -[RELATION_OPENIE]-> 之外,特朗普22\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条",
+    "answer": "根据您提供的认知图谱信息，我无法回答“特朗普的上诉计划是什么？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然存在“上诉”和“计划”这两个概念节点，但它们之间没有建立直接的关系。具体来说：\n    *   节点“上诉”与“1.美SEC”和“移民”存在关系，但未与“特朗普”或相关节点（如“特朗普提”）直接关联。\n    *   节点“计划”与“特朗普提”存在关系，但“特朗普提”这个节点本身含义模糊，且未与“上诉”建立关联。\n    *   图谱中其他与“特朗普”相关的节点和关系（如与普京、后兵、粉条等）均未涉及“上诉计划”这一主题。\n\n2.  **推断**：由于图谱中缺乏将“特朗普”、“上诉”和“计划”这三个核心要素联系起来的直接或间接信息，我无法从现有数据中推断出任何关于特朗普上诉计划的具体内容。\n\n**结论**：该认知图谱中没有与“特朗普的上诉计划”相关的信息。",
+    "faithfulness": 0.95,
+    "answer_relevance": 0.6708921194076538,
+    "context_relevance": 0.7298987507820129,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  },
+  {
+    "question": "此案对美国司法制度的公信力有何影响？",
+    "context": "用户查询：此案对美国司法制度的公信力有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 影响\n  - 发展\n  - 影响\n  - 事故\n  - 省\n  - 个\n  - 拉剧战\n  - 影响\n  - 生活\n  - 提高\n  - 影响\n  - 决策\n  - 他们\n  - 机构\n  - 咱\n  - 他\n  - 软\n  - 体系\n  - 这\n  - 影响\n  - 政策\n  - 任命\n  - 措施\n  - 影响\n  - 调整\n  - 个\n  - 影响\n  - 那\n  - 企业\n  - 特朗普\n  - 意思\n  - 他\n  - 主义\n  - 影响\n  - 业绩\n\n概念间关系：\n  - 发展 -[RELATION_OPENIE]-> 影响\n  - 事故 -[RELATION_OPENIE]-> 影响\n  - 省 -[RELATION_OPENIE]-> 影响\n  - 个 -[RELATION_OPENIE]-> 影响\n  - 拉剧战 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 生活\n  - 提高 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 他们 -[RELATION_OPENIE]-> 影响\n  - 机构 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 咱 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 他 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 软 -[RELATION_OPENIE]-> 影响\n  - 体系 -[RELATION_OPENIE]-> 影响\n  - 这 -[RELATION_OPENIE]-> 影响\n  - 政策 -[RELATION_OPENIE]-> 影响\n  - 任命 -[RELATION_OPENIE]-> 影响\n  - 措施 -[RELATION_OPENIE]-> 影响\n  - 调整 -[RELATION_OPENIE]-> 影响\n  - 个 -[RELATION_OPENIE]-> 影响\n  - 那 -[RELATION_OPENIE]-> 影响\n  - 企业 -[RELATION_OPENIE]-> 影响\n  - 特朗普 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 意思\n  - 他 -[RELATION_OPENIE]-> 影响\n  - 主义 -[RELATION_OPENIE]-> 影响\n  - 主义 -[RELATION_OPENIE]-> 影响\n  - 业绩 -[RELATION_OPENIE]-> 影响",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何内容**直接涉及“美国司法制度的公信力”或相关的“案件”。\n\n**分析过程：**\n1.  **提取相关信息**：图谱中的概念节点（如“特朗普”、“政策”、“体系”、“机构”）和关系（如“影响”）在字面上可能与“司法制度”和“公信力”的话题存在宽泛的关联，但图谱本身**没有**明确建立“此案”、“美国”、“司法制度”或“公信力”这些具体概念及其之间的直接联系。所有关系都指向一个名为“影响”的节点，但该节点本身没有定义，且连接的来源概念（如“事故”、“省”、“个”、“拉剧战”、“软”、“咱”等）大多语义模糊或与问题上下文无关。\n2.  **进行推断**：由于缺乏直接相关的信息，我无法基于此图谱对“此案对美国司法制度的公信力有何影响”做出任何合理的推断。任何尝试性的回答都将是脱离图谱信息的猜测。\n3.  **整合答案**：因此，无法整合出答案。\n\n**结论**：\n图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6123638153076172,
+    "context_relevance": 0.6945129036903381,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

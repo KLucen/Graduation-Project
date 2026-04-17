@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普赢得大选后，其“美国优先”政策对国际秩序有何冲击？",
+    "context": "用户查询：特朗普赢得大选后，其“美国优先”政策对国际秩序有何冲击？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普先\n  - 会晤\n  - 特朗普赢\n  - 消息\n  - 特朗普想\n  - 后兵\n  - 特朗普拿\n  - 格陵兰\n  - 特朗普捅\n  - 噩耗\n  - 施压特朗普\n  - 商人\n  - 后果特朗\n  - 他\n  - 特朗普挑\n  - 中国\n\n概念间关系：\n  - 特朗普先 -[RELATION_OPENIE]-> 会晤\n  - 消息 -[RELATION_OPENIE]-> 特朗普赢\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普拿 -[RELATION_OPENIE]-> 格陵兰\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 特朗普捅 -[RELATION_OPENIE]-> 噩耗\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 特朗普挑 -[RELATION_OPENIE]-> 中国",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“特朗普赢得大选后，其‘美国优先’政策对国际秩序有何冲击”这一问题。\n\n**原因如下：**\n\n1.  **图谱中缺乏直接相关信息**：提供的图谱节点和关系中，没有出现“美国优先”政策、国际秩序、大选结果对国际秩序的冲击等关键概念。节点如“特朗普赢”、“特朗普想”、“特朗普挑”等过于模糊，无法明确指向“美国优先”政策的具体内容或其对国际秩序的影响。关系描述（如“特朗普挑 -> 中国”）也缺乏具体语义，无法支撑有意义的分析。\n\n2.  **无法进行合理推断**：由于缺乏描述政策内容、具体行动及其国际反响的基础信息，任何关于“冲击”的阐述都将是脱离图谱信息的无根据推测。例如，图谱中提及“格陵兰”、“中国”等实体，但未说明与“美国优先”政策或国际秩序变化有何关联。\n\n**结论**：所提供的认知图谱中没有与用户查询问题直接相关或足以支撑推断的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7948888540267944,
+    "context_relevance": 0.7939589023590088,
+    "multi_hop_score": 1.0,
+    "community_score": 0.125
+  },
+  {
+    "question": "特朗普威胁对金砖国家加征关税的目的是什么？",
+    "context": "用户查询：特朗普威胁对金砖国家加征关税的目的是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 施压特朗普\n  - 商人\n  - 关税\n  - 加方\n  - 25%\n  - 关税\n  - 特朗普\n  - 商品\n  - 牛皮\n  - 关税\n  - 总统\n  - 特朗普\n  - 美国\n  - 移民\n  - 六十\n  - 布朗\n  - 哥伦比亚\n  - 关税\n  - 美国\n  - 实施\n  - 利益\n  - 价格\n  - 手段\n  - 大棒\n  - 负担\n  - 身上\n  - 局面\n  - 商\n  - 节奏\n  - 升级\n  - 发展\n  - 无知\n  - 作用\n  - 特朗普\n  - 挖鼻\n  - 网络\n  - 商品\n  - 他\n  - 方\n  - 总统\n  - A股\n  - 对华\n  - 特朗\n  - 美\n  - 中\n  - 使馆\n  - 边儿\n  - 量\n  - 25%\n  - 记件\n  - 国家\n  - 句\n  - 关税\n  - 人\n  - 内容\n  - 作用\n  - 冲击\n  - 你\n  - 中国\n  - 早报\n  - 特朗普\n  - 关税\n  - 美国\n  - 关税\n  - 品\n\n概念间关系：\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 加方 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 25%\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 牛皮 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 移民 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 六十\n  - 布朗 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 哥伦比亚 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 关税\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 实施\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 价格\n  - 关税 -[RELATION_OPENIE]-> 手段\n  - 关税 -[RELATION_OPENIE]-> 大棒\n  - 关税 -[RELATION_OPENIE]-> 负担\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 关税 -[RELATION_OPENIE]-> 身上\n  - 关税 -[RELATION_OPENIE]-> 局面\n  - 关税 -[RELATION_OPENIE]-> 商\n  - 关税 -[RELATION_OPENIE]-> 利益\n  - 关税 -[RELATION_OPENIE]-> 节奏\n  - 关税 -[RELATION_OPENIE]-> 升级\n  - 关税 -[RELATION_OPENIE]-> 发展\n  - 关税 -[RELATION_OPENIE]-> 无知\n  - 关税 -[RELATION_OPENIE]-> 作用\n  - 关税 -[RELATION_OPENIE]-> 美国\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 挖鼻 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 网络 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美国 -[RELATION_OPENIE]-> 关税\n  - 他 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 方 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - A股 -[RELATION_OPENIE]-> 关税\n  - 对华 -[RELATION_OPENIE]-> 关税\n  - 总统 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 方 -[RELATION_OPENIE]-> 关税\n  - 商品 -[RELATION_OPENIE]-> 关税\n  - 方 -[RELATION_OPENIE]-> 关税\n  - 特朗 -[RELATION_OPENIE]-> 关税\n  - 特朗普 -[RELATION_OPENIE]-> 关税\n  - 美 -[RELATION_OPENIE]-> 关税\n  ... 还有 46 条关系未列出",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“特朗普威胁对金砖国家加征关税的目的是什么”这个问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中多次出现“特朗普”与“关税”的关联（例如：特朗普 -[RELATION_OPENIE]-> 关税），表明图谱信息涉及特朗普与关税政策。\n    *   图谱中存在“关税”与“手段”、“大棒”、“利益”、“实施”等概念的关联，暗示关税被作为一种工具或策略来使用。\n    *   图谱中提到了“对华”与“关税”的关联，以及“商品”与“关税”的关联，说明内容可能涉及对特定国家（如中国）或商品征收关税。\n\n2.  **推断与整合**：\n    *   **推断**：基于“关税”与“手段”、“利益”等概念的关联，可以推断图谱中的信息可能指向特朗普使用关税作为一种施压或谈判手段，以达成某种利益目标。\n    *   **然而，关键信息缺失**：图谱中**没有出现“金砖国家”或任何具体的金砖成员国（如巴西、俄罗斯、印度、南非、中国等，除“中国”作为一般概念出现外）与“特朗普威胁加征关税”这一具体事件直接关联的节点或关系**。图谱中提及的“对华”关联可能指向中国，但不足以代表整个金砖国家集团，也无法直接回答针对“金砖国家”这一整体提问的目的。\n\n**结论**：\n图谱信息虽然包含特朗普与关税政策的一般性关联，以及关税作为策略手段的暗示，但**缺乏与“特朗普威胁对金砖国家加征关税”这一具体事件及其目的直接相关的任何内容**。因此，根据规则，我无法基于现有图谱信息给出该问题的答案。\n\n**最终回答**：图谱中没有与“特朗普威胁对金砖国家加征关税的目的”直接相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7403425574302673,
+    "context_relevance": 0.7535366415977478,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普重返白宫及其可能引发的全球政治经济格局的连锁反应？",
+    "context": "用户查询：特朗普重返白宫及其可能引发的全球政治经济格局的连锁反应？\n\n相关认知图谱信息：\n概念节点：\n  - 接下来特朗普\n  - 卷\n  - 特朗普来\n  - 唐纳德\n  - 特朗普来\n  - 唐纳德\n  - 加上特朗普\n  - 什么\n  - 加上特朗普\n  - 税\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普出尔反尔\n  - 馆\n  - 特朗普拜登\n  - 他\n\n概念间关系：\n  - 接下来特朗普 -[RELATION_OPENIE]-> 卷\n  - 特朗普来 -[RELATION_OPENIE]-> 唐纳德\n  - 特朗普来 -[RELATION_OPENIE]-> 唐纳德\n  - 加上特朗普 -[RELATION_OPENIE]-> 什么\n  - 加上特朗普 -[RELATION_OPENIE]-> 税\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 他 -[RELATION_OPENIE]-> 特朗普拜登",
+    "answer": "根据您提供的认知图谱信息，我无法回答关于“特朗普重返白宫及其可能引发的全球政治经济格局的连锁反应”的问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的概念节点和关系非常零散且语义模糊，例如“卷”、“馆”、“什么”、“他”等，无法构成有意义的陈述。关系也仅限于未指明类型的 `RELATION_OPENIE`，无法推导出具体、连贯的政策主张、历史事件或国际关系信息。\n\n2.  **推断**：基于图谱内容的现状，我推断这些信息可能是不完整的、存在大量噪声的原始提取数据，或者与您所询问的宏观战略性问题完全不匹配。图谱中没有任何关于“重返白宫”、“全球政治”、“经济格局”或“连锁反应”的直接或间接信息。\n\n**结论**：该认知图谱中**没有任何相关信息**可以用于支持对您所提问题的分析。要回答此类问题，需要包含其政策主张、历史行为记录、国际关系表态等具体、连贯信息的图谱数据。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7033157348632812,
+    "context_relevance": 0.7390199303627014,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "特朗普重返白宫对国内外重大事件的潜在影响有哪些？",
+    "context": "用户查询：特朗普重返白宫对国内外重大事件的潜在影响有哪些？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普来\n  - 唐纳德\n  - 特朗普来\n  - 唐纳德\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普访华\n  - 期\n  - 特朗普想\n  - 后兵\n  - 接下来特朗普\n  - 卷\n  - 特朗普要拉\n  - 俄罗斯\n  - 特朗普要拉\n  - 俄罗斯\n\n概念间关系：\n  - 特朗普来 -[RELATION_OPENIE]-> 唐纳德\n  - 特朗普来 -[RELATION_OPENIE]-> 唐纳德\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 期 -[RELATION_OPENIE]-> 特朗普访华\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 接下来特朗普 -[RELATION_OPENIE]-> 卷\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“特朗普重返白宫对国内外重大事件的潜在影响有哪些？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：您提供的图谱信息非常零散且不完整。节点名称（如“特朗普来”、“特朗普想”、“后兵”、“卷”）和关系（均为 `[RELATION_OPENIE]`）无法构成有意义的、关于特朗普政策或潜在影响的陈述。图谱中仅能提取出“特朗普”与“俄罗斯”这两个概念节点之间存在某种联系（“特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯”），但“要拉”的具体含义不明，无法据此得出任何关于外交政策的可靠信息。\n\n2.  **推断部分**：由于图谱中缺乏关于特朗普的执政理念、过往政策、当前主张或对具体国内外事件（如贸易、外交、安全等）的立场描述，**我无法进行任何合理的推断**。回答这个问题需要基于其政治纲领、历史行为模式等具体信息，而这些在所提供的图谱中完全缺失。\n\n**结论**：\n图谱中没有与“特朗普重返白宫对国内外重大事件的潜在影响”相关的有效信息。所提供的节点和关系无法支撑对该问题的分析。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7294461727142334,
+    "context_relevance": 0.7824121117591858,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "民众对特朗普的行为有何不满，不满的原因是什么？",
+    "context": "用户查询：民众对特朗普的行为有何不满，不满的原因是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 对特朗普\n  - 点\n  - 为特朗普\n  - 对比\n  - 施压特朗普\n  - 商人\n  - 特朗普难道\n  - 套\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 特朗普想\n  - 后兵\n  - 特朗普出尔反尔\n  - 馆\n\n概念间关系：\n  - 对特朗普 -[RELATION_OPENIE]-> 点\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 特朗普难道 -[RELATION_OPENIE]-> 套\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔\n  - 馆 -[RELATION_OPENIE]-> 特朗普出尔反尔",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“民众对特朗普的行为有何不满，不满的原因是什么？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的概念节点和关系非常零散且语义模糊。例如，存在“对特朗普”、“特朗普出尔反尔”、“施压特朗普”等节点，以及“馆 -[RELATION_OPENIE]-> 特朗普出尔反尔”这样的关系。这些信息片段**没有构成关于“民众不满”及其“原因”的清晰、连贯的事实描述**。节点如“点”、“对比”、“商人”、“套”、“记者”、“粉条”、“后兵”等，在图谱的当前语境下无法明确解读其具体含义以及与问题的关联。\n\n2.  **推断部分**：基于图谱中出现的“特朗普出尔反尔”这一短语，可以**推断**这可能代表了某种批评或负面评价。然而，图谱中**没有信息**表明这是“民众”的不满，也没有说明“出尔反尔”具体指哪些行为或政策，因此无法将其作为具体的不满原因进行陈述。\n\n**结论**：\n该认知图谱中**没有任何直接相关的、能够系统说明民众对特朗普不满及其原因的信息**。图谱内容碎片化，无法支撑一个完整的答案。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6959120035171509,
+    "context_relevance": 0.698379635810852,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  }
+]

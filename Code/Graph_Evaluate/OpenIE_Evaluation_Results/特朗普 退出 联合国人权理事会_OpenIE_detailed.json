@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普宣布退出联合国人权理事会的官方理由是什么？",
+    "context": "用户查询：特朗普宣布退出联合国人权理事会的官方理由是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普提\n  - 普京\n  - 特朗普提\n  - 计划\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 离特朗普\n  - 天\n  - 特朗普想\n  - 后兵\n  - 为特朗普\n  - 对比\n  - 人家特朗普\n  - 夫人\n\n概念间关系：\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 离特朗普 -[RELATION_OPENIE]-> 天\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 人家特朗普 -[RELATION_OPENIE]-> 夫人",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普宣布退出联合国人权理事会的官方理由”直接相关的概念节点或关系。\n\n**回答：**\n图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7078242897987366,
+    "context_relevance": 0.7468903660774231,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "以色列为何也宣布退出联合国人权理事会?",
+    "context": "用户查询：以色列为何也宣布退出联合国人权理事会?\n\n相关认知图谱信息：\n概念节点：\n  - 以色列\n  - 一\n  - 人权\n  - 美国\n  - 人权\n  - 中国\n  - 人权\n  - 行为\n  - 以色\n  - 令\n  - 以色\n  - 我们\n  - 原因\n  - 方面\n  - 原因\n  - 方面\n  - 旌扬\n  - 么\n\n概念间关系：\n  - 以色列 -[RELATION_OPENIE]-> 一\n  - 美国 -[RELATION_OPENIE]-> 人权\n  - 中国 -[RELATION_OPENIE]-> 人权\n  - 行为 -[RELATION_OPENIE]-> 人权\n  - 以色 -[RELATION_OPENIE]-> 令\n  - 我们 -[RELATION_OPENIE]-> 以色\n  - 原因 -[RELATION_OPENIE]-> 方面\n  - 原因 -[RELATION_OPENIE]-> 方面\n  - 原因 -[RELATION_OPENIE]-> 方面\n  - 原因 -[RELATION_OPENIE]-> 方面\n  - 原因 -[RELATION_OPENIE]-> 方面\n  - 旌扬 -[RELATION_OPENIE]-> 原因\n  - 原因 -[RELATION_OPENIE]-> 么",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“以色列宣布退出联合国人权理事会”这一具体事件直接相关的信息。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：图谱中的概念节点（如“以色列”、“美国”、“人权”、“原因”）和关系（如“原因 -[RELATION_OPENIE]-> 方面”）是零散且不完整的。它们没有构成任何关于“以色列退出联合国人权理事会”的具体事实陈述，例如退出时间、直接原因、官方声明内容或具体背景事件。节点“旌扬”、“么”等与问题明显无关，且关系表述（如“原因 -[RELATION_OPENIE]-> 方面”）本身不传达具体语义。\n\n2.  **推断**：由于图谱信息完全缺失相关具体内容，我无法基于此进行任何关于以色列退出原因的合理推断。\n\n**结论**：图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6178681254386902,
+    "context_relevance": 0.7533027529716492,
+    "multi_hop_score": 1.0,
+    "community_score": 0.25
+  },
+  {
+    "question": "国际社会对特朗普“退群”行为的主要反应是什么？",
+    "context": "用户查询：国际社会对特朗普“退群”行为的主要反应是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 离特朗普\n  - 天\n  - 特朗普聊\n  - 莫迪带\n  - 特朗普想\n  - 后兵\n  - 1.特朗普\n  - 扩张\n  - 朗普要\n  - 特朗普\n  - 施压特朗普\n  - 商人\n\n概念间关系：\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 离特朗普 -[RELATION_OPENIE]-> 天\n  - 莫迪带 -[RELATION_OPENIE]-> 特朗普聊\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 1.特朗普 -[RELATION_OPENIE]-> 扩张\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何内容**直接涉及“国际社会对特朗普‘退群’行为的主要反应”。\n\n**分析如下：**\n\n1.  **提取直接相关信息**：图谱中的概念节点（如“特朗普”、“记者”、“总统”、“商人”）和关系（如“总统 -> 特朗普”、“施压特朗普 -> 商人”）主要描述了与特朗普身份或一些模糊行为相关的孤立信息，例如他与记者、总统身份、商人的关联。但**完全没有**提及“退群”（即退出国际组织或协议）这一具体行为，也**完全没有**提及“国际社会”或任何国家、组织对此的“反应”。\n\n2.  **进行合理推断**：由于缺乏直接相关的信息，无法基于此图谱对“国际社会的主要反应”做出任何合理的推断。图谱中的碎片化信息（如“施压特朗普 -> 商人”）可能与政治经济压力有关，但无法明确指向“退群”行为及其国际反应。\n\n**结论**：\n图谱中没有与国际社会对特朗普“退群”行为反应相关的信息。因此，无法根据所提供的图谱回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7223645448684692,
+    "context_relevance": 0.7676259279251099,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "美国退出人权理事会对巴勒斯坦问题有何影响？",
+    "context": "用户查询：美国退出人权理事会对巴勒斯坦问题有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 巴勒斯坦\n  - 特朗普\n  - 巴勒斯坦\n  - 约旦\n  - 巴勒斯坦\n  - 指战\n  - 影响\n  - 发展\n  - 影响\n  - 消息\n  - 影响\n  - 改变\n  - 社\n  - 影响\n  - 利息\n  - 影响\n  - 业绩\n\n概念间关系：\n  - 特朗普 -[RELATION_OPENIE]-> 巴勒斯坦\n  - 约旦 -[RELATION_OPENIE]-> 巴勒斯坦\n  - 约旦 -[RELATION_OPENIE]-> 巴勒斯坦\n  - 巴勒斯坦 -[RELATION_OPENIE]-> 指战\n  - 巴勒斯坦 -[RELATION_OPENIE]-> 指战\n  - 发展 -[RELATION_OPENIE]-> 影响\n  - 消息 -[RELATION_OPENIE]-> 影响\n  - 改变 -[RELATION_OPENIE]-> 影响\n  - 社 -[RELATION_OPENIE]-> 影响\n  - 利息 -[RELATION_OPENIE]-> 影响\n  - 业绩 -[RELATION_OPENIE]-> 影响",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接关于“美国退出人权理事会”或该事件与“巴勒斯坦问题”之间关系的内容**。\n\n图谱中仅包含以下信息：\n*   **来自上下文的概念与关系**：图谱中提到了“特朗普”与“巴勒斯坦”之间存在某种关系（`特朗普 -[RELATION_OPENIE]-> 巴勒斯坦`），以及“约旦”与“巴勒斯坦”之间存在关系。此外，还有一些关于“影响”的通用关系（如发展、消息、改变等对“影响”的关系）。\n\n由于图谱信息中缺乏对美国退出人权理事会这一事件及其影响的任何描述，因此**无法根据所提供的上下文信息回答该事件对巴勒斯坦问题有何影响**。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6792930960655212,
+    "context_relevance": 0.7458171248435974,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普的“退群”行为如何影响美国的国际形象？",
+    "context": "用户查询：特朗普的“退群”行为如何影响美国的国际形象？\n\n相关认知图谱信息：\n概念节点：\n  - 离特朗普\n  - 天\n  - 后果特朗\n  - 他\n  - 特朗普想\n  - 后兵\n  - 为特朗普\n  - 对比\n  - 施压特朗普\n  - 商人\n  - 称特朗普\n  - 台\n  - 特朗普聊\n  - 莫迪带\n  - 特朗普要拉\n  - 俄罗斯\n\n概念间关系：\n  - 离特朗普 -[RELATION_OPENIE]-> 天\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 称特朗普 -[RELATION_OPENIE]-> 台\n  - 莫迪带 -[RELATION_OPENIE]-> 特朗普聊\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接关于“特朗普的‘退群’行为”或“美国的国际形象”的内容**。\n\n图谱中的概念节点和关系主要涉及一些零散的、不完整的短语（如“离特朗普”、“后果特朗”、“特朗普要拉俄罗斯”等），这些信息无法构成有意义的上下文，也无法支持对“退群行为如何影响国际形象”这一问题的分析。\n\n**结论：图谱中没有相关信息。**",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.763313889503479,
+    "context_relevance": 0.7986520528793335,
+    "multi_hop_score": 1.0,
+    "community_score": 0.125
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普要求乌克兰提供哪些资源以换取美国支持？",
+    "context": "用户查询：特朗普要求乌克兰提供哪些资源以换取美国支持？\n\n相关认知图谱信息：\n概念节点：\n  - 朗普要\n  - 特朗普\n  - 特朗普称泽连斯基\n  - 协议\n  - 特朗普提\n  - 计划\n  - 特朗普提\n  - 普京\n  - 特朗普要拉\n  - 俄罗斯\n  - 特朗普要拉\n  - 俄罗斯\n  - 特朗普想\n  - 后兵\n  - 特朗普拿\n  - 格陵兰\n\n概念间关系：\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普\n  - 特朗普称泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普拿 -[RELATION_OPENIE]-> 格陵兰",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“特朗普要求乌克兰提供哪些资源以换取美国支持”这个问题。\n\n**来自上下文的信息：**\n图谱中提到了“特朗普”、“协议”、“计划”、“俄罗斯”、“后兵”和“格陵兰”等概念节点，以及它们之间的一些关系。例如，“特朗普称泽连斯基”与“协议”相关，“特朗普提”与“计划”相关，“特朗普想”与“后兵”相关，“特朗普拿”与“格陵兰”相关。\n\n**推断与分析：**\n虽然图谱中包含了“特朗普”和“协议”等可能与问题背景相关的概念，但没有任何一个节点或关系明确指出特朗普“要求乌克兰提供资源”或“换取美国支持”的具体内容。图谱中提到的“俄罗斯”、“后兵”（可能指“撤兵”或军事相关）和“格陵兰”等信息，均未在上下文中与“乌克兰”或“资源交换”建立直接关联。\n\n**结论：**\n图谱中没有与用户查询直接相关的信息。因此，我无法根据提供的认知图谱回答特朗普具体要求乌克兰提供什么资源以换取支持的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7467302680015564,
+    "context_relevance": 0.7615200877189636,
+    "multi_hop_score": 1.0,
+    "community_score": 0.16666666666666666
+  },
+  {
+    "question": "泽连斯基对特朗普的矿产协议持什么态度？",
+    "context": "用户查询：泽连斯基对特朗普的矿产协议持什么态度？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普称泽连斯基\n  - 协议\n  - ,施压泽连斯基\n  - 特朗普\n  - 拜登和泽连斯基\n  - 支持\n  - 泽连斯基正\n  - 协议\n  - 泽连斯基\n  - 警告\n  - 性\n  - 通话\n  - 条件\n  - 会\n  - 底气\n  - 会晤\n  - 步\n  - 倡议\n  - 个\n  - 回应\n  - 州\n  - 声明\n  - 平台\n  - 匈牙利\n  - 协\n  - 他\n  - 贺\n  - 机会\n  - 采访\n  - 自己\n  - 看法\n  - 战争\n  - 言论\n  - 情报\n  - 现实\n  - 天下\n  - 特朗普\n  - 战笋\n  - 泽连斯基\n  - 白宫\n  - 泽连斯基\n  - 特朗普\n  - 泽连斯基吃\n  - 欧盟\n\n概念间关系：\n  - 特朗普称泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 特朗普 -[RELATION_OPENIE]-> ,施压泽连斯基\n  - 拜登和泽连斯基 -[RELATION_OPENIE]-> 支持\n  - 泽连斯基正 -[RELATION_OPENIE]-> 协议\n  - 泽连斯基 -[RELATION_OPENIE]-> 警告\n  - 泽连斯基 -[RELATION_OPENIE]-> 性\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 条件\n  - 泽连斯基 -[RELATION_OPENIE]-> 会\n  - 泽连斯基 -[RELATION_OPENIE]-> 底气\n  - 泽连斯基 -[RELATION_OPENIE]-> 会晤\n  - 泽连斯基 -[RELATION_OPENIE]-> 步\n  - 泽连斯基 -[RELATION_OPENIE]-> 倡议\n  - 泽连斯基 -[RELATION_OPENIE]-> 倡议\n  - 泽连斯基 -[RELATION_OPENIE]-> 倡议\n  - 泽连斯基 -[RELATION_OPENIE]-> 倡议\n  - 泽连斯基 -[RELATION_OPENIE]-> 个\n  - 泽连斯基 -[RELATION_OPENIE]-> 倡议\n  - 泽连斯基 -[RELATION_OPENIE]-> 回应\n  - 泽连斯基 -[RELATION_OPENIE]-> 州\n  - 泽连斯基 -[RELATION_OPENIE]-> 声明\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 平台\n  - 泽连斯基 -[RELATION_OPENIE]-> 匈牙利\n  - 泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 泽连斯基 -[RELATION_OPENIE]-> 协\n  - 泽连斯基 -[RELATION_OPENIE]-> 他\n  - 泽连斯基 -[RELATION_OPENIE]-> 贺\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 支持\n  - 泽连斯基 -[RELATION_OPENIE]-> 机会\n  - 泽连斯基 -[RELATION_OPENIE]-> 平台\n  - 泽连斯基 -[RELATION_OPENIE]-> 他\n  - 泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 采访\n  - 泽连斯基 -[RELATION_OPENIE]-> 自己\n  - 泽连斯基 -[RELATION_OPENIE]-> 看法\n  - 泽连斯基 -[RELATION_OPENIE]-> 战争\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 言论\n  - 泽连斯基 -[RELATION_OPENIE]-> 情报\n  - 泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 泽连斯基 -[RELATION_OPENIE]-> 他\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 现实\n  - 泽连斯基 -[RELATION_OPENIE]-> 他\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 通话\n  - 泽连斯基 -[RELATION_OPENIE]-> 条件\n  - 泽连斯基 -[RELATION_OPENIE]-> 天下\n  - 特朗普 -[RELATION_OPENIE]-> 泽连斯基\n  - 战笋 -[RELATION_OPENIE]-> 泽连斯基\n  - 泽连斯基 -[RELATION_OPENIE]-> 白宫\n  - 泽连斯基 -[RELATION_OPENIE]-> 特朗普\n  - 欧盟 -[RELATION_OPENIE]-> 泽连斯基吃",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“泽连斯基对特朗普的矿产协议持什么态度”这个问题。\n\n**原因如下：**\n\n1.  **图谱中无直接相关信息**：图谱中虽然多次出现“协议”和“泽连斯基”这两个概念节点，并且存在“泽连斯基 -[RELATION_OPENIE]-> 协议”的关系，但所有信息均未具体指明是“矿产协议”。图谱中也未提及任何与“矿产”相关的概念。\n2.  **无法进行合理推断**：由于缺乏关于“矿产协议”这一具体对象的任何信息，我无法从现有的、不明确的“协议”关系中推断出泽连斯基对“特朗普的矿产协议”的具体态度。图谱中其他关于“特朗普”、“泽连斯基”、“通话”、“条件”等的关系片段，因信息过于零碎且缺乏上下文，无法构成支持推断的有效依据。\n\n**结论**：根据您提供的认知图谱，其中没有与“特朗普的矿产协议”直接或间接相关的信息，因此无法回答泽连斯基对此的态度。",
+    "faithfulness": 0.95,
+    "answer_relevance": 0.7623195052146912,
+    "context_relevance": 0.7437486052513123,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普与普京通话对俄乌冲突的解决有何影响？",
+    "context": "用户查询：特朗普与普京通话对俄乌冲突的解决有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 川普谈\n  - 效率\n  - 特朗普聊\n  - 莫迪带\n  - 普京,\n  - 动作\n  - 特朗普称泽连斯基\n  - 协议\n  - 跟特朗普\n  - 协议\n  - 对特朗普\n  - 点\n\n概念间关系：\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 川普谈 -[RELATION_OPENIE]-> 效率\n  - 莫迪带 -[RELATION_OPENIE]-> 特朗普聊\n  - 动作 -[RELATION_OPENIE]-> 普京,\n  - 特朗普称泽连斯基 -[RELATION_OPENIE]-> 协议\n  - 跟特朗普 -[RELATION_OPENIE]-> 协议\n  - 对特朗普 -[RELATION_OPENIE]-> 点",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普与普京通话对俄乌冲突的解决有何影响”这一问题直接相关的内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中出现了“特朗普”、“普京”和“协议”等概念节点。\n    *   存在“动作 -> 普京”和“特朗普称泽连斯基 -> 协议”的关系。\n\n2.  **推断与整合**：\n    *   虽然出现了相关人名和“协议”一词，但图谱中**没有**“通话”、“俄乌冲突”、“解决”、“影响”等关键概念节点，也**没有**描述“特朗普”与“普京”之间直接关系的边（如“通话”、“讨论”等）。\n    *   图谱中“特朗普称泽连斯基 -> 协议”的关系，可能暗示特朗普与乌克兰前总统泽连斯基之间存在某种关于“协议”的表述，但这与问题核心“特朗普与普京的通话”无关。\n    *   因此，**无法从提供的图谱信息中推断出特朗普与普京的通话对俄乌冲突解决有何影响**。\n\n**结论**：图谱中没有相关信息可以回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7440795302391052,
+    "context_relevance": 0.7672595977783203,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  },
+  {
+    "question": "乌克兰民众如何看待美国提出的“稀土换军火”条件？",
+    "context": "用户查询：乌克兰民众如何看待美国提出的“稀土换军火”条件？\n\n相关认知图谱信息：\n概念节点：\n  - 乌克兰妥协\n  - 底气\n  - ！乌军\n  - 村\n  - 乌军咬牙\n  - 那时\n  - 乌军\n  - 和谈\n  - 局面\n  - 乌军\n  - 堡\n  - 天\n  - 车\n  - 乌军\n  - 军人\n  - 乌军\n  - 军\n  - 美乌大对账\n  - 问题\n\n概念间关系：\n  - 乌克兰妥协 -[RELATION_OPENIE]-> 底气\n  - ！乌军 -[RELATION_OPENIE]-> 村\n  - 乌军咬牙 -[RELATION_OPENIE]-> 那时\n  - 和谈 -[RELATION_OPENIE]-> 乌军\n  - 和谈 -[RELATION_OPENIE]-> 乌军\n  - 乌军 -[RELATION_OPENIE]-> 局面\n  - 和谈 -[RELATION_OPENIE]-> 乌军\n  - 乌军 -[RELATION_OPENIE]-> 堡\n  - 乌军 -[RELATION_OPENIE]-> 天\n  - 乌军 -[RELATION_OPENIE]-> 天\n  - 乌军 -[RELATION_OPENIE]-> 车\n  - 乌军 -[RELATION_OPENIE]-> 军人\n  - 乌军 -[RELATION_OPENIE]-> 军\n  - 军 -[RELATION_OPENIE]-> 乌军\n  - 美乌大对账 -[RELATION_OPENIE]-> 问题",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“乌克兰民众如何看待美国提出的‘稀土换军火’条件？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的所有概念节点和关系，均未提及“稀土”、“军火”、“美国提出的条件”或“乌克兰民众的看法”等与用户查询直接相关的信息。图谱内容主要围绕“乌克兰妥协”、“底气”、“乌军”、“和谈”、“美乌大对账”等概念及其相互关系展开。\n\n2.  **推断**：基于图谱中完全没有相关概念或关系这一事实，我可以推断，当前提供的认知图谱中**没有任何关于“稀土换军火”这一具体提议，以及乌克兰民众对此看法的信息**。\n\n**结论**：\n图谱中没有相关信息可以用于回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7591368556022644,
+    "context_relevance": 0.7754989862442017,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "美乌矿产协议的谈判破裂对两国关系产生了什么后果？",
+    "context": "用户查询：美乌矿产协议的谈判破裂对两国关系产生了什么后果？\n\n相关认知图谱信息：\n概念节点：\n  - 美乌大对账\n  - 问题\n  - 谈判\n  - 来源\n  - 谈判\n  - 时间\n  - 手段\n  - 谈判\n  - 总统\n  - 谈判\n  - 明明\n  - 问题\n  - 谈判\n  - 手段\n  - 谈判\n  - 资方\n  - 乌克兰妥协\n  - 底气\n\n概念间关系：\n  - 美乌大对账 -[RELATION_OPENIE]-> 问题\n  - 谈判 -[RELATION_OPENIE]-> 来源\n  - 谈判 -[RELATION_OPENIE]-> 时间\n  - 谈判 -[RELATION_OPENIE]-> 手段\n  - 总统 -[RELATION_OPENIE]-> 谈判\n  - 明明 -[RELATION_OPENIE]-> 谈判\n  - 问题 -[RELATION_OPENIE]-> 谈判\n  - 谈判 -[RELATION_OPENIE]-> 手段\n  - 资方 -[RELATION_OPENIE]-> 谈判\n  - 乌克兰妥协 -[RELATION_OPENIE]-> 底气",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有直接提及“美乌矿产协议的谈判破裂”这一具体事件**，也没有直接描述其对两国关系产生的后果。\n\n**来自上下文的信息：**\n图谱中只包含以下概念和关系：\n1.  存在一个名为“美乌大对账”的概念，它关联到“问题”。\n2.  “谈判”是一个核心概念，它与“来源”、“时间”、“手段”等多个概念相关。\n3.  “总统”、“明明”、“问题”、“资方”这些概念都与“谈判”存在关系。\n4.  “乌克兰妥协”这个概念关联到“底气”。\n\n**推断部分：**\n由于图谱信息高度碎片化且语义模糊（例如“明明”、“底气”等概念含义不明），无法从这些孤立的概念和关系中，合理推断出关于“美乌矿产协议谈判破裂”及其对两国关系影响的具体内容。图谱中缺乏构成逻辑链条的必要信息。\n\n**结论：**\n图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6419199109077454,
+    "context_relevance": 0.7871677875518799,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  }
+]

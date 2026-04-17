@@ -1,0 +1,52 @@
+[
+  {
+    "question": "陈雄伟因何被查？涉嫌哪些违纪违法行为？",
+    "context": "用户查询：陈雄伟因何被查？涉嫌哪些违纪违法行为？\n\n相关认知图谱信息：\n概念节点：\n  - 陈\n  - 黄金\n  - 今\n  - 长\n  - 审查\n  - 囹圄\n  - 书记\n  - 组\n  - 年\n  - 他贪\n  - 你\n  - 反腐\n  - 国乒\n  - 腐败\n  - 马斯克\n  - 委:\n  - 金\n  - 指控\n  - 点\n  - 特朗普\n  - 指控\n  - 院\n  - 伟,\n  - 消息\n\n概念间关系：\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 陈 -[RELATION_OPENIE]-> 今\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 陈\n  - 陈 -[RELATION_OPENIE]-> 审查\n  - 陈 -[RELATION_OPENIE]-> 囹圄\n  - 陈 -[RELATION_OPENIE]-> 书记\n  - 陈 -[RELATION_OPENIE]-> 组\n  - 陈 -[RELATION_OPENIE]-> 年\n  - 你 -[RELATION_OPENIE]-> 他贪\n  - 你 -[RELATION_OPENIE]-> 他贪\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 马斯克 -[RELATION_OPENIE]-> 腐败\n  - 委: -[RELATION_OPENIE]-> 金\n  - 委: -[RELATION_OPENIE]-> 金\n  - 委: -[RELATION_OPENIE]-> 金\n  - 指控 -[RELATION_OPENIE]-> 点\n  - 指控 -[RELATION_OPENIE]-> 点\n  - 特朗普 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 院 -[RELATION_OPENIE]-> 指控\n  - 伟, -[RELATION_OPENIE]-> 消息",
+    "answer": "根据您提供的认知图谱信息，我无法回答“陈雄伟因何被查？涉嫌哪些违纪违法行为？”这个问题。\n\n**原因如下：**\n\n1.  **图谱中缺乏直接相关信息**：您提供的图谱信息非常零散且不完整。虽然存在“陈”、“审查”、“指控”、“腐败”等概念节点，但它们之间没有形成能够说明“陈雄伟”具体案由的清晰关系链。例如，没有节点明确表示“陈雄伟因XXX被审查”或“陈雄伟涉嫌XXX违法行为”。\n2.  **信息无法有效关联**：图谱中存在“陈”与“黄金”、“审查”、“书记”等的关系，但“陈”是否指代“陈雄伟”并不明确。其他如“反腐”、“国乒”、“马斯克”、“特朗普”等节点与查询主体“陈雄伟”之间没有建立任何关系，属于无关信息。\n3.  **无法进行合理推断**：由于缺乏描述事件原因、经过和性质的核心信息（如具体的违纪违法事实、调查机关、所涉领域等），我无法从这些碎片化的概念和关系中推断出“陈雄伟”被查的具体原因和涉嫌的违法行为。\n\n**结论**：图谱中没有与“陈雄伟被查原因及涉嫌违纪违法行为”直接相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7431131601333618,
+    "context_relevance": 0.727817177772522,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "调查人员在陈雄伟家中搜出了多少黄金珠宝？",
+    "context": "用户查询：调查人员在陈雄伟家中搜出了多少黄金珠宝？\n\n相关认知图谱信息：\n概念节点：\n  - 黄金\n  - 我\n  - 黄金\n  - 金量\n  - 长\n  - 陈\n  - 家中\n  - 眼\n  - 仪式\n  - 报\n  - 巨\n  - 态度\n  - 人\n  - 他\n  - 金窝\n  - 家里\n  - 多少克\n  - 马\n  - 黄金\n  - 首选\n  - 元\n  - 这\n  - 矿\n  - 黄金\n  - 人\n  - 黄金\n  - 当地\n  - 任务\n  - 师\n  - 金价再\n  - 金价大涨\n  - 新高\n  - 1%\n  - 价格\n  - 黄金\n  - 大跌\n  - 五千万\n  - 他\n  - 疫情\n  - 金额\n  - 新高\n\n概念间关系：\n  - 我 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 金量\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 家中 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 眼\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 仪式 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 家中 -[RELATION_OPENIE]-> 黄金\n  - 陈 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 家中 -[RELATION_OPENIE]-> 黄金\n  - 报 -[RELATION_OPENIE]-> 黄金\n  - 巨 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 态度\n  - 黄金 -[RELATION_OPENIE]-> 人\n  - 他 -[RELATION_OPENIE]-> 黄金\n  - 金窝 -[RELATION_OPENIE]-> 黄金\n  - 家中 -[RELATION_OPENIE]-> 黄金\n  - 家里 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 多少克\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 家中 -[RELATION_OPENIE]-> 黄金\n  - 长 -[RELATION_OPENIE]-> 黄金\n  - 他 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 多少克\n  - 黄金 -[RELATION_OPENIE]-> 马\n  - 黄金 -[RELATION_OPENIE]-> 首选\n  - 黄金 -[RELATION_OPENIE]-> 元\n  - 这 -[RELATION_OPENIE]-> 黄金\n  - 矿 -[RELATION_OPENIE]-> 黄金\n  - 人 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 当地\n  - 黄金 -[RELATION_OPENIE]-> 任务\n  - 师 -[RELATION_OPENIE]-> 黄金\n  - 金价再 -[RELATION_OPENIE]-> 黄金\n  - 金价大涨 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 新高\n  - 黄金 -[RELATION_OPENIE]-> 1%\n  - 价格 -[RELATION_OPENIE]-> 黄金\n  - 黄金 -[RELATION_OPENIE]-> 大跌\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 他 -[RELATION_OPENIE]-> 五千万\n  - 疫情 -[RELATION_OPENIE]-> 五千万\n  - 金额 -[RELATION_OPENIE]-> 新高",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“调查人员在陈雄伟家中搜出了多少黄金珠宝”这个问题。\n\n**来自上下文的信息：**\n1.  图谱中存在概念节点“陈”，并且“陈”与“黄金”之间存在关系（`陈 -[RELATION_OPENIE]-> 黄金`）。\n2.  图谱中存在概念节点“家中”和“家里”，并且它们都与“黄金”存在关系（`家中 -[RELATION_OPENIE]-> 黄金`， `家里 -[RELATION_OPENIE]-> 黄金`）。\n3.  图谱中存在概念节点“多少克”，并且“黄金”与之存在关系（`黄金 -[RELATION_OPENIE]-> 多少克`）。\n4.  图谱中存在概念节点“五千万”，并且“他”与之存在多次关系（`他 -[RELATION_OPENIE]-> 五千万`）。\n\n**推断过程：**\n1.  虽然图谱明确提到了“陈”、“家中”和“黄金”之间的关联，暗示了“陈”的“家中”有“黄金”这一事实。\n2.  但是，图谱中**没有任何一个关系或节点**明确指出这些黄金是“被调查人员搜出”的。这是用户查询中的关键动作，在图谱中完全缺失。\n3.  图谱中提到了“多少克”，但并未与“陈家中搜出的黄金”这一具体事件建立明确、直接的数量关系。它只是一个孤立的概念。\n4.  图谱中多次出现的“五千万”虽然与“他”有关，但同样没有与“陈”、“家中”、“黄金”或“搜出”等概念建立任何联系，无法推断这是搜出的黄金珠宝的价值或数量。\n\n**结论：**\n由于提供的认知图谱信息中，**没有包含与“调查人员搜出”这一行为直接相关的信息**，也**没有明确指出从陈雄伟家中搜出的黄金珠宝的具体数量**，因此我无法根据现有图谱回答该问题。\n\n**最终回答：**\n图谱中没有关于“调查人员在陈雄伟家中搜出黄金珠宝数量”的相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6431909203529358,
+    "context_relevance": 0.6802062392234802,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "此案对中国黄金集团的声誉有何影响？",
+    "context": "用户查询：此案对中国黄金集团的声誉有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 影响\n  - 利息\n  - 影响\n  - 发展\n  - 影响\n  - 改变\n  - 社\n  - 影响\n  - 消息\n  - 影响\n  - 事故\n  - 省\n  - 个\n  - 拉剧战\n  - 影响\n  - 生活\n  - 提高\n  - 影响\n  - 决策\n  - 他们\n  - 机构\n  - 咱\n  - 他\n  - 软\n  - 体系\n  - 这\n  - 影响\n  - 业绩\n\n概念间关系：\n  - 利息 -[RELATION_OPENIE]-> 影响\n  - 发展 -[RELATION_OPENIE]-> 影响\n  - 改变 -[RELATION_OPENIE]-> 影响\n  - 社 -[RELATION_OPENIE]-> 影响\n  - 消息 -[RELATION_OPENIE]-> 影响\n  - 事故 -[RELATION_OPENIE]-> 影响\n  - 省 -[RELATION_OPENIE]-> 影响\n  - 个 -[RELATION_OPENIE]-> 影响\n  - 拉剧战 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 生活\n  - 提高 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 他们 -[RELATION_OPENIE]-> 影响\n  - 机构 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 咱 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 他 -[RELATION_OPENIE]-> 影响\n  - 决策 -[RELATION_OPENIE]-> 影响\n  - 软 -[RELATION_OPENIE]-> 影响\n  - 体系 -[RELATION_OPENIE]-> 影响\n  - 这 -[RELATION_OPENIE]-> 影响\n  - 业绩 -[RELATION_OPENIE]-> 影响",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**任何关于“中国黄金集团”或“此案”的具体节点或关系。\n\n**来自上下文的信息：**\n图谱中只包含了一些抽象的概念节点（如“影响”、“事故”、“业绩”）和它们之间宽泛的“影响”关系。没有出现“中国黄金集团”、“声誉”或任何具体案件的相关信息。\n\n**推断：**\n由于图谱中缺乏与查询问题直接相关的任何具体信息，无法根据该图谱分析此案对中国黄金集团声誉的具体影响。\n\n**整合答案：**\n图谱中没有与“中国黄金集团”或“此案”相关的信息，因此无法根据所提供的图谱回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6269979476928711,
+    "context_relevance": 0.6850517392158508,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "公众对陈雄伟案的关注点主要集中在哪些方面？",
+    "context": "用户查询：公众对陈雄伟案的关注点主要集中在哪些方面？\n\n相关认知图谱信息：\n概念节点：\n  - 关切\n  - 方面\n  - 关切\n  - 们\n  - 争议\n  - 问题\n  - 白\n  - 争议\n  - 计划\n  - 特朗普\n  - 评龙\n  - 争议\n  - 问题\n  - 争议\n  - 特朗普\n  - 争议\n  - 决定\n  - 争议\n  - 舆论\n\n概念间关系：\n  - 方面 -[RELATION_OPENIE]-> 关切\n  - 方面 -[RELATION_OPENIE]-> 关切\n  - 们 -[RELATION_OPENIE]-> 关切\n  - 问题 -[RELATION_OPENIE]-> 争议\n  - 白 -[RELATION_OPENIE]-> 争议\n  - 计划 -[RELATION_OPENIE]-> 争议\n  - 特朗普 -[RELATION_OPENIE]-> 争议\n  - 特朗普 -[RELATION_OPENIE]-> 争议\n  - 特朗普 -[RELATION_OPENIE]-> 争议\n  - 评龙 -[RELATION_OPENIE]-> 争议\n  - 问题 -[RELATION_OPENIE]-> 争议\n  - 问题 -[RELATION_OPENIE]-> 争议\n  - 问题 -[RELATION_OPENIE]-> 争议\n  - 特朗普 -[RELATION_OPENIE]-> 争议\n  - 决定 -[RELATION_OPENIE]-> 争议\n  - 争议 -[RELATION_OPENIE]-> 舆论\n  - 争议 -[RELATION_OPENIE]-> 舆论",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“陈雄伟案”直接相关的概念节点或关系。\n\n**来自上下文的信息：**\n图谱中出现的概念节点（如“关切”、“方面”、“争议”、“特朗普”、“评龙”、“舆论”等）以及它们之间的关系，均未提及“陈雄伟”或“陈雄伟案”。图谱内容主要围绕“争议”这一核心概念，关联到“问题”、“特朗普”、“决定”、“舆论”等，但这些关联与您查询的“陈雄伟案”无关。\n\n**推断：**\n由于图谱中完全缺失与“陈雄伟案”相关的任何信息，因此无法根据该图谱提取或推断出公众对此案的任何关注点。\n\n**整合答案：**\n图谱中没有与“陈雄伟案”相关的信息，因此无法根据所提供的图谱回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6180605888366699,
+    "context_relevance": 0.7915777564048767,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "此案反映了国企反腐的哪些趋势？",
+    "context": "用户查询：此案反映了国企反腐的哪些趋势？\n\n相关认知图谱信息：\n概念节点：\n  - 反腐\n  - 国乒\n  - 腐败\n  - 马斯克\n  - 腐败\n  - 总统\n  - 形势\n  - 翼龙\n  - 形势\n  - 我\n  - 形势\n  - 美国\n  - 美\n  - 乱象\n  - 6.\n  - 局势\n  - 近日\n\n概念间关系：\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 反腐 -[RELATION_OPENIE]-> 国乒\n  - 马斯克 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 总统 -[RELATION_OPENIE]-> 腐败\n  - 形势 -[RELATION_OPENIE]-> 翼龙\n  - 形势 -[RELATION_OPENIE]-> 我\n  - 美国 -[RELATION_OPENIE]-> 形势\n  - 美 -[RELATION_OPENIE]-> 形势\n  - 6. -[RELATION_OPENIE]-> 乱象\n  - 局势 -[RELATION_OPENIE]-> 近日",
+    "answer": "根据提供的认知图谱信息，图谱中**没有任何与“国企反腐”直接相关的概念节点或关系**。图谱中提到的“反腐”仅与“国乒”存在关系，而其他概念如“腐败”与“马斯克”、“总统”等相关，均不涉及“国企”这一特定领域。\n\n**结论**：图谱中没有关于“国企反腐趋势”的相关信息，因此无法基于图谱回答此问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6249036192893982,
+    "context_relevance": 0.7294997572898865,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

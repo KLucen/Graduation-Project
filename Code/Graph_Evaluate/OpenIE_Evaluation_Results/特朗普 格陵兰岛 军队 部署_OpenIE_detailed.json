@@ -1,0 +1,52 @@
+[
+  {
+    "question": "特朗普计划购买格陵兰岛的主要动机是什么？",
+    "context": "用户查询：特朗普计划购买格陵兰岛的主要动机是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普想\n  - 后兵\n  - 朗普要\n  - 特朗普\n  - 为特朗普\n  - 对比\n  - 金主特朗普\n  - 规矩\n  - 特朗普提\n  - 计划\n  - 特朗普提\n  - 普京\n  - 特朗普要拉\n  - 俄罗斯\n  - 特朗普要拉\n  - 俄罗斯\n\n概念间关系：\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 规矩 -[RELATION_OPENIE]-> 金主特朗普\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯\n  - 特朗普要拉 -[RELATION_OPENIE]-> 俄罗斯",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接相关**的内容可以回答“特朗普计划购买格陵兰岛的主要动机是什么”这个问题。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中出现了“特朗普”、“计划”等概念节点。\n    *   存在关系“特朗普提 -[RELATION_OPENIE]-> 计划”，表明“特朗普”与“计划”有关联。\n    *   然而，图谱中完全没有出现“格陵兰岛”、“购买”、“动机”等关键概念，也没有任何关系指向这些概念或解释该计划的性质。\n\n2.  **推断**：\n    *   由于核心概念缺失，无法从现有图谱中推断出任何关于购买格陵兰岛动机的有效信息。图中出现的“俄罗斯”、“普京”等节点与“特朗普要拉”的关系，与用户查询的主题无关，无法构成合理推断的基础。\n\n**结论**：所提供的认知图谱中没有与“特朗普计划购买格陵兰岛的主要动机”相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7157648205757141,
+    "context_relevance": 0.7857564687728882,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "格陵兰岛居民对特朗普的吞并威胁有何反应？",
+    "context": "用户查询：格陵兰岛居民对特朗普的吞并威胁有何反应？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 特朗普想\n  - 后兵\n  - 施压特朗普\n  - 商人\n  - 特朗普威\n  - 点\n  - 特朗普露出獠牙\n  - 内斗\n  - 朗普要\n  - 特朗普\n  - 特朗普提\n  - 普京\n\n概念间关系：\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 特朗普露出獠牙 -[RELATION_OPENIE]-> 内斗\n  - 朗普要 -[RELATION_OPENIE]-> 特朗普\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提",
+    "answer": "根据提供的认知图谱信息，图谱中**没有任何**与“格陵兰岛居民”或“吞并威胁”直接相关的概念节点或关系。\n\n**来自上下文的信息：**\n图谱中出现的概念（如“特朗普”、“记者”、“总统”、“普京”等）及其关系，均未涉及格陵兰岛或其居民。\n\n**推断：**\n由于图谱中缺乏相关信息，无法根据该图谱推断格陵兰岛居民对所谓“吞并威胁”的反应。\n\n**结论：**\n图谱中没有相关信息可以回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.670491635799408,
+    "context_relevance": 0.72115159034729,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "美国在格陵兰岛的军事部署引发了怎样的国际紧张局势？",
+    "context": "用户查询：美国在格陵兰岛的军事部署引发了怎样的国际紧张局势？\n\n相关认知图谱信息：\n概念节点：\n  - 局势\n  - 关注\n  - 局势\n  - 情况\n  - 局势\n  - 拼杀\n  - 局势\n  - 命令\n  - 局势\n  - 马斯克\n  - 关注\n  - 大事\n  - 变数\n  - 特朗普突袭\n  - 政府\n  - 消息\n  - 决战\n  - 局势\n  - 变数\n  - 混乱\n  - 钻粉团\n  - 宋\n  - 巴\n  - 行动\n  - 局势\n  - 观察\n  - 俄乌\n  - 局势\n  - 近日\n\n概念间关系：\n  - 局势 -[RELATION_OPENIE]-> 关注\n  - 局势 -[RELATION_OPENIE]-> 情况\n  - 局势 -[RELATION_OPENIE]-> 拼杀\n  - 局势 -[RELATION_OPENIE]-> 命令\n  - 局势 -[RELATION_OPENIE]-> 马斯克\n  - 局势 -[RELATION_OPENIE]-> 关注\n  - 局势 -[RELATION_OPENIE]-> 大事\n  - 局势 -[RELATION_OPENIE]-> 变数\n  - 特朗普突袭 -[RELATION_OPENIE]-> 局势\n  - 特朗普突袭 -[RELATION_OPENIE]-> 局势\n  - 政府 -[RELATION_OPENIE]-> 局势\n  - 局势 -[RELATION_OPENIE]-> 消息\n  - 局势 -[RELATION_OPENIE]-> 决战\n  - 特朗普突袭 -[RELATION_OPENIE]-> 局势\n  - 局势 -[RELATION_OPENIE]-> 变数\n  - 局势 -[RELATION_OPENIE]-> 混乱\n  - 局势 -[RELATION_OPENIE]-> 钻粉团\n  - 宋 -[RELATION_OPENIE]-> 局势\n  - 局势 -[RELATION_OPENIE]-> 巴\n  - 局势 -[RELATION_OPENIE]-> 行动\n  - 局势 -[RELATION_OPENIE]-> 局势\n  - 局势 -[RELATION_OPENIE]-> 观察\n  - 俄乌 -[RELATION_OPENIE]-> 局势\n  - 局势 -[RELATION_OPENIE]-> 近日",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“美国在格陵兰岛的军事部署”直接相关的概念节点或关系。\n\n图谱中反复出现的“局势”节点，其关联的概念（如“关注”、“变数”、“混乱”、“俄乌”、“特朗普突袭”等）和关系，均无法与您查询的具体事件建立直接联系。这些信息描述的是某种广泛或其他的“局势”，但上下文并未指明是格陵兰岛相关的局势。\n\n**结论：**\n图谱中没有关于“美国在格陵兰岛的军事部署”或其引发的“国际紧张局势”的相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6366987824440002,
+    "context_relevance": 0.7302926182746887,
+    "multi_hop_score": 1.0,
+    "community_score": 1.0
+  },
+  {
+    "question": "丹麦政府如何看待美国对格陵兰岛的野心？",
+    "context": "用户查询：丹麦政府如何看待美国对格陵兰岛的野心？\n\n相关认知图谱信息：\n概念节点：\n  - 格陵兰\n  - 集\n  - 版图\n  - 特朗普\n  - 站\n  - 加拿大\n  - 侵略\n  - 俄罗斯\n  - 侵略\n  - 特朗普\n  - 特朗普想\n  - 后兵\n  - 野心\n  - 他\n  - 此\n  - 外媒\n  - 发\n  - 关注\n  - 区别\n  - 野心\n  - 胡子\n  - 政府\n  - 野心\n  - 刘\n\n概念间关系：\n  - 集 -[RELATION_OPENIE]-> 格陵兰\n  - 特朗普 -[RELATION_OPENIE]-> 版图\n  - 站 -[RELATION_OPENIE]-> 版图\n  - 站 -[RELATION_OPENIE]-> 版图\n  - 加拿大 -[RELATION_OPENIE]-> 版图\n  - 俄罗斯 -[RELATION_OPENIE]-> 侵略\n  - 特朗普 -[RELATION_OPENIE]-> 侵略\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 他 -[RELATION_OPENIE]-> 野心\n  - 野心 -[RELATION_OPENIE]-> 此\n  - 外媒 -[RELATION_OPENIE]-> 野心\n  - 野心 -[RELATION_OPENIE]-> 发\n  - 外媒 -[RELATION_OPENIE]-> 野心\n  - 特朗普 -[RELATION_OPENIE]-> 野心\n  - 特朗普 -[RELATION_OPENIE]-> 野心\n  - 野心 -[RELATION_OPENIE]-> 关注\n  - 野心 -[RELATION_OPENIE]-> 区别\n  - 野心 -[RELATION_OPENIE]-> 关注\n  - 特朗普 -[RELATION_OPENIE]-> 野心\n  - 野心 -[RELATION_OPENIE]-> 胡子\n  - 政府 -[RELATION_OPENIE]-> 野心\n  - 野心 -[RELATION_OPENIE]-> 胡子\n  - 刘 -[RELATION_OPENIE]-> 野心",
+    "answer": "根据提供的认知图谱信息，我无法回答“丹麦政府如何看待美国对格陵兰岛的野心”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“政府”、“野心”、“格陵兰”等概念节点，以及“政府 -[RELATION_OPENIE]-> 野心”这样的关系，但图谱信息极度零散且语义模糊。节点名称如“集”、“站”、“胡子”、“刘”等无法构成有意义的上下文，关系“[RELATION_OPENIE]”的具体含义也不明确。最关键的是，**图谱中完全没有出现“丹麦”或“丹麦政府”这一关键概念节点**，也没有任何直接描述“丹麦政府”与“美国野心”或“格陵兰”之间关系的明确信息。\n\n2.  **推断部分**：由于缺乏关于“丹麦政府”的核心信息，我无法进行任何与问题直接相关的合理推断。图谱中关于“特朗普”和“野心”的关联可能暗示了美国（以特朗普为代表）对某事物（可能与“版图”有关）的意图，但这与丹麦政府的立场无关，且信息本身不完整、不清晰。\n\n**结论**：该认知图谱中没有包含与用户查询相关的有效信息。因此，根据规则，我直接指出：**图谱中没有关于“丹麦政府如何看待美国对格陵兰岛的野心”的相关信息。**",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7316228151321411,
+    "context_relevance": 0.7098948359489441,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "特朗普的格陵兰岛计划对其国内政治形象有何影响？",
+    "context": "用户查询：特朗普的格陵兰岛计划对其国内政治形象有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 特朗普想\n  - 后兵\n  - 施压特朗普\n  - 商人\n  - 特朗普:\n  - 记者\n  - 特朗普:\n  - 总统\n  - 粉条\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普威\n  - 点\n  - 为特朗普\n  - 对比\n  - 特朗普露出獠牙\n  - 内斗\n\n概念间关系：\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 特朗普: -[RELATION_OPENIE]-> 记者\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 总统 -[RELATION_OPENIE]-> 特朗普:\n  - 特朗普: -[RELATION_OPENIE]-> 粉条\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 点 -[RELATION_OPENIE]-> 特朗普威\n  - 为特朗普 -[RELATION_OPENIE]-> 对比\n  - 特朗普露出獠牙 -[RELATION_OPENIE]-> 内斗",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普的格陵兰岛计划”或其“国内政治形象影响”直接相关的概念节点或关系。\n\n因此，**图谱中没有相关信息**可以用于回答您的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7291446328163147,
+    "context_relevance": 0.7787668704986572,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  }
+]

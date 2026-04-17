@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>知识图谱可视化</title>
+    <!-- 引入 vis.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.css">
+    <!-- 自定义样式 -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>📊 知识图谱可视化系统</h1>
+        <p>基于 Neo4j 构建的 Baseline 和认知图谱</p>
+    </header>
+
+    <div class="tab-container">
+        <div class="tabs">
+            <button class="tab-button active" data-tab="baseline">Baseline 方法</button>
+            <button class="tab-button" data-tab="cognitive">认知图谱</button>
+            <button class="tab-button" data-tab="community">社区分析</button>
+            <button class="tab-button" data-tab="rag">RAG问答</button>
+        </div>
+
+        <!-- Baseline 面板 -->
+        <div id="baseline-panel" class="tab-panel active">
+            <div class="controls">
+                <div class="control-group">
+                    <label for="label-select">标签：</label>
+                    <select id="label-select">
+                        <option value="all">全部</option>
+                        <option value="Entity_Baseline">Entity_Baseline</option>
+                        <option value="Entity_ZeroShot">Entity_ZeroShot</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="topic-select-baseline">话题：</label>
+                    <select id="topic-select-baseline">
+                        <option value="all">全部话题</option>
+                    </select>
+                </div>
+                <button id="load-baseline" class="btn">加载图谱</button>
+            </div>
+            <div id="baseline-network" class="network">
+                <div class="fullscreen-btn" data-target="baseline-network">⛶</div>
+            </div>
+        </div>
+
+        <!-- 认知图谱面板 -->
+        <div id="cognitive-panel" class="tab-panel">
+            <div class="controls">
+                <div class="control-group">
+                    <label for="topic-select-cognitive">话题：</label>
+                    <select id="topic-select-cognitive">
+                        <option value="all">全部话题</option>
+                    </select>
+                </div>
+                <button id="load-cognitive" class="btn">加载图谱</button>
+            </div>
+            <div id="cognitive-network" class="network">
+                <div class="fullscreen-btn" data-target="cognitive-network">⛶</div>
+            </div>
+        </div>
+        <div id="community-panel" class="tab-panel">
+            <div class="controls">
+                <div class="control-group">
+                    <label for="community-topic">话题：</label>
+                    <select id="community-topic">
+                        <option value="">请选择话题</option>
+                    </select>
+                </div>
+                <div class="control-group">
+                    <label for="max-communities">展示社区数量：</label>
+                    <input type="number" id="max-communities" value="5" min="1" max="20" step="1">
+                </div>
+                <button id="analyze-community" class="btn">开始分析</button>
+            </div>
+            <div id="community-result" class="result-area">
+                <!-- 分析结果将动态填充 -->
+            </div>
+        </div>
+
+        <!-- 新增面板：RAG问答 -->
+        <div id="rag-panel" class="tab-panel">
+            <div class="controls">
+                <div class="control-group" style="flex: 1;">
+                    <label for="rag-question">问题：</label>
+                    <input type="text" id="rag-question" placeholder="请输入您的问题" style="width: 400px;">
+                </div>
+                <button id="ask-rag" class="btn">提问</button>
+            </div>
+            <div id="rag-answer" class="result-area">
+                <!-- 答案将显示在这里 -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 右下角图例 -->
+<div class="legend-container">
+    <div class="legend-title">图例</div>
+    <div class="legend-items" id="legend-items">
+        <!-- 动态填充 -->
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

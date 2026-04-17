@@ -1,0 +1,52 @@
+[
+  {
+    "question": "中国对四名加拿大籍毒贩执行死刑的法律依据是什么？",
+    "context": "用户查询：中国对四名加拿大籍毒贩执行死刑的法律依据是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 加毒贩\n  - 中国\n  - 籍毒贩\n  - 死刑\n  - 死刑,\n  - 毒贩,\n  - 贩毒\n  - 犯罪\n  - 死刑\n  - 《林海快播\n  - 死刑\n  - 乌克兰\n  - 白\n  - 谢伦\n  - 禁毒\n  - 毒贩\n  - 毒贩谢伦\n  - 贩,\n  - 毒枭\n  - 部\n  - 法院\n  - 木琢\n  - 人\n  - 枭\n  - 贩赤\n  - 日报\n  - 人心\n  - 审\n  - 长\n  - 海洛因\n  - 贩赤野\n  - 安检\n  - 媒:\n  - 惯犯\n  - 毒\n  - 人员\n  - 会\n  - 发言\n  - 公民\n  - 我国\n  - 中方\n  - 千克海洛因\n  - 态度\n  - 主犯\n  - 外网\n  - 他\n  - 代价\n  - 号\n  - 美国\n  - 贩\n  - 作者\n  - 区\n  - 国\n  - 分子\n  - You\n\n概念间关系：\n  - 中国 -[RELATION_OPENIE]-> 加毒贩\n  - 中国 -[RELATION_OPENIE]-> 加毒贩\n  - 中国 -[RELATION_OPENIE]-> 加毒贩\n  - 籍毒贩 -[RELATION_OPENIE]-> 死刑\n  - 籍毒贩 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑,\n  - 中国 -[RELATION_OPENIE]-> 死刑,\n  - 中国 -[RELATION_OPENIE]-> 死刑,\n  - 毒贩, -[RELATION_OPENIE]-> 死刑\n  - 贩毒 -[RELATION_OPENIE]-> 犯罪\n  - 贩毒 -[RELATION_OPENIE]-> 死刑\n  - 《林海快播 -[RELATION_OPENIE]-> 死刑\n  - 乌克兰 -[RELATION_OPENIE]-> 死刑\n  - 乌克兰 -[RELATION_OPENIE]-> 死刑\n  - 死刑 -[RELATION_OPENIE]-> 死刑\n  - 死刑 -[RELATION_OPENIE]-> 白\n  - 谢伦 -[RELATION_OPENIE]-> 死刑\n  - 禁毒 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 毒贩谢伦 -[RELATION_OPENIE]-> 死刑\n  - 贩, -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒枭 -[RELATION_OPENIE]-> 死刑\n  - 部 -[RELATION_OPENIE]-> 死刑\n  - 法院 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 木琢 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 法院 -[RELATION_OPENIE]-> 死刑\n  - 枭 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 贩赤 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 木琢 -[RELATION_OPENIE]-> 死刑\n  - 日报 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 人心 -[RELATION_OPENIE]-> 死刑\n  - 审 -[RELATION_OPENIE]-> 死刑\n  - 人 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 中国 -[RELATION_OPENIE]-> 死刑\n  - 长 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 海洛因 -[RELATION_OPENIE]-> 死刑\n  - 贩赤野 -[RELATION_OPENIE]-> 死刑\n  - 安检 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  - 毒贩 -[RELATION_OPENIE]-> 死刑\n  ... 还有 114 条关系未列出",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“中国对四名加拿大籍毒贩执行死刑的法律依据是什么？”这个问题。\n\n**来自上下文的信息：**\n图谱中包含了“中国”、“加毒贩”、“籍毒贩”、“死刑”、“贩毒”、“犯罪”、“法院”等概念节点，以及“中国 -[RELATION_OPENIE]-> 加毒贩”、“籍毒贩 -[RELATION_OPENIE]-> 死刑”、“贩毒 -[RELATION_OPENIE]-> 死刑”、“法院 -[RELATION_OPENIE]-> 死刑”等关系。这表明图谱信息提到了中国、加拿大籍毒贩与死刑之间存在关联，并且贩毒行为与死刑判决有关。\n\n**推断：**\n基于上述关联，可以推断中国可能对加拿大籍毒贩判处了死刑，并且这一判决与贩毒罪行相关。\n\n**整合答案：**\n然而，图谱信息中**没有**提供任何具体的法律条文、法律名称（如《中华人民共和国刑法》）或具体的法律条款内容。因此，**图谱中没有关于具体法律依据（例如依据刑法哪一条哪一款）的直接信息**。我无法从当前图谱中提取出执行死刑所依据的明确法律条文。\n\n**结论：图谱中没有相关信息来回答具体的法律依据是什么。**",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7004929780960083,
+    "context_relevance": 0.7834060192108154,
+    "multi_hop_score": 1.0,
+    "community_score": 0.6666666666666666
+  },
+  {
+    "question": "加拿大政府对此判决有何反应？",
+    "context": "用户查询：加拿大政府对此判决有何反应？\n\n相关认知图谱信息：\n概念节点：\n  - 加拿大,加拿大\n  - 气\n  - 判决\n  - 特朗普\n  - 判决\n  - 们\n  - 判决\n  - 法律\n  - 加拿\n  - 特朗普\n  - 加拿大\n  - 省\n  - 目录\n  - 关税\n  - 加拿大\n  - 加州\n  - 裁定\n  - 法院\n\n概念间关系：\n  - 气 -[RELATION_OPENIE]-> 加拿大,加拿大\n  - 特朗普 -[RELATION_OPENIE]-> 判决\n  - 判决 -[RELATION_OPENIE]-> 们\n  - 判决 -[RELATION_OPENIE]-> 法律\n  - 特朗普 -[RELATION_OPENIE]-> 加拿\n  - 加拿大 -[RELATION_OPENIE]-> 省\n  - 加拿大 -[RELATION_OPENIE]-> 目录\n  - 加拿大 -[RELATION_OPENIE]-> 省\n  - 加拿大 -[RELATION_OPENIE]-> 省\n  - 加拿大 -[RELATION_OPENIE]-> 关税\n  - 加州 -[RELATION_OPENIE]-> 加拿大\n  - 法院 -[RELATION_OPENIE]-> 裁定",
+    "answer": "根据提供的认知图谱信息，我无法回答“加拿大政府对此判决有何反应”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“加拿大”、“判决”、“法院”、“裁定”等概念节点，以及“法院 -[RELATION_OPENIE]-> 裁定”这样的关系，但**没有任何信息明确指向一个具体的“判决”事件**，更没有关于“加拿大政府”对该判决的“反应”的任何描述或关联。\n2.  **推断**：由于图谱中缺乏关于该“判决”的具体内容（例如，是什么判决、由谁做出、涉及何事）以及加拿大政府态度的任何直接信息，**我无法进行任何合理的推断**。图谱中出现的“特朗普”、“关税”等节点可能与某个特定事件有关，但信息过于碎片化且关系不明确，不足以支撑对加拿大政府反应的推断。\n\n**结论**：图谱中没有与您的问题直接相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7250699996948242,
+    "context_relevance": 0.7017742395401001,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "中国外交部如何回应加拿大的谴责？",
+    "context": "用户查询：中国外交部如何回应加拿大的谴责？\n\n相关认知图谱信息：\n概念节点：\n  - 谴责\n  - 巴拿马\n  - 谴责\n  - 特朗普\n  - 谴责\n  - 你们\n  - 谴责\n  - 长\n  - 中国\n  - 人\n  - 总理\n  - 外长梅拉妮\n  - 回应\n  - 人\n  - 回应\n  - 玄机\n  - 部\n  - 那\n  - 回应\n  - 我国\n  - 回应\n  - 部\n  - 批评\n\n概念间关系：\n  - 巴拿马 -[RELATION_OPENIE]-> 谴责\n  - 特朗普 -[RELATION_OPENIE]-> 谴责\n  - 你们 -[RELATION_OPENIE]-> 谴责\n  - 长 -[RELATION_OPENIE]-> 谴责\n  - 长 -[RELATION_OPENIE]-> 谴责\n  - 中国 -[RELATION_OPENIE]-> 谴责\n  - 中国 -[RELATION_OPENIE]-> 谴责\n  - 人 -[RELATION_OPENIE]-> 谴责\n  - 长 -[RELATION_OPENIE]-> 谴责\n  - 人 -[RELATION_OPENIE]-> 谴责\n  - 总理 -[RELATION_OPENIE]-> 谴责\n  - 长 -[RELATION_OPENIE]-> 谴责\n  - 外长梅拉妮 -[RELATION_OPENIE]-> 谴责\n  - 长 -[RELATION_OPENIE]-> 谴责\n  - 人 -[RELATION_OPENIE]-> 回应\n  - 回应 -[RELATION_OPENIE]-> 玄机\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 那 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 我国 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 部 -[RELATION_OPENIE]-> 回应\n  - 批评 -[RELATION_OPENIE]-> 回应\n  - 批评 -[RELATION_OPENIE]-> 回应\n  - 人 -[RELATION_OPENIE]-> 回应\n  - 批评 -[RELATION_OPENIE]-> 回应",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“中国外交部如何回应加拿大的谴责？”这个问题。\n\n**来自上下文的信息：**\n图谱中包含了“中国”、“谴责”、“回应”、“部”等概念节点，以及“中国 -[RELATION_OPENIE]-> 谴责”、“部 -[RELATION_OPENIE]-> 回应”等关系。这表明图谱中存在关于“中国进行谴责”以及“某个部门进行回应”的信息片段。\n\n**推断与分析：**\n1.  虽然图谱中存在“中国”和“谴责”的关系，但并未明确提及“加拿大”这一主体。因此，无法确定“谴责”是否来自加拿大。\n2.  图谱中存在多个“部 -[RELATION_OPENIE]-> 回应”的关系，但“部”这个节点过于宽泛，没有明确指向“外交部”，更未与“中国”或特定的“谴责”事件建立直接关联。\n3.  图谱中的其他节点（如“巴拿马”、“特朗普”、“外长梅拉妮”、“玄机”等）与用户查询中的“加拿大”和“外交部”没有建立任何可识别的联系。\n\n**整合结论：**\n由于提供的认知图谱信息中**没有包含“加拿大”这一关键概念**，也**没有明确将“外交部”与“回应”及相关的“谴责”事件联系起来**，因此图谱中**没有关于“中国外交部回应加拿大谴责”的相关信息**。根据规则，我无法基于现有信息构建答案。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7040332555770874,
+    "context_relevance": 0.7297184467315674,
+    "multi_hop_score": 1.0,
+    "community_score": 0.5
+  },
+  {
+    "question": "此案如何体现中国对不同国籍被告的一视同仁？",
+    "context": "用户查询：此案如何体现中国对不同国籍被告的一视同仁？\n\n相关认知图谱信息：\n概念节点：\n  - 原告\n  - 大通\n  - 中方\n  - 方式\n  - 中方\n  - 方\n  - 中方\n  - 手段\n  - 中方\n  - 深夜\n  - 中方\n  - 事外\n  - 评论\n  - 斗争\n  - 什么\n  - 词\n  - 事物\n  - 小时\n  - 中方\n  - 评论\n  - 日\n  - 巴拿马\n  - 交涉\n  - 研究\n  - 方\n  - 中方\n  - 毒贩\n  - 死刑\n\n概念间关系：\n  - 原告 -[RELATION_OPENIE]-> 大通\n  - 中方 -[RELATION_OPENIE]-> 方式\n  - 中方 -[RELATION_OPENIE]-> 方\n  - 中方 -[RELATION_OPENIE]-> 手段\n  - 中方 -[RELATION_OPENIE]-> 深夜\n  - 中方 -[RELATION_OPENIE]-> 事外\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 斗争\n  - 中方 -[RELATION_OPENIE]-> 什么\n  - 中方 -[RELATION_OPENIE]-> 词\n  - 中方 -[RELATION_OPENIE]-> 事物\n  - 中方 -[RELATION_OPENIE]-> 小时\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 日\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 交涉\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 研究\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 方\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 毒贩\n  - 中方 -[RELATION_OPENIE]-> 死刑\n  - 中方 -[RELATION_OPENIE]-> 毒贩",
+    "answer": "根据提供的认知图谱信息，我无法直接回答“此案如何体现中国对不同国籍被告的一视同仁”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“中方”、“毒贩”、“死刑”、“巴拿马”、“交涉”等概念节点，以及“中方”与这些概念之间存在关系，但图谱信息是零散且不完整的。它没有提供任何关于具体案件、被告国籍、审判过程或判决结果的描述性信息。特别是，图谱中完全没有提及“不同国籍被告”或“一视同仁”的相关概念或关系。\n\n2.  **推断**：基于图谱中“中方”、“毒贩”、“死刑”、“巴拿马”、“交涉”这些孤立的信息点，可以**推断**这可能涉及一起与巴拿马籍毒贩有关的案件，并且中方可能采取了某种行动或进行了交涉。然而，仅凭这些碎片信息，**无法推断出**该案件的具体情况，更无法推断出该案件如何体现了对不同国籍被告的平等对待原则。图谱中缺乏关于其他国籍被告的对比信息，也没有任何关于法律适用、审判标准或程序公正性的描述。\n\n**结论**：图谱中没有与用户查询直接相关的信息。所提供的认知图谱信息过于零散和有限，不足以支撑对“中国对不同国籍被告一视同仁”这一具体问题的分析。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7587975263595581,
+    "context_relevance": 0.6954412460327148,
+    "multi_hop_score": 1.0,
+    "community_score": 0.5
+  },
+  {
+    "question": "公众对中国严厉禁毒政策的态度如何？",
+    "context": "用户查询：公众对中国严厉禁毒政策的态度如何？\n\n相关认知图谱信息：\n概念节点：\n  - 禁毒\n  - 毒品\n  - 死刑\n  - 字幕\n  - 公众\n  - 习惯\n  - 公众\n  - 马斯克\n  - 缉毒\n  - 小兔\n  - 馆\n  - 群众\n  - 那\n  - 来临\n  - 群众\n  - 他\n  - 民众\n  - 国旗\n  - 民众\n  - 成果\n  - 林剑指出,\n\n概念间关系：\n  - 禁毒 -[RELATION_OPENIE]-> 毒品\n  - 禁毒 -[RELATION_OPENIE]-> 死刑\n  - 字幕 -[RELATION_OPENIE]-> 禁毒\n  - 禁毒 -[RELATION_OPENIE]-> 毒品\n  - 公众 -[RELATION_OPENIE]-> 习惯\n  - 公众 -[RELATION_OPENIE]-> 习惯\n  - 公众 -[RELATION_OPENIE]-> 习惯\n  - 马斯克 -[RELATION_OPENIE]-> 公众\n  - 缉毒 -[RELATION_OPENIE]-> 小兔\n  - 缉毒 -[RELATION_OPENIE]-> 馆\n  - 那 -[RELATION_OPENIE]-> 群众\n  - 群众 -[RELATION_OPENIE]-> 来临\n  - 他 -[RELATION_OPENIE]-> 群众\n  - 民众 -[RELATION_OPENIE]-> 国旗\n  - 成果 -[RELATION_OPENIE]-> 民众\n  - 林剑指出, -[RELATION_OPENIE]-> 民众",
+    "answer": "根据您提供的认知图谱信息，我无法回答“公众对中国严厉禁毒政策的态度如何”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然存在“公众”、“民众”、“群众”等概念节点，并与“禁毒”、“缉毒”概念同时存在，但它们之间**没有建立直接的关系**。例如，没有“公众 -[支持/反对/态度]-> 禁毒”或类似的关系路径。\n2.  **推断**：基于图谱结构，我可以推断“禁毒”与“毒品”、“死刑”相关，这可能暗示了政策的严厉性。同时，“民众”与“成果”和发言人“林剑指出,”相关，这可能暗示官方有向民众传达某些成果或观点的渠道。然而，这些信息**完全无法支撑关于公众“态度”的任何结论**。图谱中缺乏表达公众观点、情感或评价的关系。\n3.  **结论**：因此，**图谱中没有与“公众对禁毒政策态度”直接相关的信息**。现有信息仅涉及禁毒政策本身（与毒品、死刑的关联）以及民众作为被传达信息的对象，但完全没有涉及民众的主观态度。\n\n根据规则，当图谱中没有任何相关内容时，我需要直接指出。所以，答案是：**提供的认知图谱中没有关于公众对中国禁毒政策态度的信息。**",
+    "faithfulness": 0.95,
+    "answer_relevance": 0.7196659445762634,
+    "context_relevance": 0.7136275172233582,
+    "multi_hop_score": 1.0,
+    "community_score": 0.2
+  }
+]

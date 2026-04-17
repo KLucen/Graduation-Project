@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识图谱可视化 - 社区分析</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<nav class="navbar">
+  <div class="nav-container">
+    <a href="/baseline" class="nav-brand">知识图谱可视化</a>
+    <ul class="nav-menu">
+      <li><a href="/baseline">Baseline</a></li>
+      <li><a href="/cognitive">认知图谱</a></li>
+      <li><a href="/community" class="active">社区分析</a></li>
+      <li><a href="/rag">RAG问答</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main class="main-content">
+  <h1 class="page-title">社区分析</h1>
+  <div class="controls">
+    <div class="control-group">
+      <label for="community-topic">话题：</label>
+      <select id="community-topic">
+        <option value="">请选择话题</option>
+      </select>
+    </div>
+    <div class="control-group">
+      <label for="max-communities">展示社区数量：</label>
+      <input type="number" id="max-communities" value="5" min="1" max="20" step="1">
+    </div>
+    <button id="analyze-community" class="btn">开始分析</button>
+  </div>
+
+  <!-- 分析结果展示区（扩大高度） -->
+  <div id="community-result" class="result-area expanded">
+    <!-- 分析结果将动态填充 -->
+  </div>
+</main>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "京东为快递员提供了哪些具体的福利保障？",
+    "context": "用户查询：京东为快递员提供了哪些具体的福利保障？\n\n相关认知图谱信息：\n概念节点：\n  - 福利\n  - 特朗\n  - 福利\n  - 我们\n  - 福利\n  - 看法\n  - 企业\n  - 强势\n  - 刘\n  - 福利\n  - 地方\n  - 保障\n  - 生活\n  - 议\n  - 保障\n  - 率\n  - 国家\n  - 2.\n  - 展望\n  - 建议\n  - 提议\n  - 保障\n  - 作用\n  - 系统\n  - 这\n  - 通讯\n  - 保障\n  - 开销\n  - 递员\n\n概念间关系：\n  - 福利 -[RELATION_OPENIE]-> 特朗\n  - 我们 -[RELATION_OPENIE]-> 福利\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 强势 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 地方 -[RELATION_OPENIE]-> 福利\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 议 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 国家 -[RELATION_OPENIE]-> 保障\n  - 2. -[RELATION_OPENIE]-> 保障\n  - 展望 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 建议 -[RELATION_OPENIE]-> 保障\n  - 提议 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 作用\n  - 系统 -[RELATION_OPENIE]-> 保障\n  - 这 -[RELATION_OPENIE]-> 保障\n  - 通讯 -[RELATION_OPENIE]-> 保障\n  - 开销 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 递员",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“京东为快递员提供了哪些具体的福利保障？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中的概念节点和关系非常零散且语义模糊。虽然出现了“福利”、“保障”、“递员”等关键词，但它们之间缺乏清晰、有意义的连接，无法构成关于“京东”或“京东快递员福利”的具体描述。例如：\n    *   节点“刘”与“福利”有关联，但无法确定“刘”指代谁以及具体是什么福利。\n    *   关系“保障 -[RELATION_OPENIE]-> 递员”仅表明“保障”与“递员”存在某种联系，但完全没有说明是何种保障、由谁提供。\n\n2.  **推断部分**：基于图谱信息的现状，我无法做出任何关于京东快递员福利的具体推断。图谱中没有出现“京东”这一关键实体，也没有任何关于“五险一金”、“住房补贴”、“节日福利”、“培训晋升”等常见企业福利的具体信息节点。\n\n**结论**：所提供的认知图谱中**没有任何与“京东快递员福利”直接相关的内容**。因此，我无法根据当前信息回答您的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7280995845794678,
+    "context_relevance": 0.7271939516067505,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "刘强东为快递员缴纳五险一金的举措引发了怎样的公众反响？",
+    "context": "用户查询：刘强东为快递员缴纳五险一金的举措引发了怎样的公众反响？\n\n相关认知图谱信息：\n概念节点：\n  - 缴纳\n  - 问题\n  - 保障\n  - 率\n  - 国家\n  - 2.\n  - 展望\n  - 建议\n  - 提议\n  - 保障\n  - 开销\n  - 递员\n  - 保障\n  - 安全\n  - 保障\n  - 生活\n  - 议\n  - 保障\n  - 援助\n  - 白宫\n  - 社保\n  - 公司\n  - 社保\n  - 京\n  - 老板\n  - 骑手\n\n概念间关系：\n  - 问题 -[RELATION_OPENIE]-> 缴纳\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 国家 -[RELATION_OPENIE]-> 保障\n  - 2. -[RELATION_OPENIE]-> 保障\n  - 展望 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 建议 -[RELATION_OPENIE]-> 保障\n  - 提议 -[RELATION_OPENIE]-> 保障\n  - 开销 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 递员\n  - 安全 -[RELATION_OPENIE]-> 保障\n  - 安全 -[RELATION_OPENIE]-> 保障\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 议 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 援助\n  - 白宫 -[RELATION_OPENIE]-> 保障\n  - 公司 -[RELATION_OPENIE]-> 社保\n  - 京 -[RELATION_OPENIE]-> 社保\n  - 老板 -[RELATION_OPENIE]-> 社保\n  - 骑手 -[RELATION_OPENIE]-> 社保",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“刘强东为快递员缴纳五险一金的举措引发了怎样的公众反响？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中完全没有提及“刘强东”、“京东”或“快递员缴纳五险一金”这一具体事件。图谱中的概念节点（如“递员”、“社保”、“公司”、“老板”）和关系（如“公司 -[RELATION_OPENIE]-> 社保”、“老板 -[RELATION_OPENIE]-> 社保”）虽然涉及了企业、雇主和社保等宽泛概念，但没有任何一个节点或关系与“刘强东”或他公司的具体举措相关联。\n\n2.  **推断**：由于缺乏与查询事件直接相关的任何信息，我无法进行任何关于“公众反响”的合理推断。图谱内容与用户查询的核心事件不匹配。\n\n**结论**：图谱中没有与“刘强东为快递员缴纳五险一金”这一具体举措相关的信息，因此无法根据所提供的图谱回答其引发的公众反响。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7578814029693604,
+    "context_relevance": 0.7380097508430481,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "公众如何评价京东与美团等平台在骑手保障上的差异？",
+    "context": "用户查询：公众如何评价京东与美团等平台在骑手保障上的差异？\n\n相关认知图谱信息：\n概念节点：\n  - 保障\n  - 安全\n  - 保障\n  - 作用\n  - 系统\n  - 这\n  - 通讯\n  - 保障\n  - 率\n  - 国家\n  - 2.\n  - 展望\n  - 建议\n  - 提议\n  - 保障\n  - 生活\n  - 议\n  - 保障\n  - 美国\n  - 2\n  - 性\n  - 乌克兰\n  - 表态\n  - 英国\n  - 我\n  - 保障\n  - 援助\n  - 白宫\n  - 差异\n  - 路\n  - 距离\n  - 差异\n  - 因素\n\n概念间关系：\n  - 安全 -[RELATION_OPENIE]-> 保障\n  - 安全 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 作用\n  - 系统 -[RELATION_OPENIE]-> 保障\n  - 这 -[RELATION_OPENIE]-> 保障\n  - 通讯 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 国家 -[RELATION_OPENIE]-> 保障\n  - 2. -[RELATION_OPENIE]-> 保障\n  - 展望 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 率\n  - 建议 -[RELATION_OPENIE]-> 保障\n  - 提议 -[RELATION_OPENIE]-> 保障\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 生活 -[RELATION_OPENIE]-> 保障\n  - 议 -[RELATION_OPENIE]-> 保障\n  - 美国 -[RELATION_OPENIE]-> 保障\n  - 美国 -[RELATION_OPENIE]-> 保障\n  - 2 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 性\n  - 乌克兰 -[RELATION_OPENIE]-> 保障\n  - 美国 -[RELATION_OPENIE]-> 保障\n  - 表态 -[RELATION_OPENIE]-> 保障\n  - 英国 -[RELATION_OPENIE]-> 保障\n  - 美国 -[RELATION_OPENIE]-> 保障\n  - 我 -[RELATION_OPENIE]-> 保障\n  - 保障 -[RELATION_OPENIE]-> 援助\n  - 白宫 -[RELATION_OPENIE]-> 保障\n  - 差异 -[RELATION_OPENIE]-> 路\n  - 距离 -[RELATION_OPENIE]-> 差异\n  - 因素 -[RELATION_OPENIE]-> 差异",
+    "answer": "根据您提供的认知图谱信息，我无法回答“公众如何评价京东与美团等平台在骑手保障上的差异？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：您提供的图谱信息中，虽然包含“保障”和“差异”这两个概念节点，但它们所关联的其他概念（如“国家”、“美国”、“乌克兰”、“援助”、“路”、“距离”等）以及概念间的关系，**完全与“京东”、“美团”、“骑手”或“公众评价”无关**。图谱内容主要涉及国际政治、安全、通讯等领域的保障议题。\n\n2.  **推断**：基于图谱内容，我可以推断出“保障”是一个被多次讨论的主题，且“差异”可能由“距离”、“因素”等导致。但这些推断**完全无法应用于您提出的关于具体企业和骑手的问题**。\n\n3.  **结论**：**图谱中没有与用户查询相关的任何信息**。因此，我无法根据给定的认知图谱提供关于公众对京东与美团骑手保障差异的评价。\n\n如果您有关于这些平台骑手保障的特定新闻报道、社会调查报告或公开讨论文本，我可以尝试基于那些信息为您构建新的认知图谱并进行分析。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.755592942237854,
+    "context_relevance": 0.7463487386703491,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "京东的福利政策对快递员的社会地位和尊严有何影响？",
+    "context": "用户查询：京东的福利政策对快递员的社会地位和尊严有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 福利\n  - 地方\n  - 福利\n  - 看法\n  - 企业\n  - 强势\n  - 刘\n  - 福利\n  - 特朗\n  - 福利\n  - 我们\n  - 地位\n  - 她\n  - 地位\n  - 红军\n  - 胜选\n  - 地位\n  - 改善\n  - 地位\n  - 美国\n\n概念间关系：\n  - 地方 -[RELATION_OPENIE]-> 福利\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 强势 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 企业\n  - 刘 -[RELATION_OPENIE]-> 福利\n  - 福利 -[RELATION_OPENIE]-> 特朗\n  - 我们 -[RELATION_OPENIE]-> 福利\n  - 她 -[RELATION_OPENIE]-> 地位\n  - 红军 -[RELATION_OPENIE]-> 地位\n  - 胜选 -[RELATION_OPENIE]-> 地位\n  - 地位 -[RELATION_OPENIE]-> 改善\n  - 地位 -[RELATION_OPENIE]-> 改善\n  - 美国 -[RELATION_OPENIE]-> 地位",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何与“京东”、“快递员”或“社会地位和尊严”直接相关的内容**。\n\n**来自上下文的信息提取：**\n图谱中仅包含一些孤立且含义模糊的概念节点（如“福利”、“地位”、“企业”、“改善”）和关系（如“福利 -[RELATION_OPENIE]-> 企业”、“地位 -[RELATION_OPENIE]-> 改善”）。这些节点和关系没有形成关于特定企业（如京东）、特定职业群体（如快递员）或其社会地位的具体描述。\n\n**推断与分析：**\n由于图谱信息完全缺失与用户查询直接对应的实体和关系，我无法基于该图谱进行任何有意义的推断来回答“京东的福利政策对快递员的社会地位和尊严有何影响”这个问题。任何试图将图中泛指的“福利”、“地位”等概念与京东和快递员进行关联的回答，都将是缺乏依据的推测。\n\n**最终答案：**\n图谱中没有与“京东的福利政策对快递员的社会地位和尊严影响”相关的信息。",
+    "faithfulness": 0.95,
+    "answer_relevance": 0.7393302917480469,
+    "context_relevance": 0.7839241027832031,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "有人认为刘强东的行为是“作秀”，这种观点的主要依据是什么？",
+    "context": "用户查询：有人认为刘强东的行为是“作秀”，这种观点的主要依据是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 依据\n  - 规模\n  - 依据\n  - 政策\n  - 指责\n  - 作为\n  - 泽连斯基\n  - 看法\n  - 福利\n  - 人\n  - 刘\n  - 看法\n  - 这样\n  - 看法\n  - 对比\n  - 看法\n  - 你\n  - 看法\n  - 大家\n  - 机遇\n\n概念间关系：\n  - 规模 -[RELATION_OPENIE]-> 依据\n  - 政策 -[RELATION_OPENIE]-> 依据\n  - 指责 -[RELATION_OPENIE]-> 依据\n  - 泽连斯基 -[RELATION_OPENIE]-> 作为\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 人 -[RELATION_OPENIE]-> 看法\n  - 人 -[RELATION_OPENIE]-> 看法\n  - 刘 -[RELATION_OPENIE]-> 看法\n  - 福利 -[RELATION_OPENIE]-> 看法\n  - 看法 -[RELATION_OPENIE]-> 这样\n  - 看法 -[RELATION_OPENIE]-> 对比\n  - 你 -[RELATION_OPENIE]-> 看法\n  - 大家 -[RELATION_OPENIE]-> 看法\n  - 看法 -[RELATION_OPENIE]-> 机遇",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有直接包含**关于“刘强东的行为是‘作秀’”这一观点的具体依据或相关讨论。\n\n**来自上下文的信息：**\n图谱中仅包含以下相关信息：\n1.  存在一个名为“刘”的节点。\n2.  “刘”节点与“看法”节点之间存在关系。\n3.  图谱中多次出现“看法”节点，并与“福利”、“人”、“你”、“大家”等节点相连，表明图谱内容可能涉及对福利、个人行为等方面的看法或评价。\n\n**推断部分：**\n基于图谱中“刘”与“看法”的关联，可以推断图谱可能涉及对“刘”（可能指刘强东）的某种看法。然而，图谱中**完全没有**提及“作秀”这一概念，也没有任何节点或关系能够解释或支撑“行为是‘作秀’”这一具体观点的依据（例如，其行为的具体细节、背景、与他人的对比等）。因此，无法从当前图谱中提取出支持该观点的任何依据。\n\n**整合答案：**\n图谱中没有与“刘强东的行为被指为‘作秀’的依据”直接相关的信息。虽然图谱显示存在对“刘”的看法，但具体内容缺失，无法回答该观点的主要依据是什么。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6483805775642395,
+    "context_relevance": 0.7558528780937195,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

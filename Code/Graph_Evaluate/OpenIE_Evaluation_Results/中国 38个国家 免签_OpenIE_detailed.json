@@ -1,0 +1,52 @@
+[
+  {
+    "question": "中国对38个国家实行单方面免签政策的主要目的是什么？",
+    "context": "用户查询：中国对38个国家实行单方面免签政策的主要目的是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 免签\n  - 人\n  - 免签\n  - 国家\n  - 小时\n  - 中方\n  - 评论\n  - 日\n  - 巴拿马\n  - 交涉\n  - 研究\n  - 方\n  - 中方\n  - 会\n  - 中方\n  - 手段\n  - 中方\n  - 深夜\n  - 中方\n  - 方式\n  - 中方\n  - 毒贩\n  - 死刑\n\n概念间关系：\n  - 免签 -[RELATION_OPENIE]-> 人\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 免签 -[RELATION_OPENIE]-> 小时\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 日\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 交涉\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 研究\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 方\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 会\n  - 中方 -[RELATION_OPENIE]-> 会\n  - 中方 -[RELATION_OPENIE]-> 手段\n  - 中方 -[RELATION_OPENIE]-> 深夜\n  - 中方 -[RELATION_OPENIE]-> 方式\n  - 中方 -[RELATION_OPENIE]-> 毒贩\n  - 中方 -[RELATION_OPENIE]-> 死刑\n  - 中方 -[RELATION_OPENIE]-> 毒贩",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有**直接关于“中国对38个国家实行单方面免签政策的主要目的”的内容。\n\n**分析如下：**\n\n1.  **来自上下文的信息**：图谱中仅包含“免签”这个概念节点，以及它与“人”、“国家”、“小时”之间存在关系。此外，图谱中大量出现“中方”节点及其与其他节点（如评论、交涉、研究、毒贩、死刑等）的关系。**这些信息均未提及“38个国家”、“单方面免签政策”或该政策的“主要目的”。**\n\n2.  **推断**：由于图谱中缺乏与查询问题直接相关的任何信息，我无法进行任何基于此图谱的合理推断来回答您的问题。\n\n**结论**：图谱中没有与您的问题相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7696012258529663,
+    "context_relevance": 0.7387457489967346,
+    "multi_hop_score": 1.0,
+    "community_score": 1.0
+  },
+  {
+    "question": "免签政策实施后，外国人来华旅游人数有何变化？",
+    "context": "用户查询：免签政策实施后，外国人来华旅游人数有何变化？\n\n相关认知图谱信息：\n概念节点：\n  - 免签\n  - 国家\n  - 小时\n  - 游客\n  - 东西\n  - 40.2%\n  - 味道\n  - 美食\n  - 游客\n  - 次\n  - 推特\n  - 火枣\n  - 游客\n  - 古塞\n  - 签证\n  - P 星球\n  - 人\n  - 大道\n  - 局\n  - 国会\n  - 银行\n  - 签证\n  - 特朗普\n  - 签证\n  - 成\n  - 签证\n  - 那\n\n概念间关系：\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 免签 -[RELATION_OPENIE]-> 小时\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 游客 -[RELATION_OPENIE]-> 东西\n  - 游客 -[RELATION_OPENIE]-> 40.2%\n  - 游客 -[RELATION_OPENIE]-> 味道\n  - 游客 -[RELATION_OPENIE]-> 美食\n  - 游客 -[RELATION_OPENIE]-> 次\n  - 游客 -[RELATION_OPENIE]-> 推特\n  - 火枣 -[RELATION_OPENIE]-> 游客\n  - 游客 -[RELATION_OPENIE]-> 推特\n  - 古塞 -[RELATION_OPENIE]-> 游客\n  - 签证 -[RELATION_OPENIE]-> P 星球\n  - 人 -[RELATION_OPENIE]-> 签证\n  - 大道 -[RELATION_OPENIE]-> 签证\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 国会 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 银行\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 特朗普 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 成\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证",
+    "answer": "根据您提供的认知图谱信息，我无法直接回答“免签政策实施后，外国人来华旅游人数有何变化？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“免签”、“游客”、“签证”等概念，但所有关系（如 `免签 -[RELATION_OPENIE]-> 国家`、`游客 -[RELATION_OPENIE]-> 40.2%`）都是孤立且含义模糊的片段。这些关系没有构成关于“政策实施后”、“人数变化”或“来华旅游”的明确、连贯信息。例如，“40.2%”可能是一个增长率，但图谱中没有指明它是否与来华游客相关，更未说明是免签政策带来的结果。\n\n2.  **推断部分**：基于现有信息，我无法做出任何关于免签政策对来华旅游人数影响的合理推断。图谱中的信息点过于零散且缺乏上下文关联，无法支撑起一个有意义的结论。\n\n**结论**：图谱中没有与“免签政策对来华旅游人数影响”直接相关的有效信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7248113751411438,
+    "context_relevance": 0.7159091830253601,
+    "multi_hop_score": 1.0,
+    "community_score": 0.3333333333333333
+  },
+  {
+    "question": "离境退税“即买即退”政策如何促进境外游客消费？",
+    "context": "用户查询：离境退税“即买即退”政策如何促进境外游客消费？\n\n相关认知图谱信息：\n概念节点：\n  - 游客\n  - 东西\n  - 40.2%\n  - 味道\n  - 美食\n  - 游客\n  - 次\n  - 推特\n  - 火枣\n  - 游客\n  - 古塞\n  - 入境\n  - 天\n  - 移民\n  - 消费\n  - 涨幅\n  - 消费\n  - 表现\n  - 消费\n  - 金\n  - 者\n  - 后面\n  - 标准\n  - 大刀\n  - 速览\n  - 4\n  - 部\n  - 消费\n  - 体制\n  - 政策\n  - I ICCCG\n\n概念间关系：\n  - 游客 -[RELATION_OPENIE]-> 东西\n  - 游客 -[RELATION_OPENIE]-> 40.2%\n  - 游客 -[RELATION_OPENIE]-> 味道\n  - 游客 -[RELATION_OPENIE]-> 美食\n  - 游客 -[RELATION_OPENIE]-> 次\n  - 游客 -[RELATION_OPENIE]-> 推特\n  - 火枣 -[RELATION_OPENIE]-> 游客\n  - 游客 -[RELATION_OPENIE]-> 推特\n  - 古塞 -[RELATION_OPENIE]-> 游客\n  - 入境 -[RELATION_OPENIE]-> 天\n  - 入境 -[RELATION_OPENIE]-> 移民\n  - 涨幅 -[RELATION_OPENIE]-> 消费\n  - 消费 -[RELATION_OPENIE]-> 表现\n  - 金 -[RELATION_OPENIE]-> 消费\n  - 者 -[RELATION_OPENIE]-> 消费\n  - 后面 -[RELATION_OPENIE]-> 消费\n  - 标准 -[RELATION_OPENIE]-> 消费\n  - 大刀 -[RELATION_OPENIE]-> 消费\n  - 速览 -[RELATION_OPENIE]-> 消费\n  - 4 -[RELATION_OPENIE]-> 消费\n  - 部 -[RELATION_OPENIE]-> 消费\n  - 体制 -[RELATION_OPENIE]-> 消费\n  - 政策 -[RELATION_OPENIE]-> 消费\n  - 政策 -[RELATION_OPENIE]-> 消费\n  - I ICCCG -[RELATION_OPENIE]-> 消费",
+    "answer": "根据您提供的认知图谱信息，我无法回答“离境退税‘即买即退’政策如何促进境外游客消费？”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：在您提供的图谱中，虽然存在“政策”和“消费”这两个概念节点，并且有一条“政策 -[RELATION_OPENIE]-> 消费”的关系，但这仅表明“政策”与“消费”在原始文本中被提及存在某种关联。图谱中**完全没有**提及“离境退税”、“即买即退”、“境外游客”或任何与退税机制、游客购物相关的具体信息。节点如“游客”主要与“东西”、“味道”、“美食”等关联，看似描述游客的一般活动，而非特定政策下的消费行为。\n\n2.  **推断**：由于图谱中缺乏与“离境退税”政策直接相关的任何概念、属性或关系，我无法基于这些信息进行任何合理的推断来解释该政策如何促进消费。任何关于“即买即退”能提升购物便利性、即时享受退税优惠从而刺激消费的阐述，都属于图谱之外的常识，根据规则不应添加。\n\n**结论**：图谱中没有与用户查询相关的信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7623710036277771,
+    "context_relevance": 0.7516380548477173,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "免签政策如何助力中国塑造开放自信的国际形象？",
+    "context": "用户查询：免签政策如何助力中国塑造开放自信的国际形象？\n\n相关认知图谱信息：\n概念节点：\n  - 免签\n  - 国家\n  - 小时\n  - 签证\n  - 那\n  - 签证\n  - 特朗普\n  - 签证\n  - P 星球\n  - 人\n  - 大道\n  - 局\n  - 国会\n  - 银行\n  - 签证\n  - 成\n  - 国策\n  - 高原\n  - 中方\n  - 评论\n  - 日\n  - 巴拿马\n  - 交涉\n  - 研究\n  - 方\n  - 中方\n  - 毒贩\n  - 死刑\n\n概念间关系：\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 免签 -[RELATION_OPENIE]-> 小时\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 特朗普 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> P 星球\n  - 人 -[RELATION_OPENIE]-> 签证\n  - 大道 -[RELATION_OPENIE]-> 签证\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 国会 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 银行\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 成\n  - 高原 -[RELATION_OPENIE]-> 国策\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 日\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 交涉\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 研究\n  - 中方 -[RELATION_OPENIE]-> 巴拿马\n  - 中方 -[RELATION_OPENIE]-> 方\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 评论\n  - 中方 -[RELATION_OPENIE]-> 毒贩\n  - 中方 -[RELATION_OPENIE]-> 死刑\n  - 中方 -[RELATION_OPENIE]-> 毒贩",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何直接关于“免签政策如何助力中国塑造开放自信的国际形象”的内容**。\n\n**分析如下：**\n\n1.  **来自上下文的信息提取**：\n    *   图谱中提到了“免签”这个概念，并显示它与“国家”和“小时”存在关系。这表明图谱可能包含了“免签”与某些国家或时长相关的信息片段。\n    *   图谱中频繁出现了“中方”这个概念，并显示它与“评论”、“交涉”、“研究”、“巴拿马”、“毒贩”、“死刑”等多个概念存在关系。这表明图谱可能包含了一些涉及中方立场或行动的信息。\n\n2.  **合理的推断**：\n    *   基于“免签”和“中方”这两个概念同时存在于图谱中，可以推断图谱的原始文本可能涉及中国的签证或出入境政策，以及中方的相关表态或行动。\n    *   然而，图谱中**完全没有**显示“免签”与“中方”之间存在任何直接关系，也没有出现“开放”、“自信”、“国际形象”等与用户问题直接相关的概念或关系。\n\n3.  **整合结论**：\n    *   由于图谱节点和关系极度零散、模糊，且关键概念缺失（如“开放”、“形象”等），**无法从当前图谱信息中推导出免签政策与中国国际形象塑造之间的任何关联**。\n    *   图谱内容看起来更像是从某些新闻报道或文件中提取的碎片化实体和关系，但缺乏组织性和明确的主题指向，不足以支撑对用户问题的解答。\n\n**最终回答**：图谱中没有与“免签政策助力中国塑造开放自信的国际形象”这一问题相关的信息。现有信息片段无法有效整合以回答该问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7324462532997131,
+    "context_relevance": 0.6872130632400513,
+    "multi_hop_score": 1.0,
+    "community_score": 0.5
+  },
+  {
+    "question": "外国游客对中国免签政策的普遍反馈是什么？",
+    "context": "用户查询：外国游客对中国免签政策的普遍反馈是什么？\n\n相关认知图谱信息：\n概念节点：\n  - 免签\n  - 国家\n  - 小时\n  - 免签\n  - 人\n  - 游客\n  - 东西\n  - 40.2%\n  - 味道\n  - 美食\n  - 护照\n  - 您\n  - 台\n  - 局\n  - 签证\n  - P 星球\n  - 大道\n  - 国会\n  - 银行\n  - 签证\n  - 成\n  - 特朗普\n  - 签证\n  - 成\n  - 签证\n  - 那\n\n概念间关系：\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 免签 -[RELATION_OPENIE]-> 小时\n  - 免签 -[RELATION_OPENIE]-> 国家\n  - 免签 -[RELATION_OPENIE]-> 人\n  - 游客 -[RELATION_OPENIE]-> 东西\n  - 游客 -[RELATION_OPENIE]-> 40.2%\n  - 游客 -[RELATION_OPENIE]-> 味道\n  - 游客 -[RELATION_OPENIE]-> 美食\n  - 护照 -[RELATION_OPENIE]-> 您\n  - 台 -[RELATION_OPENIE]-> 护照\n  - 局 -[RELATION_OPENIE]-> 护照\n  - 护照 -[RELATION_OPENIE]-> 您\n  - 签证 -[RELATION_OPENIE]-> P 星球\n  - 人 -[RELATION_OPENIE]-> 签证\n  - 大道 -[RELATION_OPENIE]-> 签证\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 国会 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 银行\n  - 局 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 成\n  - 特朗普 -[RELATION_OPENIE]-> 签证\n  - 签证 -[RELATION_OPENIE]-> 成\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证\n  - 那 -[RELATION_OPENIE]-> 签证",
+    "answer": "根据您提供的认知图谱信息，我无法回答“外国游客对中国免签政策的普遍反馈是什么”这个问题。\n\n**原因如下：**\n\n1.  **来自上下文的信息**：图谱中虽然包含“免签”、“游客”、“国家”等概念节点，以及“免签 -[RELATION_OPENIE]-> 国家”、“免签 -[RELATION_OPENIE]-> 人”等关系，但这些信息非常零散且不完整。它们仅表明“免签”与“国家”、“人”等概念存在某种关联，但完全没有涉及“外国游客”的“反馈”或“评价”内容。\n2.  **推断**：基于图谱中信息的性质和结构，我可以推断出：\n    *   该图谱可能并非专门针对“外国游客对中国免签政策的反馈”这一主题构建。\n    *   图谱中的关系（如 `-RELATION_OPENIE->`）可能提取自原始文本的开放信息，但当前呈现的节点和关系未能形成关于“游客反馈”的有效信息链。\n    *   图谱中出现的“游客”节点与“东西”、“40.2%”、“味道”、“美食”相关联，这可能暗示了与旅游体验（如购物、美食）相关的某些数据或描述，但与“免签政策”的直接反馈无关。\n\n**结论**：所提供的认知图谱中，**没有任何关于外国游客对中国免签政策的具体评价、感受或普遍反馈的信息**。因此，我无法根据这些信息生成答案。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7533685564994812,
+    "context_relevance": 0.7341886758804321,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]

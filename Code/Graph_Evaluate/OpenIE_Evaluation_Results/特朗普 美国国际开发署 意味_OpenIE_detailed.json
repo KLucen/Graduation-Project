@@ -1,0 +1,42 @@
+[
+  {
+    "question": "马斯克指控美国国际开发署（USAID）资助了哪些活动？",
+    "context": "用户查询：马斯克指控美国国际开发署（USAID）资助了哪些活动？\n\n相关认知图谱信息：\n概念节点：\n  - 马斯克赔\n  - 封号\n  - 马斯克赔特朗\n  - 金\n  - 马斯克搞\n  - 地震\n  - 美媒:马斯克\n  - 特朗普\n  - 马斯克?\n  - 特朗普\n  - 马斯克赔特朗普\n  - 纠纷\n  - 马斯克:\n  - 员\n  - 马斯克掀\n  - 风暴\n\n概念间关系：\n  - 马斯克赔 -[RELATION_OPENIE]-> 封号\n  - 马斯克赔特朗 -[RELATION_OPENIE]-> 金\n  - 马斯克搞 -[RELATION_OPENIE]-> 地震\n  - 美媒:马斯克 -[RELATION_OPENIE]-> 特朗普\n  - 特朗普 -[RELATION_OPENIE]-> 马斯克?\n  - 马斯克赔特朗普 -[RELATION_OPENIE]-> 纠纷\n  - 员 -[RELATION_OPENIE]-> 马斯克:\n  - 马斯克掀 -[RELATION_OPENIE]-> 风暴",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**关于“美国国际开发署（USAID）”或“资助”活动的概念节点或关系。\n\n**来自上下文的信息：**\n图谱中所有概念节点和关系均未提及“美国国际开发署（USAID）”或其资助的任何活动。图谱内容主要围绕“马斯克”、“特朗普”、“封号”、“纠纷”、“风暴”等概念及其之间的某些关系展开。\n\n**推断：**\n基于图谱中完全缺乏相关信息，可以推断：当前图谱中不存在与“马斯克指控美国国际开发署（USAID）资助了哪些活动”这一问题直接或间接相关的内容。\n\n**整合答案：**\n图谱中没有相关信息。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.6683439612388611,
+    "context_relevance": 0.7739496231079102,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "特朗普关闭美国国际开发署对全球援助项目有何影响？",
+    "context": "用户查询：特朗普关闭美国国际开发署对全球援助项目有何影响？\n\n相关认知图谱信息：\n概念节点：\n  - 后果特朗\n  - 他\n  - 施压特朗普\n  - 商人\n  - 从特朗普\n  - 时代\n  - 态度\n  - 特朗普想\n  - 后兵\n  - 特朗普提\n  - 计划\n  - 特朗普提\n  - 普京\n  - 而特朗普\n  - 重组\n  - 为特朗普\n  - 对比\n\n概念间关系：\n  - 他 -[RELATION_OPENIE]-> 后果特朗\n  - 施压特朗普 -[RELATION_OPENIE]-> 商人\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 从特朗普 -[RELATION_OPENIE]-> 态度\n  - 从特朗普 -[RELATION_OPENIE]-> 时代\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普想 -[RELATION_OPENIE]-> 后兵\n  - 特朗普提 -[RELATION_OPENIE]-> 计划\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 普京 -[RELATION_OPENIE]-> 特朗普提\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 而特朗普 -[RELATION_OPENIE]-> 重组\n  - 为特朗普 -[RELATION_OPENIE]-> 对比",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“特朗普关闭美国国际开发署（USAID）”或“全球援助项目”直接相关的概念节点或关系。\n\n**结论：**\n图谱中没有关于特朗普关闭美国国际开发署及其对全球援助项目影响的相关信息。因此，我无法根据所提供的图谱内容回答您的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7709490656852722,
+    "context_relevance": 0.7818186283111572,
+    "multi_hop_score": 1.0,
+    "community_score": 0.14285714285714285
+  },
+  {
+    "question": "美国退出联合国人权理事会对联合国其他机构的影响？",
+    "context": "用户查询：美国退出联合国人权理事会对联合国其他机构的影响？\n\n相关认知图谱信息：\n概念节点：\n  - 影响\n  - 利息\n  - 影响\n  - 发展\n  - 影响\n  - 改变\n  - 社\n  - 影响\n  - 消息\n  - 影响\n  - 那\n  - 企业\n  - 特朗普\n  - 意思\n  - 他\n  - 主义\n  - 影响\n  - 命令\n  - 3集\n  - 影响\n  - 典礼\n  - 特朗普\n  - 序幕\n  - 关税\n  - 上任\n  - 盟友\n  - 结果\n  - 言论\n  - 这\n  - 趋势\n  - 冲突\n  - 影响\n  - 业绩\n\n概念间关系：\n  - 利息 -[RELATION_OPENIE]-> 影响\n  - 发展 -[RELATION_OPENIE]-> 影响\n  - 改变 -[RELATION_OPENIE]-> 影响\n  - 社 -[RELATION_OPENIE]-> 影响\n  - 消息 -[RELATION_OPENIE]-> 影响\n  - 那 -[RELATION_OPENIE]-> 影响\n  - 企业 -[RELATION_OPENIE]-> 影响\n  - 特朗普 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 意思\n  - 他 -[RELATION_OPENIE]-> 影响\n  - 主义 -[RELATION_OPENIE]-> 影响\n  - 主义 -[RELATION_OPENIE]-> 影响\n  - 命令 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 3集\n  - 典礼 -[RELATION_OPENIE]-> 影响\n  - 特朗普 -[RELATION_OPENIE]-> 影响\n  - 序幕 -[RELATION_OPENIE]-> 影响\n  - 关税 -[RELATION_OPENIE]-> 影响\n  - 上任 -[RELATION_OPENIE]-> 影响\n  - 盟友 -[RELATION_OPENIE]-> 影响\n  - 结果 -[RELATION_OPENIE]-> 影响\n  - 言论 -[RELATION_OPENIE]-> 影响\n  - 这 -[RELATION_OPENIE]-> 影响\n  - 趋势 -[RELATION_OPENIE]-> 影响\n  - 趋势 -[RELATION_OPENIE]-> 影响\n  - 这 -[RELATION_OPENIE]-> 影响\n  - 冲突 -[RELATION_OPENIE]-> 影响\n  - 业绩 -[RELATION_OPENIE]-> 影响",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“美国退出联合国人权理事会”以及“联合国其他机构”直接相关的概念节点或关系。\n\n**结论：**\n图谱中没有相关信息可以用于回答您关于“美国退出联合国人权理事会对联合国其他机构的影响”的问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7228824496269226,
+    "context_relevance": 0.7459259629249573,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  },
+  {
+    "question": "美国国际开发署的解散对非政府组织（NGO）造成了什么影响？",
+    "context": "用户查询：美国国际开发署的解散对非政府组织（NGO）造成了什么影响？\n\n相关认知图谱信息：\n概念节点：\n  - 影响\n  - 发展\n  - 影响\n  - 改变\n  - 社\n  - 影响\n  - 消息\n  - 影响\n  - 事故\n  - 省\n  - 个\n  - 拉剧战\n  - 影响\n  - 生活\n  - 提高\n  - 影响\n  - 调整\n  - 个\n  - 影响\n  - 他\n  - 影响\n  - 业绩\n\n概念间关系：\n  - 发展 -[RELATION_OPENIE]-> 影响\n  - 改变 -[RELATION_OPENIE]-> 影响\n  - 社 -[RELATION_OPENIE]-> 影响\n  - 消息 -[RELATION_OPENIE]-> 影响\n  - 事故 -[RELATION_OPENIE]-> 影响\n  - 省 -[RELATION_OPENIE]-> 影响\n  - 个 -[RELATION_OPENIE]-> 影响\n  - 拉剧战 -[RELATION_OPENIE]-> 影响\n  - 影响 -[RELATION_OPENIE]-> 生活\n  - 提高 -[RELATION_OPENIE]-> 影响\n  - 调整 -[RELATION_OPENIE]-> 影响\n  - 个 -[RELATION_OPENIE]-> 影响\n  - 他 -[RELATION_OPENIE]-> 影响\n  - 业绩 -[RELATION_OPENIE]-> 影响",
+    "answer": "根据您提供的认知图谱信息，图谱中**没有任何**与“美国国际开发署的解散”或“非政府组织（NGO）”直接相关的概念节点或关系。\n\n因此，**图谱中没有相关信息**可以用于回答“美国国际开发署的解散对非政府组织（NGO）造成了什么影响？”这个问题。",
+    "faithfulness": 0.0,
+    "answer_relevance": 0.7673752903938293,
+    "context_relevance": 0.7988300919532776,
+    "multi_hop_score": 0.0,
+    "community_score": 0.0
+  }
+]
